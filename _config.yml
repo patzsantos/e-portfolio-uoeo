@@ -1,11 +1,11 @@
-title: John Doe # your name (or website title) here
-logo: "/images/logo.png?raw=true" # your photo (or logo) here
+title: PG Cert Computer Science e-Portfolio # your name (or website title) here
+logo: "/images/grey.jpeg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  First description 
+  Hi I'm Patz.
   <br><br>
-  Second description 
+  This is my e-Portfolio based on the work carried out in the PG Cert Computer Science programme of the University of Essex Online. 
   <br><br>
-  <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
+  <a href=""></a> 
   
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
