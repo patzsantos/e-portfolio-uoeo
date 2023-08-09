@@ -2,7 +2,7 @@
 
 ---
 
-### Module: Launching Into Computer Science
+### Module 1: Launching Into Computer Science
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 [Unit 1: Computing as a Profession – Responsibilities and Challenges ](/sample_page)
 ---
