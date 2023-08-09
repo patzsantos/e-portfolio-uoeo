@@ -1,17 +1,13 @@
-title: e-Portfolio # your name (or website title) here
-logo: "/images/grey.jpeg?raw=true" # your photo (or logo) here
+title: John Doe # your name (or website title) here
+logo: "/images/logo.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  Hi I'm Patricia from Manila.  
+  First description 
   <br><br>
-  This is my portfolio based on the work carried out
-  on the PG Cert Computer Science Program
-  at the University of Essex Online. 
+  Second description 
   <br><br>
-  remote_theme: pages-themes/minimal@v0.2.0
-<br><br>
+  <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
+  
+remote_theme: pages-themes/minimal@v0.2.0
 plugins:
-- jekyll-remote-theme 
-<br><br>
+- jekyll-remote-theme
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
-
-git revert 114bb431f1f7d8ab0f5ddce86ed47e07263f10f1
