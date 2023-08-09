@@ -1,11 +1,15 @@
-title: John Doe # your name (or website title) here
-logo: "/images/logo.png?raw=true" # your photo (or logo) here
+title: e-Portfolio # your name (or website title) here
+logo: "/images/grey.jpeg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  First description 
+  Hi I'm Patricia from Manila.  
   <br><br>
-  Second description 
+  This is my portfolio based on the work carried out
+  <br>
+  on the PG Cert Computer Science Program
+  <br> 
+  at the University of Essex Online. 
   <br><br>
-  <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
+
   
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
