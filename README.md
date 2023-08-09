@@ -8,4 +8,4 @@ This is my e-Portfolio based on the work carried out in the PG Cert Computer Sci
 
 ### Credits
 
-[Template](https://github.com/orderedlist/minimal).
+Minimal Theme by [orderedlist](https://github.com/orderedlist/minimal)
