@@ -1,19 +1,17 @@
-## Portfolio
+## e-Portfolio
 
 ---
 
-### Category Name 1 
-
-[Project 1 Title](/sample_page)
+### Module: Launching Into Computer Science
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
-
+[Unit 1: Computing as a Profession – Responsibilities and Challenges ](/sample_page)
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
 
 ---
 [Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
 
 ---
 
