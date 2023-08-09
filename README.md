@@ -8,4 +8,5 @@ This is my e-Portfolio based on the work carried out in the PG Cert Computer Sci
 
 ### Credits
 
-Theme by [orderedlist](https://github.com/orderedlist/minimal)
+-Theme by [orderedlist](https://github.com/orderedlist/minimal)
+-Module 1 Image by [pikisuperstar](https://www.freepik.com/free-vector/isometric-people-working-with-technology_5083803.htm#query=computer%20science&position=11&from_view=search&track=ais") on Freepik
