@@ -12,7 +12,7 @@
 
 
 ---
-[Project 3 Title](http://example.com/)
+[Project 3 Title](/lcs.html)
 
 
 ---
