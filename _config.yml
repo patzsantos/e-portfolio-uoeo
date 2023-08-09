@@ -13,3 +13,5 @@ plugins:
 - jekyll-remote-theme 
 <br><br>
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
+
+git revert 114bb431f1f7d8ab0f5ddce86ed47e07263f10f1
