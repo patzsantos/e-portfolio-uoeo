@@ -5,7 +5,7 @@ description: > # your text below (remove <br> elements if you don't need line br
   <br><br>
   This is my e-Portfolio based on the work carried out in the PG Cert Computer Science programme of the University of Essex Online. 
   <br><br>
-  <a href=""></a> 
+  
   
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
