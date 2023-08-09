@@ -10,4 +10,4 @@ This is my e-Portfolio based on the work carried out in the PG Cert Computer Sci
 
 -Theme by [orderedlist](https://github.com/orderedlist/minimal)
 <br>
--Module 1 Image by [pikisuperstar](https://www.freepik.com/free-vector/isometric-people-working-with-technology_5083803.htm#query=computer%20science&position=11&from_view=search&track=ais") on Freepik
+-Module 1 Image by [storyset](https://www.freepik.com/free-vector/modern-desktop-compute-concept-illustration_32318414.htm#query=computer&position=0&from_view=author") on Freepikk
