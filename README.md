@@ -2,7 +2,7 @@
 
 ### Hello
 
-I'm Patricia. This is the link to my [e-Portfolio] (https://patzsantos.github.io/e-portfolio-uoeo/#).
+I'm Patricia. This is the link to my e-Portfolio [https://patzsantos.github.io/e-portfolio-uoeo/#].
 <br>
 <a href="https://online.essex.ac.uk/#> University of Essex Online </a> is the course creator. 
 ___
