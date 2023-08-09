@@ -1,13 +1,10 @@
-## PG Cert Computer Science e-PortfolioDeveloper Portfolio Landing Page Template
+## Welcome to my e-Portfolio
 
-### Hello
+### Introduction
 
-I'm Patricia. This is the link to my e-Portfolio [https://patzsantos.github.io/e-portfolio-uoeo/#].
-<br>
-<a href="https://online.essex.ac.uk/#> University of Essex Online </a> is the course creator. 
-___
+Hi I'm Patricia from Manila. 
+This is my e-Portfolio based on the work carried out in the PG Cert Computer Science programme of the [University of Essex Online](https://online.essex.ac.uk/https://online.essex.ac.uk/).
 
 ### Credits
 
-<br> Theme by <a href="https://github.com/orderedlist"> <orderedlist>
-
+[Template] (https://github.com/orderedlist/minimal).
