@@ -5,7 +5,7 @@
 ### Module 1: Launching Into Computer Science
 <img src="images/module1.jpg?raw=true"/>
 
-[Unit 1: Computing as a Profession – Responsibilities and Challenges](/README)
+[Unit 1: Computing as a Profession – Responsibilities and Challenges]([/README](https://docs.google.com/presentation/d/1ZrOQETD58FvxdmDtbrbRyzXbOOv-H6iO5jQxZva4d-s/edit?usp=sharing))
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
