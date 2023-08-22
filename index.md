@@ -8,11 +8,11 @@
 [Unit 1: Computing as a Profession – Responsibilities and Challenges](https://docs.google.com/presentation/d/1ZrOQETD58FvxdmDtbrbRyzXbOOv-H6iO5jQxZva4d-s/edit?usp=sharing)
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
+[Unit 2: Introdution to Computer Architecture and Functionality]([/pdf/sample_presentation.pdf](https://docs.google.com/presentation/d/1dvrzpo6pdEJvzkUwAGYwsG1hs1VPS3EK0Xp8bVxXElc/edit?usp=sharing))
 
 
 ---
-[Project 3 Title](/lcs.html)
+[Unit 3: Emerging Trends in Computer Science](/lcs.html)
 
 
 ---
