@@ -9,7 +9,7 @@
 
 ---
 [Unit 2: Introduction to Computer Architecture and Functionality
-(https://docs.google.com/presentation/d/1dvrzpo6pdEJvzkUwAGYwsG1hs1VPS3EK0Xp8bVxXElc/edit?usp=sharing))
+(https://docs.google.com/presentation/d/1dvrzpo6pdEJvzkUwAGYwsG1hs1VPS3EK0Xp8bVxXElc/edit?usp=sharing)
 
 
 ---
