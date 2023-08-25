@@ -12,10 +12,10 @@
 
 ---
 [Unit 3: Emerging Trends in Computer Science]
-(https://docs.google.com/document/d/1wQSG9B9wfPqOWImo1pHwIFYnseMzpHDDqPHJA5gY8I0/edit?usp=sharing)
+(https://docs.google.com/presentation/d/1H6C_Y5luFKpfMtFBWsrAN18tuLMAOuO_LjlVNb1xcNc/edit?usp=sharing)
 
 [Unit 4: Computing Infrastructure and Network]
-(https://docs.google.com/document/d/1wQSG9B9wfPqOWImo1pHwIFYnseMzpHDDqPHJA5gY8I0/edit?usp=sharing)
+()
 
 ---
 
