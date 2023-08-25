@@ -11,8 +11,11 @@
 [Unit 2: Introduction to Computer Architecture and Functionality](https://docs.google.com/presentation/d/1dvrzpo6pdEJvzkUwAGYwsG1hs1VPS3EK0Xp8bVxXElc/edit?usp=sharing)
 
 ---
-[Unit 3: Emerging Trends in Computer Science](/lcs.html)
+[Unit 3: Emerging Trends in Computer Science]
+(https://docs.google.com/document/d/1wQSG9B9wfPqOWImo1pHwIFYnseMzpHDDqPHJA5gY8I0/edit?usp=sharing)
 
+[Unit 4: Computing Infrastructure and Network]
+(https://docs.google.com/document/d/1wQSG9B9wfPqOWImo1pHwIFYnseMzpHDDqPHJA5gY8I0/edit?usp=sharing)
 
 ---
 
