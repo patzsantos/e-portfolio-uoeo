@@ -13,8 +13,7 @@
 ---
 [Unit 3: Emerging Trends in Computer Science](https://docs.google.com/presentation/d/1H6C_Y5luFKpfMtFBWsrAN18tuLMAOuO_LjlVNb1xcNc/edit?usp=sharing)
 
-[Unit 4: Computing Infrastructure and Network]
-()
+[Unit 4: Computing Infrastructure and Network-soon] 
 
 ---
 
