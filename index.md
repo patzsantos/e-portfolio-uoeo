@@ -21,7 +21,7 @@
 [Unit 5: Software as a Tool- Its Functionality and Development Methodologies](https://docs.google.com/presentation/d/1M5CtaPZQhBVKJagz_7z4lBubbxBS3bZwG1-n8T74CYk/edit?usp=sharing)
 
 ---
-[Unit 6: System Software- Operating Systems]([https://docs.google.com/presentation/d/11Nuiqw_xDC2vwc3VE11b0gPe-TWAow105MgJHFUwKUQ/edit?usp=sharing)
+[Unit 6: System Software- Operating Systems](https://docs.google.com/presentation/d/11Nuiqw_xDC2vwc3VE11b0gPe-TWAow105MgJHFUwKUQ/edit?usp=sharing)
 
 ---
 [Unit 7: Data Abstraction](https://docs.google.com/presentation/d/1F2xK9TdefZ9sOw44Mhig7vlpAexDBXpSg2sx75DSLbQ/edit?usp=sharing)
