@@ -15,13 +15,18 @@
 
 ---
 
-[Unit 4: Computing Infrastructure and Network](https://docs.google.com/presentation/d/1stpruLCOnHdUgM5i46XuxA8eaUHGZ2cul82CWj1CGgg/edit#slide=id.g1f87997393_0_821) 
+[Unit 4: Computing Infrastructure and Network](https://docs.google.com/presentation/d/1stpruLCOnHdUgM5i46XuxA8eaUHGZ2cul82CWj1CGgg/edit?usp=sharing) 
 
 ---
-[Unit 5:Software as a Tool- Its Functionality and Development Methodologies]
+[Unit 5: Software as a Tool- Its Functionality and Development Methodologies](https://docs.google.com/presentation/d/1M5CtaPZQhBVKJagz_7z4lBubbxBS3bZwG1-n8T74CYk/edit?usp=sharing)
 
 ---
+[Unit 6: System Software- Operating Systems]([https://docs.google.com/presentation/d/11Nuiqw_xDC2vwc3VE11b0gPe-TWAow105MgJHFUwKUQ/edit?usp=sharing)
 
+---
+[Unit 7: Data Abstraction]([https://docs.google.com/presentation/d/1F2xK9TdefZ9sOw44Mhig7vlpAexDBXpSg2sx75DSLbQ/edit?usp=sharing)
+
+---
 ### Category Name 2
 
 - [Project 1 Title](http://example.com/)
