@@ -17,7 +17,5 @@ Persons = [p1, p2, p3, p4, p5]
 for i in Persons:
     print(i.first_name)
 
-# Reference:
-# Google for Education(2023) Python Lists.
-# Available from: https://developers.google.com/edu/python/lists
-# [Accessed 22 November 2023]
+/*Reference:
+Google for Education(2023) Python Lists. Available from: https://developers.google.com/edu/python/list [Accessed 22 November 2023]. */
