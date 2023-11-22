@@ -124,12 +124,12 @@ def main():
 if __name__ == '__main__':
     main()
 
-# References
+/* References
 
-#	AbhishekMali21 (2019) CHAPTER 15- exercises.ipynb. Available from:
-#	https://github.com/AbhishekMali21/PYTHON-FOR-EVERYBODY/blob/master/CHAPTER%2015%20-%20exercises.ipynb
-#	[Accessed 21 November 2023].
+AbhishekMali21 (2019) CHAPTER 15- exercises.ipynb. Available from:
+https://github.com/AbhishekMali21/PYTHON-FOR-EVERYBODY/blob/master/CHAPTER%2015%20-%20exercises.ipynb
+[Accessed 21 November 2023].
 
-#	R-D-View (2022) Point1.py. Available from:
-#   https://github.com/R-D-Vie/PythonPractice_OOIS/blob/main/Classes_Objects/Point1.py
-#   [Accessed 21 November 2023].
+R-D-View (2022) Point1.py. Available from:
+https://github.com/R-D-Vie/PythonPractice_OOIS/blob/main/Classes_Objects/Point1.py
+[Accessed 21 November 2023]. */
