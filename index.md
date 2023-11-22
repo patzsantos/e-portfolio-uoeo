@@ -2,7 +2,7 @@
 
 ---
 ### Module 2: Object-Oriented Programming
-<img src="
+<img src="images/module2.jpg?raw=true"/>
 ---
 
 ### Module 1: Launching Into Computer Science
