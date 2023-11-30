@@ -8,17 +8,21 @@
 ### Module 1: Launching Into Computer Science
 <img src="images/module1.jpg?raw=true"/>
 
-[Assignment 1 Part 1](soon)
-
----
-[Assignment 1 Part 2](soon)
-
----
-[Assignment 1 Part 3](soon)
+[End of Module Draft](https://drive.google.com/file/d/1yMo1A3gESfd7zsHZJ1Oe_LR7PXWVKDyc/view?usp=sharing)
 
 ---
 
-[End of Module Assignment](soon) 
+[Assignment 1 Part 1](https://drive.google.com/file/d/1HZysLOc_AV-bA7IYnXywyRzD6RlPSCzp/view?usp=sharing)
+
+---
+[Assignment 1 Part 2](https://drive.google.com/drive/u/1/folders/1hrQueaqJ3Avscol4ITauaVOsQSQgExwq)
+
+---
+[Assignment 1 Part 3](https://drive.google.com/drive/u/1/folders/1aVDXg9XJY91EYSW17hfViTLzIlINC3FD)
+
+---
+
+[End of Module Assignment](https://drive.google.com/file/d/1IKoasOGZsdKntwyFnfYc9nTeRiLENo2C/view?usp=sharing) 
 
 
 ### Category Name 2
