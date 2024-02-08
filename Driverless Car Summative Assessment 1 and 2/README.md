@@ -13,7 +13,7 @@ Welcome to the 7D Driverless Car! This is a system implementation of code design
 **3.) Vehicle to Infrastructure Communication (V2I)**- This varies from the design proposal. Instead of LiDAR, car cameras will be used to decipher traffic signs and traffic lights. Initially, V2I only relayed real time data, and traffic lights and signs were functions in environment perception. However, it has been decided to move them here since V2I involves communication between vehciles and infrastructures. 
 
 ## Data Structures
-Data structures used in the code include queue, dictionary, and lists. Please see [Executing the Code section]([link)](https://github.com/patzsantos/e-portfolio-uoeo/edit/module2/oop/Driverless%20Car%20Summative%20Assessment%201%20and%202/README.md#car-operations) for their detailed use.
+Data structures used in the code include queue, dictionary, and lists. Please see [Executing the Code section]([[link)](https://github.com/patzsantos/e-portfolio-uoeo/blob/module2/oop/Driverless%20Car%20Summative%20Assessment%201%20and%202/README.md#running-the-program)] for their detailed use.
 
 ## Purpose
 This is the first and second Summative Assessment requirement for the Object-Oriented Programming module offered by University of Essex Online.
