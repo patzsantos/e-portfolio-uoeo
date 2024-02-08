@@ -32,4 +32,8 @@ The code for each operation is separated, for better organization. The codes are
 
 A corresponding unittest for each car operation was also developed in order to test whether code is working as desired. Assert statements are embedded in them as well. 
 
+## Credits
+I was inspired by [this](link) to organize the file folders in Github. 
+[cameron](link) from discuss.python.org was also helpful in developing my code. 
+
 
