@@ -1,5 +1,4 @@
 layout: page
-title: "try"
-permalink: /try
+title: "PAGE-TITLE"
+permalink: /URL-PATH
 
-it shocks!
