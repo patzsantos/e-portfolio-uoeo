@@ -23,25 +23,21 @@ The code was written on ***PyCharm*** and runs on ***Python 3.11*** in the ***Co
 
 Each car operation, including login, are stored in separate Python files for clarity and organisation together with their corresponding test files are stored in and can be accessed from the **Car Operations** folder.
 
-***User Login:***
-- Open the **login.py** file
+***User Login:*** __Open the **login.py** file__
 - When you run the code, your login will only be authorised if your input is the administrator credential as they are currently the only ones with access to the system.
 - Pressing 1 will start the car, pressing 2 will stop it. 
 
-***For Car Control:***
-- Open the **car_control.py** file
+***For Car Control:*** _Open the **car_control.py*__
 - ***Steering:*** The car can steer to the left or right direction. In the system, the steering angle is measured by radians. 1-89 degrees indicates steering towards the right, while 90-179 degrees means steering towards the left.
 - ***Acceleration:*** A value of 120 km/h has been set as the maximum speed value. Therefore, the car can accelerate while the speed is below that. The car will automatically brake if maximum speed has been reached.
 - ***Braking:*** Car will halt until its velocity falls to 0 km/h. 
 
-***For Environment Perception:***
-- Open the **perception.py** file
+***For Environment Perception:*** _Open the **perception.py**_
 - ***Mapping:*** The GPS updates the city and country where the car is currently running.
 - ***Avoid object:*** The LiDAR sensor detects objects, and warns the car to avoid it once it is less than 10 meters away. The objects will be listed in a _queue,_ and eventually appended once they are avoided.
 - ***Lane marking:*** The LiDAR senses lane markings on the road and makes sure that the car is driving within the lanes. 
 
-***For V2I:***
-- Open the **vtoi.py** file
+***For V2I:*** _Open the **vtoi.py** file_
 - ***Decipher traffic signs:*** The camera will interpret traffic signs and tell the car what to do. Pre-stored signs are stored in a _list._
 - ***Decipher traffic lights:*** The camera will interpret traffic lights and tell the car what to do. Pre-stored lights are stored as a _dictionary._
   
