@@ -2,7 +2,7 @@
 Welcome to the 7D Driverless Car System! This is a system implementation of code designed to support the operation of a driverless car based on [this](link) system design proposal. During the development process, it has been decided that driverless car will be named **7D Driverless Car System**, or **7D**
 
 ## Car Operations
-7D can only start running if an authorized user starts it. That user also has the capability to stop the car. After an authorized user starts the driverless car, it can then function autonomously. 
+7D can only start running if an authorised user starts it. That user also has the capability to stop the car. After an authorised user starts the driverless car, it can then function autonomously. 
 
 The three main operations of 7D are: 
 
@@ -27,13 +27,32 @@ The second part of the assessment, which is [System Impelementation](link), requ
 ## Running the Program 
 The code was written on PyCharm and runs on Python 3.11 in the Conda environment. 
 
-## Testing the Program
-The code for each operation is separated, for better organization. The codes are embedded with assert statements in order to aid in debugging during the development stage. 
+### Executing the code
+Each car operation, including login, are stored in separate python files for clarity and organisation. 
+All of these files are stored in the 7D System Folder. Open the folder and access the files from there. 
 
-A corresponding unittest for each car operation was also developed in order to test whether code is working as desired. Assert statements are embedded in them as well. 
+For User Login: 
+- Open the login.py file 
+
+For Car Control: 
+- Open the car_control.py file
+
+For Environment Perception: 
+- Open the perception.py file
+
+For V2I: 
+- Open the vtoi.py file
+- 
+
+## Testing the Program
+The code for each operation is separated, for better organisation. The codes are embedded with assert statements in order to aid in debugging during the development stage. 
+
+A corresponding unittest for each car operation was also developed in order to test whether code is working as desired. Assert statements are embedded in them as well. All you have to do is open the test files. They are named with "(car operation)_test.py" accordingly. 
+
+All tests ran successfully. You can check them yourself by importing unittest in your IDE. 
 
 ## Credits
-I was inspired by [this](link) to organize the file folders in Github. 
+I was inspired by [this](link) to organise the file folders in Github. 
 [cameron](link) from discuss.python.org was also helpful in developing my code. 
 
 
