@@ -1,21 +1,29 @@
-## Portfolio
+## e-Portfolio
+
+---
+### Module 2: Object-Oriented Programming
+<img src="images/module2.jpg?raw=true"/>
+---
+
+### Module 1: Launching Into Computer Science
+<img src="images/module1.jpg?raw=true"/>
+
+[End of Module Draft](https://drive.google.com/file/d/1yMo1A3gESfd7zsHZJ1Oe_LR7PXWVKDyc/view?usp=sharing)
 
 ---
 
-### Category Name 1 
-
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Assignment 1 Part 1](https://drive.google.com/file/d/1HZysLOc_AV-bA7IYnXywyRzD6RlPSCzp/view?usp=sharing)
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Assignment 1 Part 2](https://drive.google.com/drive/u/1/folders/1hrQueaqJ3Avscol4ITauaVOsQSQgExwq)
 
 ---
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Assignment 1 Part 3](https://drive.google.com/drive/u/1/folders/1aVDXg9XJY91EYSW17hfViTLzIlINC3FD)
 
 ---
+
+[End of Module Assignment](https://drive.google.com/file/d/1IKoasOGZsdKntwyFnfYc9nTeRiLENo2C/view?usp=sharing) 
+
 
 ### Category Name 2
 
