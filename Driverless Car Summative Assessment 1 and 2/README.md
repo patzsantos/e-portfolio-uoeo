@@ -6,10 +6,12 @@ Welcome to the 7D Driverless Car System! This is a system implementation of code
 
 The three main operations of 7D are: 
 
-1.) Car Control- covers the main movement of the car. 
-The car can steer, accelerate, and brake. 
+1.) Car Control- covers the main movement of the car. The car can steer, accelerate, and brake. 
 
-2.) Environment Perception- uses GPS and Light 
+2.) Environment Perception- uses GPS and Light Detection and Ranging (LiDAR) hardware to inform the car about its surroundings. 
+The GPS updates the current location of the car, while LiDAR detects objects around the car aids in preventing collision accidents. 
+
+3.) Vehicle to Infrastructure Communication (V2I)- This has been improved from the design proposal. A camera will be used to decipher traffic signs and traffic lights, and will inform the car what corresponding action to do. 
 
 
 
