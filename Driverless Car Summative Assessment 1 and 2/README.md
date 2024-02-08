@@ -1,5 +1,5 @@
 # 7D Driverless Car System
-Welcome to the 7D Driverless Car System! This is a system implementation of code designed to support the operation of a driverless car based on [this](link) system design proposal. During the development process, it has been decided that driverless car will be named **7D Driverless Car System**, or **7D**
+Welcome to the 7D Driverless Car System! This is a system implementation of code designed to support the operation of a driverless car based on [this](link) system design proposal. During the development process, it has been decided that driverless car will be named **7D Driverless Car System**.
 
 ## Car Operations
 7D can only start running if an authorised user starts it. That user also has the capability to stop the car. After an authorised user starts the driverless car, it can then function autonomously. 
@@ -40,20 +40,25 @@ For Car Control:
 - Open the car_control.py file
 - Steering: You can check which direction the car is steering towards, whether left or right, by placing a steering angle. In the system, the steering angle is measured by radians. You can only input 1-179 degrees. 1-89 indicates steering towards the right, while 90-179 means steering towards the left.
 - Acceleration: A value of 120 km/h has been set as the maximum speed. Therefore, the car can accelerate if the speed is below that. The car will automatically brake if maximum speed has been reached.
-- Braking: 
+- Braking: Car will halt until it reaches a speed of 0 km/h. 
 
 For Environment Perception: 
 - Open the perception.py file
+- Mapping: The GPS will be used to update the current city and country where the car is running.
+- Avoid object: The LiDAR sensor will detect objects, and warn the car to avoid it if it is less than 10 meters away. The objects will be appended once they are avoided.
+- Lane marking: The LiDAR well detect whether the car is driving within lane markings on the road.
 
 For V2I: 
 - Open the vtoi.py file
-
+- Decipher traffic signs: The camera will interpret traffic signs and tell the car what to do. Pre-stored signs are stored in a list.
+- Decipher traffic lights: The camera will interpret traffic lights and tell the car what to do. Pre-stored lights are stored as a dictionary.
+  
 ## Testing the Program
 The code for each operation is separated, for better organisation. The codes are embedded with assert statements in order to aid in debugging during the development stage. 
 
 A corresponding unittest for each car operation was also developed in order to test whether code is working as desired. Assert statements are embedded in them as well. All you have to do is open the test files. They are named with "(car operation)_test.py" accordingly. 
 
-All tests ran successfully. You can check them yourself by importing unittest in your IDE. 
+All tests ran successfully. You can check them by importing unittest in your IDE. 
 
 ## Credits
 I was inspired by [this](link) to organise the file folders in Github. 
