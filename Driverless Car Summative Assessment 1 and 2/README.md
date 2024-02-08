@@ -32,17 +32,21 @@ Each car operation, including login, are stored in separate python files for cla
 All of these files are stored in the 7D System Folder. Open the folder and access the files from there. 
 
 For User Login: 
-- Open the login.py file 
+- Open the login.py file
+- When you run the code, your login will only be authorised if your input is the administrator credentials. So far, only the administrator can run the code.
+- Pressing 1 will start the car, pressing 2 will stop it. 
 
 For Car Control: 
 - Open the car_control.py file
+- Steering: You can check which direction the car is steering towards, whether left or right, by placing a steering angle. In the system, the steering angle is measured by radians. You can only input 1-179 degrees. 1-89 indicates steering towards the right, while 90-179 means steering towards the left.
+- Acceleration: A value of 120 km/h has been set as the maximum speed. Therefore, the car can accelerate if the speed is below that. The car will automatically brake if maximum speed has been reached.
+- Braking: 
 
 For Environment Perception: 
 - Open the perception.py file
 
 For V2I: 
 - Open the vtoi.py file
-- 
 
 ## Testing the Program
 The code for each operation is separated, for better organisation. The codes are embedded with assert statements in order to aid in debugging during the development stage. 
