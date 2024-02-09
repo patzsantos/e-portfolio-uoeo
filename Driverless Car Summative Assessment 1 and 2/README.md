@@ -18,7 +18,6 @@ The first summative assessment is a [Driverless Car System Design Proposal](http
 **3.) Vehicle to Infrastructure Communication (V2I)**- This operation is updated from the design proposal where initially, V2I only relayed real time data and deciphering traffic lights and signs were functions in Environment Perception. Now, cameras will be used to decipher traffic signs and traffic lights instead of LiDAR.
 
 ## Executing the code
-
 The code was written on ***PyCharm*** and runs on ***Python 3.11*** in the ***Conda*** environment. 
 
 Each car operation, including login, are stored in separate Python files for clarity and organisation together with their corresponding test files are stored in and can be accessed from the [**Car Operations**](https://github.com/patzsantos/e-portfolio-uoeo/tree/0cd367089f5d7937df9a7518871785269ccb4f5f/Driverless%20Car%20Summative%20Assessment%201%20and%202/Car%20Operations) folder.
@@ -49,5 +48,5 @@ A corresponding **unittest** for each car operation was executed in order to tes
 All tests ran successfully.
 
 ## Credits
-I was inspired by how [turbits]((https://github.com/turbits/essex-m2a2/tree/main) organised the file folders in his Github. 
-[Cameron Simpson]((https://discuss.python.org/u/cameron/summary) from discuss.python.org(https://discuss.python.org/) guided me through the development of the code.
+A big thank you to [Cameron Simpson](https://discuss.python.org/u/cameron/summary) from discuss.python.org(https://discuss.python.org/) who guided me through the development of the code. 
+I was inspired by how [turbits](https://github.com/turbits/essex-m2a2/tree/main) organised the file folders in his Github. 
