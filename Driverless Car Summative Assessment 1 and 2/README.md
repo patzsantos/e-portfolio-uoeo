@@ -48,5 +48,5 @@ A corresponding **unittest** for each car operation was executed in order to tes
 All tests ran successfully.
 
 ## Credits
-A big thank you to [Cameron Simpson](https://discuss.python.org/u/cameron/summary) from discuss.python.org(https://discuss.python.org/) who guided me through the development of the code. 
+A big thank you to [Cameron Simpson](https://discuss.python.org/u/cameron/summary) from [discuss.python.org](https://discuss.python.org/) who guided me through the development of the code. 
 I was inspired by how [turbits](https://github.com/turbits/essex-m2a2/tree/main) organised the file folders in his Github. 
