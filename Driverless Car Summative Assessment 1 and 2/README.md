@@ -1,5 +1,5 @@
 # 7D Driverless Car System
-Welcome to the 7D Driverless Car! This is the system implementation of code designed to support the operation of a driverless car based on [this](link) system design proposal.
+Welcome to the 7D Driverless Car! This is the system implementation of code designed to support the operation of a driverless car.
 
 ## Car Operations
 7D can only start running autonomously only if an authorised user starts it from the front end. That user also has the capability to stop the car. 
@@ -15,7 +15,7 @@ Welcome to the 7D Driverless Car! This is the system implementation of code desi
 ## Purpose
 This is the first and second Summative Assessment requirement for the Object-Oriented Programming module offered by University of Essex Online.
 
-The first summative assessment is a [Driverless Car Design Proposal[(link) represented by UML models. The second part of the assessment, is the [System Impelementation](link), which requires code that executes and tests the autonomous car. 
+The first summative assessment is a [Driverless Car System Design Proposal]((https://github.com/patzsantos/e-portfolio-uoeo/blob/0cd367089f5d7937df9a7518871785269ccb4f5f/Driverless%20Car%20Summative%20Assessment%201%20and%202/System%20Design%20Proposal/OOP%20Assignment%201_%20A%20Design%20Proposal%20of%20Software%20to%20Support%20Operation%20of%20a%20Driverless%20Car.pdf)) represented by Unified Modeling Language (UML) models. The second part of the assessment is the [System Impelementation](https://github.com/patzsantos/e-portfolio-uoeo/tree/0cd367089f5d7937df9a7518871785269ccb4f5f/Driverless%20Car%20Summative%20Assessment%201%20and%202)), which requires code that executes and tests the autonomous car. 
 
 ## Executing the code
 
@@ -49,5 +49,5 @@ A corresponding **unittest** for each car operation was executed in order to tes
 All tests ran successfully.
 
 ## Credits
-I was inspired by [this](link) to organise the file folders in Github. 
-[cameron](link) from discuss.python.org was also helpful in developing my code. 
+I was inspired by how [turbits]((https://github.com/turbits/essex-m2a2/tree/main) organised the file folders in his Github. 
+[Cameron Simpson]((https://discuss.python.org/u/cameron/summary) from discuss.python.org(https://discuss.python.org/) guided me through the development of the code.
