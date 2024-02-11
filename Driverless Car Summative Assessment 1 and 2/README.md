@@ -28,7 +28,7 @@ Each car operation, together with their corresponding test files, are stored in 
 
 ***For Car Control:*** _Open **car_control.py**__
 - ***Steering:*** The car can steer to the left or right direction. In the system, the steering angle is measured by radians. 1-89 degrees indicates steering towards the right, while 90-179 degrees means steering towards the left.
-- ***Acceleration:*** A value of 120 km/h has been set as the maximum speed value. Therefore, the car can accelerate while the speed is below that. The car will automatically brake if maximum speed has been reached.
+- ***Acceleration:*** A value of 120 km/h has been set as the maximum speed value. Therefore, the car can accelerate while the speed is below that. The car will automatically brake once the maximum speed has been reached.
 - ***Braking:*** Car will halt until its velocity falls to 0 km/h. 
 
 ***For Environment Perception:*** _Open **perception.py**_
