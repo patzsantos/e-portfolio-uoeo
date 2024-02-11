@@ -20,7 +20,7 @@ The first summative assessment is a [Driverless Car System Design Proposal](http
 ## Executing the code
 The code was written on ***PyCharm*** and runs on ***Python 3.11*** in the ***Conda*** environment. 
 
-Each car operation, together with their corresponding test files, are stored in and can be accessed from the [**Car Operations**] (https://github.com/patzsantos/e-portfolio-uoeo/tree/module2/oop/Driverless%20Car%20Summative%20Assessment%201%20and%202/Car%20Operations) folder.
+Each car operation, together with their corresponding test files, are stored in and can be accessed from the [**Car Operations**](https://github.com/patzsantos/e-portfolio-uoeo/tree/module2/oop/Driverless%20Car%20Summative%20Assessment%201%20and%202/Car%20Operations) folder.
 
 ***For User Login:*** _Open **login.py** file_
 - When you run the code, your login will only be authorised if your input is the administrator credential as they are currently the only ones with access to the system.
