@@ -2,7 +2,7 @@
 Welcome to the 7D Driverless Car! This is the system implementation of code designed to support the operation of a driverless car.
 
 ## Purpose
-This is the first and second Summative Assessment requirement for the Object-Oriented Programming module offered by University of Essex Online.
+This is the first and second Summative Assessment requirement for the Object-Oriented Programming module in the PG Certificate in Computer Science Course offered by the University of Essex Online.
 
 The first summative assessment is a [Driverless Car System Design Proposal](https://github.com/patzsantos/e-portfolio-uoeo/blob/0cd367089f5d7937df9a7518871785269ccb4f5f/Driverless%20Car%20Summative%20Assessment%201%20and%202/System%20Design%20Proposal/OOP%20Assignment%201_%20A%20Design%20Proposal%20of%20Software%20to%20Support%20Operation%20of%20a%20Driverless%20Car.pdf) represented by Unified Modeling Language (UML) models. The second part of the assessment is the [System Implementation](https://github.com/patzsantos/e-portfolio-uoeo/tree/0cd367089f5d7937df9a7518871785269ccb4f5f/Driverless%20Car%20Summative%20Assessment%201%20and%202), which requires code that executes and tests the autonomous car. 
 
