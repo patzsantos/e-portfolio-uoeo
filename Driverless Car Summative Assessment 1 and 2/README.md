@@ -45,7 +45,7 @@ The codes are embedded with **assert statements** in order to aid in debugging d
 
 A corresponding **unittest** for each car operation was executed in order to test whether code is working as desired. They are named with **"(car operation name)_test.py"** accordingly. 
 
-All tests ran successfully.
+All tests ran successfully. Proofs can be found in the [unittest Screenshots](https://github.com/patzsantos/e-portfolio-uoeo/tree/module2/oop/Driverless%20Car%20Summative%20Assessment%201%20and%202/unittest%20Screenshots) folder. 
 
 ## Credits
 A big thank you to [Cameron Simpson](https://discuss.python.org/u/cameron/summary) from [discuss.python.org](https://discuss.python.org/) who guided me through the development of the code. 
