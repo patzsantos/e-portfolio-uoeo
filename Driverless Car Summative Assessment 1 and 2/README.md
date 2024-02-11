@@ -29,7 +29,7 @@ Each car operation, together with their corresponding test files, are stored in 
 ***For Car Control:*** _Open **car_control.py**__
 - ***Steering:*** The car can steer to the left or right direction. In the system, the steering angle is measured by radians. 1-89 degrees indicates steering towards the right, while 90-179 degrees means steering towards the left.
 - ***Acceleration:*** A value of 120 km/h has been set as the maximum speed value. Therefore, the car can accelerate while the speed is below that. The car will automatically brake once the maximum speed has been reached.
-- ***Braking:*** Car will halt until its velocity falls to 0 km/h. 
+- ***Braking:*** The car will halt until its velocity falls to 0 km/h. 
 
 ***For Environment Perception:*** _Open **perception.py**_
 - ***Mapping:*** The GPS updates the city and country where the car is currently running.
@@ -37,8 +37,8 @@ Each car operation, together with their corresponding test files, are stored in 
 - ***Lane marking:*** The LiDAR senses lane markings on the road and makes sure that the car is driving within the lanes. 
 
 ***For V2I:*** _Open **vtoi.py** file_
-- ***Decipher traffic signs:*** The camera will interpret traffic signs and tell the car what to do. Pre-stored signs are stored in a _list._
-- ***Decipher traffic lights:*** The camera will interpret traffic lights and tell the car what to do. Pre-stored lights are stored as a _dictionary._
+- ***Decipher traffic signs:*** The camera interprets traffic signs and tell the car what to do. Pre-stored signs are stored in a _list._
+- ***Decipher traffic lights:*** The camera interprets traffic lights and tell the car what to do. Pre-stored lights are stored as a _dictionary._
   
 ## Testing the Program
 The codes are embedded with **assert statements** in order to aid in debugging during the development stage. 
