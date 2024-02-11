@@ -15,7 +15,7 @@ The first summative assessment is a [Driverless Car System Design Proposal](http
 
 **2.) Environment Perception**- Uses GPS to update the current location of the car, while LiDAR is used to detect objects and road lane markings around the car to prevent collision accidents. 
 
-**3.) Vehicle to Infrastructure Communication (V2I)**- This operation is updated from the design proposal where initially, V2I only relayed real time data and deciphering traffic lights and signs were functions in Environment Perception. Now, cameras will be used to decipher traffic signs and traffic lights instead of LiDAR.
+**3.) Vehicle to Infrastructure Communication (V2I)**- This operation is updated from the design proposal where initially, V2I only relayed real time data, and deciphering traffic lights and signs were functions in Environment Perception. Now, cameras will be used to decipher traffic signs and traffic lights instead of LiDAR.
 
 ## Executing the code
 The code was written on ***PyCharm*** and runs on ***Python 3.11*** in the ***Conda*** environment. 
