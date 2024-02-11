@@ -43,7 +43,7 @@ Each car operation, together with their corresponding test files, are stored in 
 ## Testing the Program
 The codes are embedded with **assert statements** in order to aid in debugging during the development stage. 
 
-A corresponding **unittest** for each car operation was executed in order to test whether code is working as desired. They are named with "(car operation name)_test.py" accordingly. 
+A corresponding **unittest** for each car operation was executed in order to test whether code is working as desired. They are named with **"(car operation name)_test.py"** accordingly. 
 
 All tests ran successfully.
 
