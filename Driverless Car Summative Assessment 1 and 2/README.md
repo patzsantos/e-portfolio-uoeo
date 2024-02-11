@@ -26,7 +26,7 @@ Each car operation, together with their corresponding test files, are stored in 
 - When you run the code, your login will only be authorised if your input is the administrator credential as they are currently the only ones with access to the system.
 - Pressing 1 will start the car, pressing 2 will stop it. 
 
-***For Car Control:*** _Open **car_control.py**__
+***For Car Control:*** _Open **car_control.py**_
 - ***Steering:*** The car can steer to the left or right direction. In the system, the steering angle is measured by radians. 1-89 degrees indicates steering towards the right, while 90-179 degrees means steering towards the left.
 - ***Acceleration:*** A value of 120 km/h has been set as the maximum speed value. Therefore, the car can accelerate while the speed is below that. The car will automatically brake once the maximum speed has been reached.
 - ***Braking:*** The car will halt until its velocity falls to 0 km/h. 
