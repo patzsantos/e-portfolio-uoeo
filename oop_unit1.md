@@ -233,6 +233,13 @@ _-Write unit tests to ensure correct functionality of Python code.<br>
 -Run pylint against a Python script to demonstrate stylistic correctness.<br>
 -Document code for release to stakeholders.<br>_
 
+---
+
+# Unit 11: Pointers, References & Memory, and Design Patterns
+
+---
+
+# Unit 12: Working with Design Patterns to Structure Code
 
 
 
