@@ -18,8 +18,6 @@ _-Describe the major features of an object oriented program, in the sense of hav
 -Define a Python class.<br>
 -Define a variety of data types to variables in a Python program and adapt the access modifier applied to each.<br>_
 
-This unit will give exposure to the fundamental building blocks of a Python program, upon which advanced features of the programming language will be built in later weeks.<br>
-
 
 ## e-Portfolio Activities
 
@@ -55,8 +53,6 @@ _-Explore the ways in which actors interact with software in terms of the functi
 _-Design a use case diagram for a software development scenario.<br>
 -Create a state machine diagram to examine the behaviours and interactions within a system._<Br>
 
-Practical work this week will support further understanding of how to extend the development of a Python program by appreciating the retention of data as variables, and the assignment of variables across difference instances of a class. This will be core to supporting the development required for the coding contribution of the summative assessment. Exploration of the use of the Unified Modelling Language will also be critical to supporting preparation of the design document for the Week 6 summative assessment.<br>
-
 ## Formative Activities
 
 Continue the discussion in unit 1. Based on what we have covered in the first two units, you should [respond](https://github.com/patzsantos/e-portfolio-uoeo/blob/module2/oop/Unit%202/OOP_%20Unit%202%20Peer%20Responses.pdf) to your at least 2 of your peers’ contributions from Unit 1. <br>
@@ -81,8 +77,6 @@ _-Recognise the syntax used to design UML models.<br>
 -Distinguish between the UML models which are applicable at various stages of the Software Development Life Cycle (SDLC).<br>
 -Develop UML models using open source tools.<br>_
 
-The UML content this week is important in support of the design document that will be submitted in Week 6. The UML models will be used to design the software system on paper prior to its implementation in Python.
-
 ## Formative Activities 
 
 Continue the discussion in unit 1. You should now provide a [summary post](https://github.com/patzsantos/e-portfolio-uoeo/blob/module2/oop/Unit%203/OOP%20Unit%203-%20Summary%20Post.pdf) into to the discussion based on your initial post and the feedback from your peers. 
@@ -92,9 +86,21 @@ Continue the discussion in unit 1. You should now provide a [summary post](https
 - [Discuss](https://github.com/patzsantos/e-portfolio-uoeo/blob/module2/oop/Unit%203/OOP%20Unit%203_%20UML%20Models%20Applicable%20at%20Different%20Stages%20of%20the%20SDLC.pdf) which UML models are most applicable at different stages of the Software Development Life Cycle.
 - Making reference to ‘The Unified Modeling Language Reference Manual Second Edition’, use the State Machine Diagram in Figure 3-7 to [design](https://github.com/patzsantos/e-portfolio-uoeo/blob/module2/oop/Unit%203/OOP%20Unit%203_%20Washing%20Machine%20State%20Diagram.pdf) a similar model for a washing machine.
 
+---
+# Unit 4: Applying a UML Model to a Program Implementation: UML in Practice
 
+_**In this unit we shall:*_<br>
 
+_-Experiment with further UML models, including a class diagram.<br>
+-Write a Python program which implements the UML class diagram.<br>
 
+_**On completion of this unit you will be able to:**_<br>
+
+_-Prepare a class diagram which corresponds to a system which will be implemented.
+-Take a UML model and implement software using it._
+
+## Codio Activity
+- [Double day](https://github.com/patzsantos/e-portfolio-uoeo/blob/module2/oop/Unit%204/codio_doubleday.py)
 
 
 
