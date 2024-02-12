@@ -1,5 +1,3 @@
-# Login code test using unittest
-
 import unittest
 from login import Car, login
 
