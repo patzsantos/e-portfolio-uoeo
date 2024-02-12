@@ -3,26 +3,37 @@
 ---
 ### Module 2: Object-Oriented Programming
 <img src="images/module2.jpeg?raw=true"/>
+
+[Unit 1: An Introduction to Python Programming and the OO Programming Paradigm](https://github.com/patzsantos/e-portfolio-uoeo/blob/master/oop_unit1.md#unit-1-an-introduction-to-python-programming-and-the-oo-programming-paradigm)
+
 ---
+
+[Unit 2 : Object Oriented Analysis - Initial Steps towards Programming in Python](https://github.com/patzsantos/e-portfolio-uoeo/blob/master/oop_unit1.md#unit-1-an-introduction-to-python-programming-and-the-oo-programming-paradigm)
+
+---
+
+[Unit 3: UML](https://github.com/patzsantos/e-portfolio-uoeo/blob/master/oop_unit1.md#unit-3-uml)
+
+---
+[Unit 4: 
 
 ### Module 1: Launching Into Computer Science
 <img src="images/module1.jpeg?raw=true"/>
 
-[End of Module Draft](https://drive.google.com/file/d/1yMo1A3gESfd7zsHZJ1Oe_LR7PXWVKDyc/view?usp=sharing)
+[End of Module Draft](https://github.com/patzsantos/e-portfolio-uoeo/blob/module1/lcs/End%20of%20Module%20Draft%20Submission-%20Patricia%20Annette%20C.%20Santos.pdf)
+
+---
+[Assignment 1 Part 1: Data Structures and Algorithm Design](https://github.com/patzsantos/e-portfolio-uoeo/blob/module1/lcs/Assignment%201%20Part%201_%20Guardian%20Directory.pdf)
+
+---
+[Assignment 1 Part 2:  Algorithm and Programming Development](https://github.com/patzsantos/e-portfolio-uoeo/tree/module1/lcs/Assignment2_GuardianDirectory)
+
+---
+[Assignment 1 Part 3: MySQL](https://github.com/patzsantos/e-portfolio-uoeo/tree/module1/lcs/AssignmentPart3_MYSQL)
 
 ---
 
-[Assignment 1 Part 1](https://drive.google.com/file/d/1HZysLOc_AV-bA7IYnXywyRzD6RlPSCzp/view?usp=sharing)
-
----
-[Assignment 1 Part 2](https://drive.google.com/drive/u/1/folders/1hrQueaqJ3Avscol4ITauaVOsQSQgExwq)
-
----
-[Assignment 1 Part 3](https://drive.google.com/drive/u/1/folders/1aVDXg9XJY91EYSW17hfViTLzIlINC3FD)
-
----
-
-[End of Module Assignment](https://drive.google.com/file/d/1IKoasOGZsdKntwyFnfYc9nTeRiLENo2C/view?usp=sharing) 
+[End of Module Assignment: Emerging Computer Science Theme Research](https://github.com/patzsantos/e-portfolio-uoeo/blob/module1/lcs/NEC%E2%80%99s%20Face%20Recognition%20Technology%20as%20Used%20in%20My%20Number%20IDs-%20%20Benefits%2C%20Drawbacks%2C%20and%20Proposed%20Technologies%20For%20Improvement.pdf)
 
 
 ### Category Name 2
