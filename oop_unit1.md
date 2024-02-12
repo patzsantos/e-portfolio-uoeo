@@ -43,12 +43,12 @@ Classes and Objects:
 
 # Unit 2: Object Oriented Analysis - Initial Steps towards Programming in Python
 
-**In this unit we shall:** <br>
+_**In this unit we shall:** <br>_
 
 _-Explore the ways in which actors interact with software in terms of the functional requirements of a piece of software.<br>
 -Identify the interactions and behaviours invoked within software once active using a state machine diagram._<br>
 
-**On completion of this unit you will be able to:<br>**
+_**On completion of this unit you will be able to:<br>**_
 
 _-Design a use case diagram for a software development scenario.<br>
 -Create a state machine diagram to examine the behaviours and interactions within a system._<Br>
@@ -65,7 +65,7 @@ Continue the discussion in unit 1. Based on what we have covered in the first tw
 
 # Unit 3: UML
 
-__**In this unit we shall:**__<br>
+_**In this unit we shall:**_<br>
 
 _-Be exposed to the common syntax used by the Unified Modelling Language.<br>
 -Explore the major UML models which are used throughout the object oriented analysis, design and development process.<br>
@@ -89,7 +89,7 @@ Continue the discussion in unit 1. You should now provide a [summary post](https
 ---
 # Unit 4: Applying a UML Model to a Program Implementation: UML in Practice
 
-_**In this unit we shall:*_<br>
+_**In this unit we shall:**_<br>
 
 _-Experiment with further UML models, including a class diagram.<br>
 -Write a Python program which implements the UML class diagram.<br>
@@ -102,6 +102,31 @@ _-Prepare a class diagram which corresponds to a system which will be implemente
 ## Codio Activity
 - [Double day](https://github.com/patzsantos/e-portfolio-uoeo/blob/module2/oop/Unit%204/codio_doubleday.py)
 
+## Formative Activities
+
+Continue to build your e-Portfolio during this week including writing your final reflection.
+
+Reflection for Units 1-4 
+Honestly
+
+---
+
+# Unit 5: More on Classes
+
+_**In this unit we shall:**_<br>
+
+_-Consider the modularity of object oriented code and the use of abstract classes to facilitate inheritance.<br>
+-Examine the different ways in which inheritance is enabled, using polymorphism, aggregation and composition <br>
+-Realise the role which is played by packages and namespaces in relation to variable naming._<br>
+
+_*On completion of this unit you will be able to:*_<br>
+
+_-Create a Python program which uses a constructor and abstract class.
+-Describe the concepts of polymorphism, aggregation and composition.
+-Name variables according to the namespace within which they exist._
+
+## Codio Activity
+[Inheritance](https://github.com/patzsantos/e-portfolio-uoeo/blob/module2/oop/Unit%205/codio_inheritance.deckofcards.py)
 
 
 
