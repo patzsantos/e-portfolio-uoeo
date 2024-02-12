@@ -195,8 +195,43 @@ Polymorphism:
 - [Method overloading 2](https://github.com/patzsantos/e-portfolio-uoeo/blob/module2/oop/Unit%208/codio_method.overloading2.py)
 - [Method overriding](https://github.com/patzsantos/e-portfolio-uoeo/blob/module2/oop/Unit%208/codio_method.overrriding.py)
   
+---
 
+# Unit 9: Packaging and Testing
 
+_**In this unit we shall:**_<br>
+_-Appreciate the concept of packaging a Python program.<br>
+-How the PEP257 convention to document a Python program.<Br>
+-Describe the range of approaches used to test code.<br>_
+
+_**On completion of this unit you will be able to:**_
+_-Appropriately package a Python code development.<br>
+-Adequately and effectively document your code.<br>
+-Use the tools available in Python to test the quality of code.<br>_
+
+## Formative Activity
+
+[Continue](https://github.com/patzsantos/e-portfolio-uoeo/blob/module2/oop/Unit%209/OOP-%20Unit%209%20Peer%20Response.pdf) the discussion in unit 8. Based on what we have covered in the first two units, you should respond to your at least 2 of your peers’ contributions from Unit 8. 
+
+## e-Portfolio Activities
+
+1) [Cyclomatic complexity](https://github.com/patzsantos/e-portfolio-uoeo/blob/module2/oop/Unit%209/OOP%20Unit%209-%20e-Portfolio%20Activity%203.pdf)
+
+2) [Assert statement](https://github.com/patzsantos/e-portfolio-uoeo/blob/module2/oop/Unit%209/assert.py)
+
+---
+
+# Unit 10: Testing Code in Practice
+
+_**In this unit we shall:**_ <br>
+_-Apply unit tests to test the functionality of Python code.<br>
+-Use the pylint testing tool to automatically check acceptability of the style used to write the Python code.<br>
+-Experiment with approaches to commenting inline and documenting code.<br>_
+
+_**On completion of this unit you will be able to:**_ <br>
+_-Write unit tests to ensure correct functionality of Python code.<br>
+-Run pylint against a Python script to demonstrate stylistic correctness.<br>
+-Document code for release to stakeholders.<br>_
 
 
 
