@@ -4,11 +4,13 @@ permalink: /oop_unit1-->
 
 # Unit 1: An Introduction to Python Programming and the OO Programming Paradigm ###
 
+
 _**In this unit we shall:**<br>_
 
 -Examine what it means for a program to be object oriented.<br>
 -Explore the syntax used to define a Python class.<br>
 -Investigate how to define different data types in Python.<br>
+
 
 _**On completion of this unit you will be able to:**<br>_
 
@@ -30,7 +32,7 @@ Discussion Topic: Factors which Influence Reusability
 
 Refer to the article by Padhy et al. (2018), specifically Table 1, where the authors present a list of factors which they consider influence the reusability of a piece of object-oriented software.
 
-In this collaborative discussion, you are required to [prioritise this list, presenting your argument]( for the priorities assigned.
+In this collaborative discussion, you are required to [prioritise this list, presenting your argument](https://github.com/patzsantos/e-portfolio-uoeo/blob/module2/oop/Unit%201/OOP-%20Unit%201%20Initial%20Post.pdf) for the priorities assigned.
 
 
 
