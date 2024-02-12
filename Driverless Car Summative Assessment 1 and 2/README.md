@@ -23,7 +23,7 @@ The code was written on ***PyCharm*** and runs on ***Python 3.11*** in the ***Co
 Each car operation, together with their corresponding test files, are stored in and can be accessed from the [**Car Operations**](https://github.com/patzsantos/e-portfolio-uoeo/tree/module2/oop/Driverless%20Car%20Summative%20Assessment%201%20and%202/Car%20Operations) folder.
 
 ***For User Login:*** _Open **login.py** file_
-- When you run the code, login will only be authorised if the administrator credential is used as they are currently the only one with access to the system.
+- When you run the code, login will be authorised if the administrator credential is used as they are currently the only one with access to the system.
 - Pressing 1 will start the car, pressing 2 will stop it. 
 
 ***For Car Control:*** _Open **car_control.py**_
