@@ -15,13 +15,13 @@
 [Unit 3: UML](https://github.com/patzsantos/e-portfolio-uoeo/blob/master/oop_unit1.md#unit-3-uml)
 
 ---
-[Unit 4:Applying a UML Model to a Program Implementation: UML in Practice]()
+[Unit 4: Applying a UML Model to a Program Implementation: UML in Practice]()
 
 ---
 [Unit 5: More on Classes]()
 
 ---
-[Unit 6:Abstract Methods and Interfaces]()
+[Unit 6: Abstract Methods and Interfaces]()
 
 ---
 [Unit 7: Debugging / Error Handling, Data Structures and Data Search]()
@@ -36,8 +36,10 @@
 [Unit 10: Testing Code in Practice]()
 
 ---
-[Unit 11: ]
+[Unit 11: Pointers, References & Memory, and Design Patterns ]()
 
+---
+[Unit 12: Working with Design Patterns to Structure Code]()
 
 
 
