@@ -42,24 +42,39 @@ Classes and Objects:
 - [Persons list](https://github.com/patzsantos/e-portfolio-uoeo/blob/module2/oop/Unit%201/codio_persons.list.py)<br>
 
 
-
+---
 
 # Unit 2: Object Oriented Analysis - Initial Steps towards Programming in Python
 
 **In this unit we shall:** <br>
 
-_-Explore the ways in which actors interact with software in terms of the functional requirements of a piece of software.
--Identify the interactions and behaviours invoked within software once active using a state machine diagram._
+_-Explore the ways in which actors interact with software in terms of the functional requirements of a piece of software.<br>
+-Identify the interactions and behaviours invoked within software once active using a state machine diagram._<br>
 
 **On completion of this unit you will be able to:<br>**
-_-Design a use case diagram for a software development scenario.
--Create a state machine diagram to examine the behaviours and interactions within a system._
 
-Practical work this week will support further understanding of how to extend the development of a Python program by appreciating the retention of data as variables, and the assignment of variables across difference instances of a class. This will be core to supporting the development required for the coding contribution of the summative assessment. Exploration of the use of the Unified Modelling Language will also be critical to supporting preparation of the design document for the Week 6 summative assessment.
+_-Design a use case diagram for a software development scenario.<br>
+-Create a state machine diagram to examine the behaviours and interactions within a system._<Br>
+
+Practical work this week will support further understanding of how to extend the development of a Python program by appreciating the retention of data as variables, and the assignment of variables across difference instances of a class. This will be core to supporting the development required for the coding contribution of the summative assessment. Exploration of the use of the Unified Modelling Language will also be critical to supporting preparation of the design document for the Week 6 summative assessment.<br>
 
 ## Formative Activities
 
-Continue the discussion in unit 1. Based on what we have covered in the first two units, you should [respond](https://github.com/patzsantos/e-portfolio-uoeo/blob/module2/oop/Unit%202/OOP_%20Unit%202%20Peer%20Responses.pdf) to your at least 2 of your peers’ contributions from Unit 1. To guide you, look at the guidelines for the peer review process on the Department’s webpage.
+Continue the discussion in unit 1. Based on what we have covered in the first two units, you should [respond](https://github.com/patzsantos/e-portfolio-uoeo/blob/module2/oop/Unit%202/OOP_%20Unit%202%20Peer%20Responses.pdf) to your at least 2 of your peers’ contributions from Unit 1. <br>
+
+## Codio Activities
+- [Methods](https://github.com/patzsantos/e-portfolio-uoeo/blob/module2/oop/Unit%202/codio_methods.time.py)
+- [Functions](https://github.com/patzsantos/e-portfolio-uoeo/blob/module2/oop/Unit%202/codio_functions.time.py)
+
+---
+
+# Unit 3: UML
+
+
+
+
+
+
 
 
 
