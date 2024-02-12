@@ -15,7 +15,24 @@
 [Unit 3: UML](https://github.com/patzsantos/e-portfolio-uoeo/blob/master/oop_unit1.md#unit-3-uml)
 
 ---
-[Unit 4: 
+[Unit 4:Applying a UML Model to a Program Implementation: UML in Practice]()
+
+---
+[Unit 5: More on Classes]()
+
+---
+[Unit 6:Abstract Methods and Interfaces]()
+
+---
+[Unit 7: Debugging / Error Handling, Data Structures and Data Search]()
+
+---
+[Unit 8: Data Structures and Data Search in Practice]()
+
+---
+[Unit 9: Packaging and Testing]
+
+
 
 ### Module 1: Launching Into Computer Science
 <img src="images/module1.jpeg?raw=true"/>
