@@ -41,7 +41,6 @@ Classes and Objects:
 - [Circle](https://github.com/patzsantos/e-portfolio-uoeo/blob/module2/oop/Unit%201/codio_circle.py)
 - [Persons list](https://github.com/patzsantos/e-portfolio-uoeo/blob/module2/oop/Unit%201/codio_persons.list.py)<br>
 
-
 ---
 
 # Unit 2: Object Oriented Analysis - Initial Steps towards Programming in Python
@@ -70,6 +69,28 @@ Continue the discussion in unit 1. Based on what we have covered in the first tw
 
 # Unit 3: UML
 
+__**In this unit we shall:**__<br>
+
+_-Be exposed to the common syntax used by the Unified Modelling Language.<br>
+-Explore the major UML models which are used throughout the object oriented analysis, design and development process.<br>
+-Design UML models to represent aspects of specific software systems.<br>_
+
+_**On completion of this unit you will be able to:**_<br>
+
+_-Recognise the syntax used to design UML models.<br>
+-Distinguish between the UML models which are applicable at various stages of the Software Development Life Cycle (SDLC).<br>
+-Develop UML models using open source tools.<br>_
+
+The UML content this week is important in support of the design document that will be submitted in Week 6. The UML models will be used to design the software system on paper prior to its implementation in Python.
+
+## Formative Activities 
+
+Continue the discussion in unit 1. You should now provide a [summary post](https://github.com/patzsantos/e-portfolio-uoeo/blob/module2/oop/Unit%203/OOP%20Unit%203-%20Summary%20Post.pdf) into to the discussion based on your initial post and the feedback from your peers. 
+
+## e-Portfolio Activities
+
+- [Discuss](https://github.com/patzsantos/e-portfolio-uoeo/blob/module2/oop/Unit%203/OOP%20Unit%203_%20UML%20Models%20Applicable%20at%20Different%20Stages%20of%20the%20SDLC.pdf) which UML models are most applicable at different stages of the Software Development Life Cycle.
+- Making reference to ‘The Unified Modeling Language Reference Manual Second Edition’, use the State Machine Diagram in Figure 3-7 to [design](https://github.com/patzsantos/e-portfolio-uoeo/blob/module2/oop/Unit%203/OOP%20Unit%203_%20Washing%20Machine%20State%20Diagram.pdf) a similar model for a washing machine.
 
 
 
@@ -78,8 +99,7 @@ Continue the discussion in unit 1. Based on what we have covered in the first tw
 
 
 
-
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
+<br><br><br><br><Br>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
 
 ```javascript
 if (isAwesome){
