@@ -128,6 +128,31 @@ _-Create a Python program which uses a constructor and abstract class.
 ## Codio Activity
 [Inheritance](https://github.com/patzsantos/e-portfolio-uoeo/blob/module2/oop/Unit%205/codio_inheritance.deckofcards.py)
 
+---
+# Unit 6: Abstract Methods and Interfaces
+
+_**In this unit we shall: <br>**_
+_-Consider the benefits of using interfaces in Python.<br>
+-Develop a Python program which uses interfaces.<br>
+-Recognise the metrics which are used to evaluate the effectiveness of an object oriented program.<br>_
+
+_**On completion of this unit you will be able to:**_
+_-Describe the ways in which interfaces support Python code design.<br>
+-Write a Python program which applies interfaces.<br>
+-Define the metrics by which an object oriented program can be assessed._<br>
+
+## Codio Activity
+[Encapsulation](https://github.com/patzsantos/e-portfolio-uoeo/tree/module2/oop/Unit%206/Encapsulation) 
+- This are screenshots of some of the reading questions I answered for the Encapsulation module in Codio.<br>
+
+---
+
+# Unit 7
+
+
+
+
+
 
 
 <br><br><br><br><Br>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
