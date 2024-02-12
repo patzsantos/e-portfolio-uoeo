@@ -27,7 +27,7 @@ _-Describe the major features of an object oriented program, in the sense of hav
 
 ## Collaborative Discussion Initial Post
 
-Discussion Topic: Factors which Influence Reusability
+**Discussion Topic: Factors which Influence Reusability**
 
 Refer to the article by Padhy et al. (2018), specifically Table 1, where the authors present a list of factors which they consider influence the reusability of a piece of object-oriented software.
 
@@ -126,7 +126,7 @@ _-Create a Python program which uses a constructor and abstract class.
 -Name variables according to the namespace within which they exist._
 
 ## Codio Activity
-[Inheritance](https://github.com/patzsantos/e-portfolio-uoeo/blob/module2/oop/Unit%205/codio_inheritance.deckofcards.py)
+- [Inheritance](https://github.com/patzsantos/e-portfolio-uoeo/blob/module2/oop/Unit%205/codio_inheritance.deckofcards.py)
 
 ---
 # Unit 6: Abstract Methods and Interfaces
@@ -142,12 +142,60 @@ _-Describe the ways in which interfaces support Python code design.<br>
 -Define the metrics by which an object oriented program can be assessed._<br>
 
 ## Codio Activity
-[Encapsulation](https://github.com/patzsantos/e-portfolio-uoeo/tree/module2/oop/Unit%206/Encapsulation) 
-- This are screenshots of some of the reading questions I answered for the Encapsulation module in Codio.<br>
+- [Encapsulation](https://github.com/patzsantos/e-portfolio-uoeo/tree/module2/oop/Unit%206/Encapsulation)- Screenshots of some of the reading questions I answered for the Encapsulation module in Codio.<br>
 
 ---
 
-# Unit 7
+# Unit 7 Debugging / Error Handling, Data Structures and Data Search
+
+_**In this unit we shall:**_<br>
+
+_-Gain an understanding of the need to debug code and the typical types of errors which can be found in a program.<br>
+-Examine the ability of linters to support the development of high quality code.<br>
+-Become familiar with a range of data structures which may be used to store data.<br>
+-Explore the effectiveness of different search techniques to examine the stored data.<br>
+
+_**On completion of this unit you will be able to:<br>**_
+_-Apply Python tools to examine the quality of code.<br>
+-Implement data structures to store data.<br>
+-Implement a search algorithm to explore stored data.br>_
+
+## e-Portfolio Activity
+
+[Create](https://github.com/patzsantos/e-portfolio-uoeo/blob/module2/oop/Unit%207/datasructures.py) a nested dictionary of data on cars within a Car class. Extend the program to work with the dictionary by calling the following methods: items(), keys(), values()
+
+## Summative Assessment 1
+
+[System Design of a Driverless Car](https://github.com/patzsantos/e-portfolio-uoeo/blob/module2/oop/Driverless%20Car%20Summative%20Assessment%201%20and%202/System%20Design%20Proposal/OOP%20Assignment%201_%20A%20Design%20Proposal%20of%20Software%20to%20Support%20Operation%20of%20a%20Driverless%20Car.pdf)
+
+---
+
+# Unit 8: Data Structures and Data Search in Practice
+
+_**In this unit we shall:**_<br>
+
+_-Examine the operations which may be applied to sets, including union, intersection, difference, and symmetric difference.<br>
+-Gain an appreciation of the linear data search technique.<br>_
+
+_**On completion of this unit you will be able to:**_<br>
+
+_-Describe the scenarios in which each of the set operations will be applicable in relation to the driverless car scenario.<br>
+-Implement a linear data search technique.<br>_
+
+## Collaborative Discussion Initial Post
+
+**Discussion Topic: OO Design for IoT.**
+
+Making reference to the article by Fortino et al. (2015), consider the strengths and weaknesses of designing a metamodel to support object-oriented design of the IoT. [Design](https://github.com/patzsantos/e-portfolio-uoeo/blob/module2/oop/Unit%208/OOP%20Unit%208_%20Collaborative%20Discussion-%20OO%20Design%20for%20IoT.pdf) a smart model equivalent to that presented in Figure 6 which would instead support operation of a driverless car.
+
+## Codio Activities
+
+Polymorphism: 
+- [Method overloading 1](https://github.com/patzsantos/e-portfolio-uoeo/blob/module2/oop/Unit%208/codio_method.overloading.py)
+- [Method overloading 2](https://github.com/patzsantos/e-portfolio-uoeo/blob/module2/oop/Unit%208/codio_method.overloading2.py)
+- [Method overriding](https://github.com/patzsantos/e-portfolio-uoeo/blob/module2/oop/Unit%208/codio_method.overrriding.py)
+  
+
 
 
 
