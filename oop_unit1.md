@@ -215,9 +215,9 @@ _-Appropriately package a Python code development.<br>
 
 ## e-Portfolio Activities
 
-1) [Cyclomatic complexity](https://github.com/patzsantos/e-portfolio-uoeo/blob/module2/oop/Unit%209/OOP%20Unit%209-%20e-Portfolio%20Activity%203.pdf)
+1. [Cyclomatic complexity](https://github.com/patzsantos/e-portfolio-uoeo/blob/module2/oop/Unit%209/OOP%20Unit%209-%20e-Portfolio%20Activity%203.pdf)
 
-2) [Assert statement](https://github.com/patzsantos/e-portfolio-uoeo/blob/module2/oop/Unit%209/assert.py)
+2. [Assert statement](https://github.com/patzsantos/e-portfolio-uoeo/blob/module2/oop/Unit%209/assert.py)
 
 ---
 
