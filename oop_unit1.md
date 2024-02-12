@@ -39,7 +39,7 @@ In this collaborative discussion, you are required to [prioritise this list, pre
 
 Classes and Objects: 
 - [Circle](https://github.com/patzsantos/e-portfolio-uoeo/blob/module2/oop/Unit%201/codio_circle.py)
-- [Persons list](https://github.com/patzsantos/e-portfolio-uoeo/blob/module2/oop/Unit%201/codio_persons.list.py)
+- [Persons list](https://github.com/patzsantos/e-portfolio-uoeo/blob/module2/oop/Unit%201/codio_persons.list.py)<br>
 
 
 
