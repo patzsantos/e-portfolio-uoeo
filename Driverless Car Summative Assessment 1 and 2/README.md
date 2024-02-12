@@ -7,7 +7,7 @@ This is the first and second Summative Assessment requirement for the Object-Ori
 The first summative assessment is a [Driverless Car System Design Proposal](https://github.com/patzsantos/e-portfolio-uoeo/blob/module2/oop/Driverless%20Car%20Summative%20Assessment%201%20and%202/System%20Design%20Proposal/OOP%20Assignment%201_%20A%20Design%20Proposal%20of%20Software%20to%20Support%20Operation%20of%20a%20Driverless%20Car.pdf) represented by Unified Modeling Language (UML) models. The second part of the assessment is the [System Implementation](https://github.com/patzsantos/e-portfolio-uoeo/tree/module2/oop/Driverless%20Car%20Summative%20Assessment%201%20and%202), which requires code that executes and tests the autonomous car. 
 
 ## Car Operations
-7D can only start running autonomously only if an authorised user starts it from the front end. That user also has the capability to stop the car. 
+7D canstart running autonomously only if an authorised user starts it from the front end. That user also has the capability to stop the car. 
 
 **_The three main operations of 7D are:_**
 
