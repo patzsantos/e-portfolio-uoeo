@@ -146,7 +146,7 @@ _-Describe the ways in which interfaces support Python code design.<br>
 
 ---
 
-# Unit 7 Debugging / Error Handling, Data Structures and Data Search
+# Unit 7: Debugging / Error Handling, Data Structures and Data Search
 
 _**In this unit we shall:**_<br>
 
