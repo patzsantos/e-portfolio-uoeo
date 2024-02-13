@@ -255,7 +255,7 @@ _-Describe the overhead incurred in some programming languages other than Java a
 _**In this unit we shall:**_
 
 _-Examine the factory design pattern and consider how it may be implemented in software.<br>
--Consider the fact that multiple design patterns may be applied alongside one another in a single code development.
+-Consider the fact that multiple design patterns may be applied alongside one another in a single code development.<br>
 -Recognise that some design patterns are more likely to be used with others in a single code development.<br>
 
 _**On completion of this unit you will be able to:**_<Br>
