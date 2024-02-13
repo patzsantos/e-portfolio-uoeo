@@ -119,7 +119,7 @@ _-Consider the modularity of object oriented code and the use of abstract classe
 -Examine the different ways in which inheritance is enabled, using polymorphism, aggregation and composition <br>
 -Realise the role which is played by packages and namespaces in relation to variable naming._<br>
 
-_*On completion of this unit you will be able to:*+_<br>
+_**On completion of this unit you will be able to:**_<br>
 
 _-Create a Python program which uses a constructor and abstract class.<br>
 -Describe the concepts of polymorphism, aggregation and composition.<br>
