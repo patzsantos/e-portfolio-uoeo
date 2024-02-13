@@ -96,7 +96,7 @@ _-Experiment with further UML models, including a class diagram.<br>
 
 _**On completion of this unit you will be able to:**_<br>
 
-_-Prepare a class diagram which corresponds to a system which will be implemented.
+_-Prepare a class diagram which corresponds to a system which will be implemented.<br>
 -Take a UML model and implement software using it._
 
 ## Codio Activity
