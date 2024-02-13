@@ -121,9 +121,9 @@ _-Consider the modularity of object oriented code and the use of abstract classe
 
 _*On completion of this unit you will be able to:*_<br>
 
-_-Create a Python program which uses a constructor and abstract class.
--Describe the concepts of polymorphism, aggregation and composition.
--Name variables according to the namespace within which they exist._
+_-Create a Python program which uses a constructor and abstract class.<br>
+-Describe the concepts of polymorphism, aggregation and composition.<br>
+-Name variables according to the namespace within which they exist._<br>
 
 ## Codio Activity
 - [Inheritance](https://github.com/patzsantos/e-portfolio-uoeo/blob/module2/oop/Unit%205/codio_inheritance.deckofcards.py)
