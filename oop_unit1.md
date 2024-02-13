@@ -258,7 +258,7 @@ _-Examine the factory design pattern and consider how it may be implemented in s
 -Consider the fact that multiple design patterns may be applied alongside one another in a single code development.
 -Recognise that some design patterns are more likely to be used with others in a single code development.<br>
 
-_**On completion of this unit you will be able to:**_
+_**On completion of this unit you will be able to:**_<Br>
 _-Write a Python program which applies a factory design pattern to generate objects.<br>
 -Discuss the fact that multiple design patterns are able to be applied together to support a single code development.<br>
 -Describe the design patterns which are more likely to be applied with one another in a single code package.<br>
