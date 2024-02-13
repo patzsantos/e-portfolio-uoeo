@@ -237,9 +237,31 @@ _-Write unit tests to ensure correct functionality of Python code.<br>
 
 # Unit 11: Pointers, References & Memory, and Design Patterns
 
+_**In this unit we shall:**_<br>
+
+_-Gain an appreciation of the fact that Python does not use pointers, while other programming languages, such as C, do.<br>
+-Understand that the way in which code is design can contribute a carbon footprint and consider the design and development of code to minimise this footprint.<br>
+-Recognise that code may be organised in a variety of manners dependent on the way in which components will interact with one another.<br>_
+
+_**On completion of this unit you will be able to:**_<br>
+_-Describe the overhead incurred in some programming languages other than Java as a result of their use of pointers.
+-Discuss the reasons why Python is a more sustainable programming language than others.
+-Experiment with the design of code using a variety of design patterns._
+
 ---
 
 # Unit 12: Working with Design Patterns to Structure Code
+
+_**In this unit we shall:**_
+
+_-Examine the factory design pattern and consider how it may be implemented in software.<br>
+-Consider the fact that multiple design patterns may be applied alongside one another in a single code development.
+-Recognise that some design patterns are more likely to be used with others in a single code development.<br>
+
+_**On completion of this unit you will be able to:**_
+_-Write a Python program which applies a factory design pattern to generate objects.<br>
+-Discuss the fact that multiple design patterns are able to be applied together to support a single code development.<br>
+-Describe the design patterns which are more likely to be applied with one another in a single code package.<br>
 
 
 
