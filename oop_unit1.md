@@ -153,7 +153,7 @@ _**In this unit we shall:**_<br>
 _-Gain an understanding of the need to debug code and the typical types of errors which can be found in a program.<br>
 -Examine the ability of linters to support the development of high quality code.<br>
 -Become familiar with a range of data structures which may be used to store data.<br>
--Explore the effectiveness of different search techniques to examine the stored data.<br>
+-Explore the effectiveness of different search techniques to examine the stored data.<br>_
 
 _**On completion of this unit you will be able to:<br>**_
 _-Apply Python tools to examine the quality of code.<br>
