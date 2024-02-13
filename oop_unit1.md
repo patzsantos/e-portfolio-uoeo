@@ -55,7 +55,7 @@ _-Design a use case diagram for a software development scenario.<br>
 
 ## Formative Activities
 
-Continue the discussion in unit 1. Based on what we have covered in the first two units, you should [respond](https://github.com/patzsantos/e-portfolio-uoeo/blob/module2/oop/Unit%202/OOP_%20Unit%202%20Peer%20Responses.pdf)to your at least 2 of your peers’ contributions from Unit 1. <br>
+Continue the discussion in unit 1. Based on what we have covered in the first two units, you should [respond] (https://github.com/patzsantos/e-portfolio-uoeo/blob/module2/oop/Unit%202/OOP_%20Unit%202%20Peer%20Responses.pdf)to your at least 2 of your peers’ contributions from Unit 1. <br>
 
 ## Codio Activities
 - [Methods](https://github.com/patzsantos/e-portfolio-uoeo/blob/module2/oop/Unit%202/codio_methods.time.py)
