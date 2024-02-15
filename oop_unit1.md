@@ -276,4 +276,4 @@ _-Write a Python program which applies a factory design pattern to generate obje
 [Action plan]
 
 # Credits
-- Unit names, unit goals and aims, skills matrix template, and action plan template are all provided for by [The University of Essex Online](https://www.essex.ac.uk/study-online)
+Unit names, unit goals and aims, skills matrix template, and action plan template are all provided for by [The University of Essex Online](https://www.essex.ac.uk/study-online)
