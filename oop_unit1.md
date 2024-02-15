@@ -55,7 +55,7 @@ _-Design a use case diagram for a software development scenario.<br>
 
 ## Formative Activities
 
-Continue the discussion in unit 1. Based on what we have covered in the first two units, you should [respond] (https://github.com/patzsantos/e-portfolio-uoeo/blob/module2/oop/Unit%202/OOP_%20Unit%202%20Peer%20Responses.pdf)to your at least 2 of your peers’ contributions from Unit 1. <br>
+Continue the discussion in unit 1. Based on what we have covered in the first two units, you should [respond](https://github.com/patzsantos/e-portfolio-uoeo/blob/module2/oop/Unit%202/OOP_%20Unit%202%20Peer%20Responses.pdf)to your at least 2 of your peers’ contributions from Unit 1. <br>
 
 ## Codio Activities
 - [Methods](https://github.com/patzsantos/e-portfolio-uoeo/blob/module2/oop/Unit%202/codio_methods.time.py)
@@ -105,9 +105,6 @@ _-Prepare a class diagram which corresponds to a system which will be implemente
 ## Formative Activities
 
 Continue to build your e-Portfolio during this week including writing your final reflection.
-
-Reflection for Units 1-4 
-Honestly
 
 ---
 
@@ -231,7 +228,10 @@ _-Apply unit tests to test the functionality of Python code.<br>
 _**On completion of this unit you will be able to:**_ <br>
 _-Write unit tests to ensure correct functionality of Python code.<br>
 -Run pylint against a Python script to demonstrate stylistic correctness.<br>
--Document code for release to stakeholders.<br>_
+-Document code for release to stakeholders.<br>_ 
+
+## Formative Activity
+Continue the discussion in unit 8. You should now provide a [summary post](https://github.com/patzsantos/e-portfolio-uoeo/blob/module2/oop/Unit%2010/OOP%20Unit%2010_%20Summary%20Post.pdf) into to the discussion based on your initial post and the feedback from your peers.
 
 ---
 
@@ -244,9 +244,13 @@ _-Gain an appreciation of the fact that Python does not use pointers, while othe
 -Recognise that code may be organised in a variety of manners dependent on the way in which components will interact with one another.<br>_
 
 _**On completion of this unit you will be able to:**_<br>
-_-Describe the overhead incurred in some programming languages other than Java as a result of their use of pointers.
--Discuss the reasons why Python is a more sustainable programming language than others.
--Experiment with the design of code using a variety of design patterns._
+_-Describe the overhead incurred in some programming languages other than Java as a result of their use of pointers.<br>
+-Discuss the reasons why Python is a more sustainable programming language than others.<br>
+-Experiment with the design of code using a variety of design patterns.<br>_
+
+## Summative Assessment 2:
+
+[System Implementation of a Driverless Car](https://github.com/patzsantos/e-portfolio-uoeo/tree/0cd367089f5d7937df9a7518871785269ccb4f5f/Driverless%20Car%20Summative%20Assessment%201%20and%202)
 
 ---
 
@@ -263,32 +267,13 @@ _-Write a Python program which applies a factory design pattern to generate obje
 -Discuss the fact that multiple design patterns are able to be applied together to support a single code development.<br>
 -Describe the design patterns which are more likely to be applied with one another in a single code package.<br>
 
+## Summative Assessment 3: 
 
+[e-Portfolio website]
+[e-Portfolio OOP Github branch] 
+[Reflective piece]
+[Skills matrix]
+[Action plan]
 
-
-
-<br><br><br><br><Br>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
-
-```javascript
-if (isAwesome){
-  return true
-}
-```
-
-### 2. Assess assumptions on which statistical inference will be based
-
-```javascript
-if (isAwesome){
-  return true
-}
-```
-
-### 3. Support the selection of appropriate statistical tools and techniques
-
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
-### 4. Provide a basis for further data collection through surveys or experiments
-
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+# Credits
+- Unit names, unit goals and aims, skills matrix template, and action plan template are all provided for by [The University of Essex Online](https://www.essex.ac.uk/study-online)
