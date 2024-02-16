@@ -4,7 +4,7 @@
 
 Hi, I'm Patricia from Manila. 
 
-This is my the branch for the OOP branch of the PG Cert Computer Science course offered by University of Essex Online. 
+This is the branch for the OOP module of the PG Cert Computer Science course offered by University of Essex Online. 
 My e-portfolio can be found [here](https://patzsantos.github.io/e-portfolio-uoeo/). 
 
 ### Units 1-12
