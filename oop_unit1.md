@@ -101,10 +101,6 @@ _-Prepare a class diagram which corresponds to a system which will be implemente
 ## Codio Activity
 - [Double day](https://github.com/patzsantos/e-portfolio-uoeo/blob/module2/oop/Unit%204/codio_doubleday.py)
 
-## Formative Activities
-
-Continue to build your e-Portfolio during this week including writing your final reflection.
-
 ---
 
 # Unit 5: More on Classes
