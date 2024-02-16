@@ -232,6 +232,10 @@ _-Write unit tests to ensure correct functionality of Python code.<br>
 ## Formative Activity
 Continue the discussion in unit 8. You should now provide a [summary post](https://github.com/patzsantos/e-portfolio-uoeo/blob/module2/oop/Unit%2010/OOP%20Unit%2010_%20Summary%20Post.pdf) into to the discussion based on your initial post and the feedback from your peers.
 
+## Seminar Content Activities
+1. [Commenting and documentation](https://github.com/patzsantos/e-portfolio-uoeo/blob/module2/oop/Unit%2010/calculation.py) - added appropriate comments and documentation in the code.<br>
+2. [Unittest](https://github.com/patzsantos/e-portfolio-uoeo/blob/module2/oop/Unit%2010/calculation_test.py)- integrated unittests to test operation of the methods to the previous seminar content activity. 
+
 ---
 
 # Unit 11: Pointers, References & Memory, and Design Patterns
