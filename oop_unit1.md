@@ -4,8 +4,7 @@ permalink: /oop_unit1-->
 
 # Unit 1: An Introduction to Python Programming and the OO Programming Paradigm ###
 
-
-_**In this unit we shall:**<br>_
+<!--_**In this unit we shall:**<br>_
 
 _-Examine what it means for a program to be object oriented.<br>
 -Explore the syntax used to define a Python class.<br>
@@ -16,7 +15,7 @@ _**On completion of this unit you will be able to:**<br>_
 
 _-Describe the major features of an object oriented program, in the sense of having abstract classes, applying inheritance, using encapsulation, and including polymorphism.<br>
 -Define a Python class.<br>
--Define a variety of data types to variables in a Python program and adapt the access modifier applied to each.<br>_
+-Define a variety of data types to variables in a Python program and adapt the access modifier applied to each.<br>_-->
 
 
 ## e-Portfolio Activities
@@ -43,7 +42,7 @@ Classes and Objects:
 
 # Unit 2: Object Oriented Analysis - Initial Steps towards Programming in Python
 
-_**In this unit we shall:** <br>_
+<!--_**In this unit we shall:** <br>_
 
 _-Explore the ways in which actors interact with software in terms of the functional requirements of a piece of software.<br>
 -Identify the interactions and behaviours invoked within software once active using a state machine diagram._<br>
@@ -51,11 +50,11 @@ _-Explore the ways in which actors interact with software in terms of the functi
 _**On completion of this unit you will be able to:<br>**_
 
 _-Design a use case diagram for a software development scenario.<br>
--Create a state machine diagram to examine the behaviours and interactions within a system._<Br>
+-Create a state machine diagram to examine the behaviours and interactions within a system._<Br>-->
 
 ## Formative Activities
 
-Continue the discussion in unit 1. Based on what we have covered in the first two units, you should [respond](https://github.com/patzsantos/e-portfolio-uoeo/blob/module2/oop/Unit%202/OOP_%20Unit%202%20Peer%20Responses.pdf)to your at least 2 of your peers’ contributions from Unit 1. <br>
+Continue the discussion in unit 1. Based on what we have covered in the first two units, you should [respond](https://github.com/patzsantos/e-portfolio-uoeo/blob/module2/oop/Unit%202/OOP_%20Unit%202%20Peer%20Responses.pdf) to at least 2 of your peers’ contributions from Unit 1. <br>
 
 ## Codio Activities
 - [Methods](https://github.com/patzsantos/e-portfolio-uoeo/blob/module2/oop/Unit%202/codio_methods.time.py)
@@ -65,7 +64,7 @@ Continue the discussion in unit 1. Based on what we have covered in the first tw
 
 # Unit 3: UML
 
-_**In this unit we shall:**_<br>
+<!--_**In this unit we shall:**_<br>
 
 _-Be exposed to the common syntax used by the Unified Modelling Language.<br>
 -Explore the major UML models which are used throughout the object oriented analysis, design and development process.<br>
@@ -75,7 +74,7 @@ _**On completion of this unit you will be able to:**_<br>
 
 _-Recognise the syntax used to design UML models.<br>
 -Distinguish between the UML models which are applicable at various stages of the Software Development Life Cycle (SDLC).<br>
--Develop UML models using open source tools.<br>_
+-Develop UML models using open source tools.<br>_-->
 
 ## Formative Activities 
 
@@ -89,7 +88,7 @@ Continue the discussion in unit 1. You should now provide a [summary post](https
 ---
 # Unit 4: Applying a UML Model to a Program Implementation: UML in Practice
 
-_**In this unit we shall:**_<br>
+<!--_**In this unit we shall:**_<br>
 
 _-Experiment with further UML models, including a class diagram.<br>
 -Write a Python program which implements the UML class diagram.<br>
@@ -97,7 +96,7 @@ _-Experiment with further UML models, including a class diagram.<br>
 _**On completion of this unit you will be able to:**_<br>
 
 _-Prepare a class diagram which corresponds to a system which will be implemented.<br>
--Take a UML model and implement software using it._
+-Take a UML model and implement software using it._-->
 
 ## Codio Activity
 - [Double day](https://github.com/patzsantos/e-portfolio-uoeo/blob/module2/oop/Unit%204/codio_doubleday.py)
@@ -110,7 +109,7 @@ Continue to build your e-Portfolio during this week including writing your final
 
 # Unit 5: More on Classes
 
-_**In this unit we shall:**_<br>
+<!--_**In this unit we shall:**_<br>
 
 _-Consider the modularity of object oriented code and the use of abstract classes to facilitate inheritance.<br>
 -Examine the different ways in which inheritance is enabled, using polymorphism, aggregation and composition <br>
@@ -120,7 +119,7 @@ _**On completion of this unit you will be able to:**_<br>
 
 _-Create a Python program which uses a constructor and abstract class.<br>
 -Describe the concepts of polymorphism, aggregation and composition.<br>
--Name variables according to the namespace within which they exist._<br>
+-Name variables according to the namespace within which they exist._<br>-->
 
 ## Codio Activity
 - [Inheritance](https://github.com/patzsantos/e-portfolio-uoeo/blob/module2/oop/Unit%205/codio_inheritance.deckofcards.py)
@@ -128,7 +127,7 @@ _-Create a Python program which uses a constructor and abstract class.<br>
 ---
 # Unit 6: Abstract Methods and Interfaces
 
-_**In this unit we shall: <br>**_
+<!--_**In this unit we shall: <br>**_
 _-Consider the benefits of using interfaces in Python.<br>
 -Develop a Python program which uses interfaces.<br>
 -Recognise the metrics which are used to evaluate the effectiveness of an object oriented program.<br>_
@@ -136,7 +135,7 @@ _-Consider the benefits of using interfaces in Python.<br>
 _**On completion of this unit you will be able to:**_
 _-Describe the ways in which interfaces support Python code design.<br>
 -Write a Python program which applies interfaces.<br>
--Define the metrics by which an object oriented program can be assessed._<br>
+-Define the metrics by which an object oriented program can be assessed._<br>-->
 
 ## Codio Activity
 - [Encapsulation](https://github.com/patzsantos/e-portfolio-uoeo/tree/module2/oop/Unit%206/Encapsulation)- Screenshots of some of the reading questions I answered for the Encapsulation module in Codio.<br>
@@ -145,7 +144,7 @@ _-Describe the ways in which interfaces support Python code design.<br>
 
 # Unit 7: Debugging / Error Handling, Data Structures and Data Search
 
-_**In this unit we shall:**_<br>
+<!--_**In this unit we shall:**_<br>
 
 _-Gain an understanding of the need to debug code and the typical types of errors which can be found in a program.<br>
 -Examine the ability of linters to support the development of high quality code.<br>
@@ -155,7 +154,7 @@ _-Gain an understanding of the need to debug code and the typical types of error
 _**On completion of this unit you will be able to:<br>**_
 _-Apply Python tools to examine the quality of code.<br>
 -Implement data structures to store data.<br>
--Implement a search algorithm to explore stored data.br>_
+-Implement a search algorithm to explore stored data.br>_-->
 
 ## e-Portfolio Activity
 
@@ -169,7 +168,7 @@ _-Apply Python tools to examine the quality of code.<br>
 
 # Unit 8: Data Structures and Data Search in Practice
 
-_**In this unit we shall:**_<br>
+<!--_**In this unit we shall:**_<br>
 
 _-Examine the operations which may be applied to sets, including union, intersection, difference, and symmetric difference.<br>
 -Gain an appreciation of the linear data search technique.<br>_
@@ -177,7 +176,7 @@ _-Examine the operations which may be applied to sets, including union, intersec
 _**On completion of this unit you will be able to:**_<br>
 
 _-Describe the scenarios in which each of the set operations will be applicable in relation to the driverless car scenario.<br>
--Implement a linear data search technique.<br>_
+-Implement a linear data search technique.<br>_-->
 
 ## Collaborative Discussion Initial Post
 
@@ -196,7 +195,7 @@ Polymorphism:
 
 # Unit 9: Packaging and Testing
 
-_**In this unit we shall:**_<br>
+<!--_**In this unit we shall:**_<br>
 _-Appreciate the concept of packaging a Python program.<br>
 -How the PEP257 convention to document a Python program.<Br>
 -Describe the range of approaches used to test code.<br>_
@@ -204,7 +203,7 @@ _-Appreciate the concept of packaging a Python program.<br>
 _**On completion of this unit you will be able to:**_
 _-Appropriately package a Python code development.<br>
 -Adequately and effectively document your code.<br>
--Use the tools available in Python to test the quality of code.<br>_
+-Use the tools available in Python to test the quality of code.<br>_-->
 
 ## Formative Activity
 
@@ -220,7 +219,7 @@ Continue the discussion in unit 8. Based on what we have covered in the first tw
 
 # Unit 10: Testing Code in Practice
 
-_**In this unit we shall:**_ <br>
+<!--_**In this unit we shall:**_ <br>
 _-Apply unit tests to test the functionality of Python code.<br>
 -Use the pylint testing tool to automatically check acceptability of the style used to write the Python code.<br>
 -Experiment with approaches to commenting inline and documenting code.<br>_
@@ -228,7 +227,7 @@ _-Apply unit tests to test the functionality of Python code.<br>
 _**On completion of this unit you will be able to:**_ <br>
 _-Write unit tests to ensure correct functionality of Python code.<br>
 -Run pylint against a Python script to demonstrate stylistic correctness.<br>
--Document code for release to stakeholders.<br>_ 
+-Document code for release to stakeholders.<br>_-->
 
 ## Formative Activity
 Continue the discussion in unit 8. You should now provide a [summary post](https://github.com/patzsantos/e-portfolio-uoeo/blob/module2/oop/Unit%2010/OOP%20Unit%2010_%20Summary%20Post.pdf) into to the discussion based on your initial post and the feedback from your peers.
@@ -237,7 +236,7 @@ Continue the discussion in unit 8. You should now provide a [summary post](https
 
 # Unit 11: Pointers, References & Memory, and Design Patterns
 
-_**In this unit we shall:**_<br>
+<!--_**In this unit we shall:**_<br>
 
 _-Gain an appreciation of the fact that Python does not use pointers, while other programming languages, such as C, do.<br>
 -Understand that the way in which code is design can contribute a carbon footprint and consider the design and development of code to minimise this footprint.<br>
@@ -246,7 +245,7 @@ _-Gain an appreciation of the fact that Python does not use pointers, while othe
 _**On completion of this unit you will be able to:**_<br>
 _-Describe the overhead incurred in some programming languages other than Java as a result of their use of pointers.<br>
 -Discuss the reasons why Python is a more sustainable programming language than others.<br>
--Experiment with the design of code using a variety of design patterns.<br>_
+-Experiment with the design of code using a variety of design patterns.<br>_-->
 
 ## Summative Assessment 2:
 
@@ -256,7 +255,7 @@ _-Describe the overhead incurred in some programming languages other than Java a
 
 # Unit 12: Working with Design Patterns to Structure Code
 
-_**In this unit we shall:**_
+<!--_**In this unit we shall:**_
 
 _-Examine the factory design pattern and consider how it may be implemented in software.<br>
 -Consider the fact that multiple design patterns may be applied alongside one another in a single code development.<br>
@@ -265,7 +264,7 @@ _-Examine the factory design pattern and consider how it may be implemented in s
 _**On completion of this unit you will be able to:**_<Br>
 _-Write a Python program which applies a factory design pattern to generate objects.<br>
 -Discuss the fact that multiple design patterns are able to be applied together to support a single code development.<br>
--Describe the design patterns which are more likely to be applied with one another in a single code package.<br>
+-Describe the design patterns which are more likely to be applied with one another in a single code package.<br>-->
 
 ## Summative Assessment 3: 
 
