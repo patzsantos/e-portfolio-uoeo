@@ -8,10 +8,7 @@ This is the branch for the OOP module of the PG Cert Computer Science course off
 My e-portfolio can be found [here](https://patzsantos.github.io/e-portfolio-uoeo/). 
 
 ### Units 1-12
-As the module requires us to keep a record of our progress during the module and at least one evidence of work during each unit, they will be placed here. 
-
-Unit 1: 
-Unit 2: 
+As the module requires us to keep a record of our progress during the module and at least one evidence of work during each unit.
 
 ### Credits
 
