@@ -268,11 +268,11 @@ _-Write a Python program which applies a factory design pattern to generate obje
 
 ## Summative Assessment 3: 
 
-[e-Portfolio website](https://patzsantos.github.io/e-portfolio-uoeo/)
-[e-Portfolio OOP Github branch](https://github.com/patzsantos/e-portfolio-uoeo/tree/module2/oop)
-[Reflective piece](link)
-[Skills matrix](https://github.com/patzsantos/e-portfolio-uoeo/blob/module2/oop/Unit%2012/OOP%20Unit%2012%20Professional%20Skills%20Matrix%20.pdf)
-[Action plan](https://github.com/patzsantos/e-portfolio-uoeo/blob/module2/oop/Unit%2012/OOP%20Unit%2012-%20Action%20Plan.pdf)
+[e-Portfolio website](https://patzsantos.github.io/e-portfolio-uoeo/)<br>
+[e-Portfolio OOP Github branch](https://github.com/patzsantos/e-portfolio-uoeo/tree/module2/oop)<br>
+[Reflective piece](link)<br>
+[Skills matrix](https://github.com/patzsantos/e-portfolio-uoeo/blob/module2/oop/Unit%2012/OOP%20Unit%2012%20Professional%20Skills%20Matrix%20.pdf)<br>
+[Action plan](https://github.com/patzsantos/e-portfolio-uoeo/blob/module2/oop/Unit%2012/OOP%20Unit%2012-%20Action%20Plan.pdf)<br>
 
 # Credits
 Unit names, unit goals and aims, activities, skills matrix template, and action plan template are all provided for by [The University of Essex Online](https://www.essex.ac.uk/study-online) during the Object-Oriented Programming Module offered in November 2023. 
