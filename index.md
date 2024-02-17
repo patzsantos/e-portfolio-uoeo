@@ -4,7 +4,7 @@
 ### Module 2: Object-Oriented Programming
 <img src="images/module2.jpeg?raw=true"/>
 
-[Unit 1: An Introduction to Python Programming and the OO Programming Paradigm](https://github.com/patzsantos/e-portfolio-uoeo/blob/master/oop_unit1.md#unit-1-an-introduction-to-python-programming-and-the-oo-programming-paradigm)
+[Unit 1: An Introduction to Python Programming and the OO Programming Paradigm](https://github.com/patzsantos/e-portfolio-uoeo/oop_unit1.md)
 
 ---
 
