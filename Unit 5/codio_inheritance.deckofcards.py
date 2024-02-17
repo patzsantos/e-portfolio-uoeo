@@ -77,5 +77,7 @@ class Hand(object):
         return "Hand <{}>".format(self.cards)
 
 
-"""Reference: epequeno. (2016) ThinkPy-Solutions/ch18/18.03.py. Available from:
+"""Reference: 
+
+epequeno. (2016) ThinkPy-Solutions/ch18/18.03.py. Available from:
 https://github.com/epequeno/ThinkPy-Solutions/blob/master/ch18/18.03.py [Accessed 19 January 2024]."""
