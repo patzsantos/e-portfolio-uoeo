@@ -1,5 +1,5 @@
 <!--layout: page
-title: "OOP Unit 2 "
+title: "OOP Unit 2"
 permalink: /oop_unit2-->
 
 # Unit 2: Object Oriented Analysis - Initial Steps towards Programming in Python
