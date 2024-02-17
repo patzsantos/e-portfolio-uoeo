@@ -275,4 +275,4 @@ _-Write a Python program which applies a factory design pattern to generate obje
 [Action plan](https://github.com/patzsantos/e-portfolio-uoeo/blob/module2/oop/Unit%2012/OOP%20Unit%2012-%20Action%20Plan.pdf)<br>
 
 # Credits
-Unit names, unit goals and aims, activities, skills matrix template, and action plan template are all provided for by [The University of Essex Online](https://www.essex.ac.uk/study-online) during the Object-Oriented Programming Module offered in November 2023. 
+Unit names, formative activities, e-portfolio activities, Codio activities, skills matrix template, and action plan template are all provided for by [The University of Essex Online](https://www.essex.ac.uk/study-online) during the Object Oriented Programming November 2023 Module. 
