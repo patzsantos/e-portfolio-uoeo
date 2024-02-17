@@ -1,6 +1,6 @@
 <!--layout: page
-title: "OOP Unit 1 "
-permalink: /oop_unit1-->
+title: "OOP "
+permalink: /oop-->
 
 # Unit 1: An Introduction to Python Programming and the OO Programming Paradigm ###
 
