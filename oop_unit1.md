@@ -38,7 +38,7 @@ Classes and Objects:
 - [Circle](https://github.com/patzsantos/e-portfolio-uoeo/blob/module2/oop/Unit%201/codio_circle.py)
 - [Persons list](https://github.com/patzsantos/e-portfolio-uoeo/blob/module2/oop/Unit%201/codio_persons.list.py)<br>
 
-# Credits
-Unit names, formative activities, e-portfolio activities, Codio activities, skills matrix template, and action plan template are all provided for by [The University of Essex Online](https://www.essex.ac.uk/study-online) during the Object Oriented Programming November 2023 Module. 
+### Credits
+_Unit names, formative activities, e-portfolio activities, Codio activities, skills matrix template, and action plan template are all provided for by [The University of Essex Online](https://www.essex.ac.uk/study-online) during the Object Oriented Programming November 2023 Module._
 
 
