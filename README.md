@@ -1,1 +1,1 @@
-These were the assignment submissions for Module of the PG Cert Computer Science course in University of Essex Online that started on August 2023 and ended on October 2023. 
+These are my assignment submissions for the Launching Into Computer Science August 2023 Module offered by The University of Essex Online. 
