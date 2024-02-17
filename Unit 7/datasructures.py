@@ -1,16 +1,37 @@
-# 1 dictionary of traffic light colors and what their signals mean
-trafficLight = {
-    "red": "stop",
-    "yellow": "slow",
-    "green": "go"
-}
-print(trafficLight)
+class Car:
+    def __init__(self, make, model, year): 
+        self.make = make
+        self.model = model
+        self.year = year
+        self.data = {
+            "make" : self.make, 
+            "model" : self.model,
+            "year": self.year, 
+            "traffic_light": {
+                "red": "stop", 
+                "yellow": "slow",
+                "green": "go"
+            },
+            "car_control": ["steer left", "steer right", "steer straight", "accelerate", "brake"], 
+            "avoid_object": ["human", "animal", "big rock", "another car"]
+        }
 
+        def items(self):
+            return self.data.items()
 
-# 2 examples of lists that can store car control motions and objects to avoid
-carControl = ["steer left", "steer right", "steer straight", "accelerate", "brake"]
-print(carControl)
+        def keys(self): 
+            return self.data.keys()
 
+        def values(self):
+            return self.data.values()
 
-avoidObject = ["human", "animal", "big rock", "another car"]
-print(avoidObject)
+my_car = Car("Mazda", "CX 5", 2019)
+
+print("Items:")
+print(my_car.items())
+
+print("\nKeys:")
+print(my_car.keys())
+
+print("n\Values:")
+print(my_car.values())
