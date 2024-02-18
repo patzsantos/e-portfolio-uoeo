@@ -41,7 +41,7 @@
 ---
 [Unit 12: Working with Design Patterns to Structure Code](https://patzsantos.github.io/e-portfolio-uoeo/oop_unit12) <br><br>
 
-
+---
 
 ### Module 1: Launching Into Computer Science
 <img src="images/module1.jpeg?raw=true"/>
@@ -72,6 +72,5 @@
 
 ---
 
----
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
 <!-- Remove above link if you don't want to attibute -->
