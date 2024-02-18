@@ -8,7 +8,7 @@ This is the branch for the Object Oriented Programming November 2023 module of t
 My e-portfolio can be found [here](https://patzsantos.github.io/e-portfolio-uoeo/). 
 
 ### Units 1-12
-As the module requires us to keep a record of our progress during the module and at least one evidence of work during each unit.
+As the module requires us to keep a record of our progress during the module.
 
 ### Credits
 
