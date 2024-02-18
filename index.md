@@ -39,7 +39,7 @@
 [Unit 11: Pointers, References & Memory, and Design Patterns ](https://patzsantos.github.io/e-portfolio-uoeo/oop_unit11)
 
 ---
-[Unit 12: Working with Design Patterns to Structure Code](https://patzsantos.github.io/e-portfolio-uoeo/oop_unit12)
+[Unit 12: Working with Design Patterns to Structure Code](https://patzsantos.github.io/e-portfolio-uoeo/oop_unit12) <br><br>
 
 
 
