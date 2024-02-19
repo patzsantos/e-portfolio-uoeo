@@ -33,7 +33,7 @@ Each car operation, together with their corresponding test files, are stored in 
 
 ***For Environment Perception:*** _Open **perception.py**_
 - ***Mapping:*** The GPS updates the city and country where the car is currently running.
-- ***Avoid object:*** The LiDAR sensor detects objects, and warns the car to avoid it once it is less than 10 meters away. The objects will be listed in a _queue,_ and eventually appended once they are avoided.
+- ***Avoid object:*** The LiDAR sensor detects objects, and warns the car to avoid it once it is less than 10 meters away. The objects will be listed in a _queue,_ as they are removed once they are avoided.
 - ***Lane marking:*** The LiDAR senses lane markings on the road and makes sure that the car is driving within the lanes. 
 
 ***For V2I:*** _Open **vtoi.py** file_
