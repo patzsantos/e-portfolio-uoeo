@@ -124,7 +124,7 @@ _-Prepare a class diagram which corresponds to a system which will be implemente
 - [Double day](https://github.com/patzsantos/e-portfolio-uoeo/blob/module2/oop/Unit%204/codio_doubleday.py)
 
 ## Reflection
-I took advantage of this week to get back on track with answering my Codio exercises. Learning about class diagrams was a bit overwhelming for me. But my understanding is that they detail quite well how to implement systems. This will be very helpful in developing the proposal of my driverless car. However, I have to admit that I need to do more reading and research on class diagrams. 
+I took advantage of this week to get back on track with answering my Codio exercises. Learning about class diagrams was a bit overwhelming for me. My understanding is that they detail quite well how to implement systems. This will be very helpful in developing the proposal of my driverless car. However, I have to admit that I need to do more reading and research on class diagrams. 
 
 ---
 
