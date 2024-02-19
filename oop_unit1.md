@@ -39,6 +39,7 @@ Classes and Objects:
 - [Persons list](https://github.com/patzsantos/e-portfolio-uoeo/blob/module2/oop/Unit%201/codio_persons.list.py)<br>
 
 ## Credits
-_Unit names, formative activities, e-portfolio activities, and Codio activities are part of the Object Oriented Programming November 2023 Module offered by [University of Essex Online](https://online.essex.ac.uk/)._
+_Unit names, formative activities, e-portfolio activities, seminar activities, and Codio activities are all provided for by [The University of Essex Online](https://online.essex.ac.uk/) during the Object Oriented Programming November 2023 Module._
+
 
 
