@@ -20,4 +20,4 @@ _-Create a Python program which uses a constructor and abstract class.<br>
 - [Inheritance](https://github.com/patzsantos/e-portfolio-uoeo/blob/module2/oop/Unit%205/codio_inheritance.deckofcards.py)
   
 ### Credits
-_Unit names, formative activities, e-portfolio activities, and Codio activities are part of the Object Oriented Programming November 2023 Module offered by [University of Essex Online](https://www.essex.ac.uk/study-online)._
+_Unit names, formative activities, e-portfolio activities, seminar activities, and Codio activities are all provided for by [The University of Essex Online](https://online.essex.ac.uk/) during the Object Oriented Programming November 2023 Module._
