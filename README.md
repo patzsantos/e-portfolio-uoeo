@@ -104,7 +104,7 @@ Continue the discussion in unit 1. You should now provide a [summary post](https
 
 ## Reflection
 
-I learned various UML models that are used for software development. I became aware of the syntax used for varied diagrams. I also used Visual Paradigm Online, an open source tool, to create my Washing Machine state diagram. The first e-Portfolio activity taught me that UML models are intended for different purposes, depending on the stage they are in the Software Development Life Cycle. 
+I learned various UML models that are used for software development. I became aware of the syntax used in different diagrams. I also used Visual Paradigm Online, an open source tool, to create my Washing Machine state diagram. The first e-Portfolio activity taught me that UML models are intended for different purposes, depending on the stage they are in the Software Development Life Cycle. 
 
 ---
 
