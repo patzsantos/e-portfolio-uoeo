@@ -25,4 +25,4 @@ _-Write a Python program which applies a factory design pattern to generate obje
 [Action plan](https://github.com/patzsantos/e-portfolio-uoeo/blob/module2/oop/Unit%2012/OOP%20Unit%2012-%20Action%20Plan.pdf)<br>
 
 # Credits
-_Unit names, formative activities, e-portfolio activities, seminar activities, and Codio activities are all provided for by [The University of Essex Online](https://online.essex.ac.uk/)) during the Object Oriented Programming November 2023 Module._
+_Unit names, formative activities, e-portfolio activities, seminar activities, and Codio activities are all provided for by [The University of Essex Online](https://online.essex.ac.uk/) during the Object Oriented Programming November 2023 Module._
