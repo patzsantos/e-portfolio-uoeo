@@ -19,7 +19,7 @@ Continue the discussion in unit 8. You should now provide a [summary post](https
 
 ## Seminar Content Activities
 1. [Commenting and documentation](https://github.com/patzsantos/e-portfolio-uoeo/blob/module2/oop/Unit%2010/calculation.py) - added appropriate comments and documentation in the code.<br>
-2. [Unittest](https://github.com/patzsantos/e-portfolio-uoeo/blob/module2/oop/Unit%2010/calculation_test.py)- tested the operations of the previous activity (calculation.py) through unittest
+2. [Unittest](https://github.com/patzsantos/e-portfolio-uoeo/blob/module2/oop/Unit%2010/calculation_test.py)- tested the operations of the previous activity (Commenting and documentation) through unittest
 
 
 ### Credits
