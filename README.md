@@ -193,7 +193,7 @@ _-Apply Python tools to examine the quality of code.<br>
 
 ## Reflection
 
-I truly enjoyed making UML models for this unit. I had to watch videos about its development process to better understand what they are used for, and what they intend to show, depending on the diagram. As a result, even though it was quite overwhelming, creating various UML models for my driverless car enlightened me as to what operations I will include in the proposal. This would not have been possible without academic reading and research about autonomous vehicles. Data structures will be useful in storing data for my driverless car, such as lists for traffic lights and queue for objects to avoid.
+I truly enjoyed making UML diagrams for this unit. I had to watch videos about its development process to better understand what they are used for, and what they intend to show, depending on the diagram. As a result, even though it was quite overwhelming, creating various UML models for my driverless car enlightened me as to what operations I will include in the proposal. This would not have been possible without academic reading and research about autonomous vehicles. Data structures will be useful in storing data for my driverless car, such as lists for traffic lights and queue for objects to avoid.
 
 ---
 
