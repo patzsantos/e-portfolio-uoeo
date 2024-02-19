@@ -17,5 +17,8 @@ _-Describe the ways in which interfaces support Python code design.<br>
 ## Codio Activity
 - [Encapsulation](https://github.com/patzsantos/e-portfolio-uoeo/tree/module2/oop/Unit%206/Encapsulation)- Screenshots of some of the reading questions I answered for the Encapsulation module in Codio.<br>
 
+## Reflection
+I worked on the Encapsulation activities in Codio, where I gathered that it can be used for grouping and privatise information. I learned that using an underscore makes attributes private. 
+
 ### Credits
 _Unit names, formative activities, e-portfolio activities, seminar activities, and Codio activities are all provided for by [The University of Essex Online](https://online.essex.ac.uk/) during the Object Oriented Programming November 2023 Module._
