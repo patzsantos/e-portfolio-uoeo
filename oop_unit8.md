@@ -27,6 +27,10 @@ Polymorphism:
 - [Method overloading 2](https://github.com/patzsantos/e-portfolio-uoeo/blob/module2/oop/Unit%208/codio_method.overloading2.py)
 - [Method overriding](https://github.com/patzsantos/e-portfolio-uoeo/blob/module2/oop/Unit%208/codio_method.overrriding.py)
 
+## Reflection
+
+The collaborative discussion introduced me to designing metamodels that support IoT design. After reding more on it, I have discovered it still has weaknesses, despite its numerous strengths. Though there is still room for improvement, the design activity gave me a chance to improve on my driverless car class diagram into a smart model one. The result was a more specific and clearer diagram, that incorporated hardwares used, as well as color blocking to better distinguish classes. 
+
 ### Credits
 _Unit names, formative activities, e-portfolio activities, seminar activities, and Codio activities are all provided for by [The University of Essex Online](https://online.essex.ac.uk/) during the Object Oriented Programming November 2023 Module._
 
