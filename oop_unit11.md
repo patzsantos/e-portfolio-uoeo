@@ -20,4 +20,4 @@ _-Describe the overhead incurred in some programming languages other than Java a
 [System Implementation of a Driverless Car](https://github.com/patzsantos/e-portfolio-uoeo/tree/module2/oop/Driverless%20Car%20Summative%20Assessment%201%20and%202)
 
 ### Credits
-_Unit names, formative activities, e-portfolio activities, and Codio activities are part of the Object Oriented Programming November 2023 Module offered by [University of Essex Online](https://www.essex.ac.uk/study-online)._
+_Unit names, formative activities, e-portfolio activities, and Codio activities are part of the Object Oriented Programming November 2023 Module offered by [University of Essex Online](https://online.essex.ac.uk/)._
