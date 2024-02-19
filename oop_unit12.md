@@ -20,7 +20,7 @@ _-Write a Python program which applies a factory design pattern to generate obje
 
 [e-Portfolio website](https://patzsantos.github.io/e-portfolio-uoeo/)<br>
 [e-Portfolio OOP Github branch](https://github.com/patzsantos/e-portfolio-uoeo/tree/module2/oop)<br>
-[Reflective piece](link)<br>
+[Reflective piece](https://github.com/patzsantos/e-portfolio-uoeo/blob/module2/oop/Unit%2012/Unit%2012-%20Reflective%20Piece.pdf)<br>
 [Skills matrix](https://github.com/patzsantos/e-portfolio-uoeo/blob/module2/oop/Unit%2012/OOP%20Unit%2012%20Professional%20Skills%20Matrix%20.pdf)<br>
 [Action plan](https://github.com/patzsantos/e-portfolio-uoeo/blob/module2/oop/Unit%2012/OOP%20Unit%2012-%20Action%20Plan.pdf)<br>
 
