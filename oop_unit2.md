@@ -24,7 +24,7 @@ Continue the discussion in unit 1. Based on what we have covered in the first tw
 
 
 ### Credits
-_Unit names, formative activities, e-portfolio activities, and Codio activities are part of the Object Oriented Programming November 2023 Module offered by [University of Essex Online](https://www.essex.ac.uk/study-online)._
+_Unit names, formative activities, e-portfolio activities, seminar activities, and Codio activities are all provided for by [The University of Essex Online](https://online.essex.ac.uk/) during the Object Oriented Programming November 2023 Module._
 
 
 
