@@ -22,6 +22,9 @@ Continue the discussion in unit 1. Based on what we have covered in the first tw
 - [Methods](https://github.com/patzsantos/e-portfolio-uoeo/blob/module2/oop/Unit%202/codio_methods.time.py)
 - [Functions](https://github.com/patzsantos/e-portfolio-uoeo/blob/module2/oop/Unit%202/codio_functions.time.py)
 
+## Reflection 
+I read and responded to the initial post of my peers from the collaborative discussion 1. It was interesting to see that we ranked the factors that influence reusability differently. It is good to take note of their own opinion, while simultaneously broadening my own understanding of reusability. The Codio activities introduced me to writing functions and methods in classes. 
+
 
 ### Credits
 _Unit names, formative activities, e-portfolio activities, seminar activities, and Codio activities are all provided for by [The University of Essex Online](https://online.essex.ac.uk/) during the Object Oriented Programming November 2023 Module._
