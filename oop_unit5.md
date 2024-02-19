@@ -18,6 +18,9 @@ _-Create a Python program which uses a constructor and abstract class.<br>
 
 ## Codio Activity
 - [Inheritance](https://github.com/patzsantos/e-portfolio-uoeo/blob/module2/oop/Unit%205/codio_inheritance.deckofcards.py)
+
+## Reflection
+I continued working on my Codio activities this week, and I focused on Inheritance. The deck of cards exercise was quite difficult for my level. Honestly, it was quite later on in the module that I fully understood what Inheritance is. This was when I was making class diagrams for my System Design Proposal in Unit 7. Class diagrams gave me a visual representation of how Inheritance works, and that is when I saw how smaller classes can be derived from bigger ones, called Superclass. 
   
 ### Credits
 _Unit names, formative activities, e-portfolio activities, seminar activities, and Codio activities are all provided for by [The University of Essex Online](https://online.essex.ac.uk/) during the Object Oriented Programming November 2023 Module._
