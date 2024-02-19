@@ -48,6 +48,10 @@ Classes and Objects:
 - [Circle](https://github.com/patzsantos/e-portfolio-uoeo/blob/module2/oop/Unit%201/codio_circle.py)
 - [Persons list](https://github.com/patzsantos/e-portfolio-uoeo/blob/module2/oop/Unit%201/codio_persons.list.py)<br>
 
+## Reflection 
+
+I will admit that I have no prior exposure or grasp of Object Oriented programming. Therefore, a lot of the concepts and terms are alien to me. The collaborative discussion about factors that influence reusability was a good introduction to this module, as it gave me an overview of how that practice can lead to efficacy in producing new software, as not everything has to start from scratch. Codio activities, it seems, are becoming more complex for me. 
+
 ---
 
 # Unit 2: Object Oriented Analysis - Initial Steps towards Programming in Python
@@ -69,6 +73,9 @@ Continue the discussion in unit 1. Based on what we have covered in the first tw
 ## Codio Activities
 - [Methods](https://github.com/patzsantos/e-portfolio-uoeo/blob/module2/oop/Unit%202/codio_methods.time.py)
 - [Functions](https://github.com/patzsantos/e-portfolio-uoeo/blob/module2/oop/Unit%202/codio_functions.time.py)
+
+## Reflection 
+I read and responded to the initial post of my peers from the collaborative discussion 1. It was interesting to see that we ranked the factors that influence reusability differently. It is good to take note of their own opinion, while simultaneously broadening my own understanding of reusability. The Codio activities introduced me to writing functions and methods in classes. 
 
 ---
 
@@ -95,7 +102,12 @@ Continue the discussion in unit 1. You should now provide a [summary post](https
 - [Discuss](https://github.com/patzsantos/e-portfolio-uoeo/blob/module2/oop/Unit%203/OOP%20Unit%203_%20UML%20Models%20Applicable%20at%20Different%20Stages%20of%20the%20SDLC.pdf) which UML models are most applicable at different stages of the Software Development Life Cycle.
 - Making reference to ‘The Unified Modeling Language Reference Manual Second Edition’, use the State Machine Diagram in Figure 3-7 to [design](https://github.com/patzsantos/e-portfolio-uoeo/blob/module2/oop/Unit%203/OOP%20Unit%203_%20Washing%20Machine%20State%20Diagram.pdf) a similar model for a washing machine.
 
+## Reflection
+
+I learned various UML models that are used for software development. I became aware of the syntax used for varied diagrams. I also used Visual Paradigm Online, an open source tool, to create my Washing Machine state diagram. The first e-Portfolio activity taught me that UML models are intended for different purposes, depending on the stage they are in the Software Development Life Cycle. 
+
 ---
+
 # Unit 4: Applying a UML Model to a Program Implementation: UML in Practice
 
 <!--_**In this unit we shall:**_<br>
@@ -110,6 +122,9 @@ _-Prepare a class diagram which corresponds to a system which will be implemente
 
 ## Codio Activity
 - [Double day](https://github.com/patzsantos/e-portfolio-uoeo/blob/module2/oop/Unit%204/codio_doubleday.py)
+
+## Reflection
+I took advantage of this week to get back on track with answering my Codio exercises. Learning about class diagrams was a bit overwhelming for me. But my understanding is that they detail quite well how to implement systems. This will be very helpful in developing the proposal of my driverless car. However, I have to admit that I need to do more reading and research on class diagrams. 
 
 ---
 
@@ -130,6 +145,9 @@ _-Create a Python program which uses a constructor and abstract class.<br>
 ## Codio Activity
 - [Inheritance](https://github.com/patzsantos/e-portfolio-uoeo/blob/module2/oop/Unit%205/codio_inheritance.deckofcards.py)
 
+## Reflection
+I continued working on my Codio activities this week, and I focused on Inheritance. The deck of cards exercise was quite difficult for my level. Honestly, it was quite later on in the module that I fully understood what Inheritance is. This was when I was making class diagrams for my System Design Proposal in Unit 7. Class diagrams gave me a visual representation of how Inheritance works, and that is when I saw how smaller classes can be derived from bigger ones, called Superclass. 
+
 ---
 # Unit 6: Abstract Methods and Interfaces
 
@@ -145,6 +163,9 @@ _-Describe the ways in which interfaces support Python code design.<br>
 
 ## Codio Activity
 - [Encapsulation](https://github.com/patzsantos/e-portfolio-uoeo/tree/module2/oop/Unit%206/Encapsulation)- Screenshots of some of the reading questions I answered for the Encapsulation module in Codio.<br>
+
+## Reflection
+I worked on the Encapsulation activities in Codio, where I gathered that it can be used for grouping and privatise information. I learned that using an underscore makes attributes private. 
 
 ---
 
@@ -169,6 +190,10 @@ _-Apply Python tools to examine the quality of code.<br>
 ## Summative Assessment 1
 
 [System Design of a Driverless Car](https://github.com/patzsantos/e-portfolio-uoeo/blob/module2/oop/Driverless%20Car%20Summative%20Assessment%201%20and%202/System%20Design%20Proposal/OOP%20Assignment%201_%20A%20Design%20Proposal%20of%20Software%20to%20Support%20Operation%20of%20a%20Driverless%20Car.pdf)
+
+## Reflection
+
+I truly enjoyed making UML models for this unit. I had to watch videos about its development process to better understand what they are used for, and what they intend to show, depending on the diagram. As a result, even though it was quite overwhelming, creating various UML models for my driverless car enlightened me as to what operations I will include in the proposal. This would not have been possible without academic reading and research about autonomous vehicles. Data structures will be useful in storing data for my driverless car, such as lists for traffic lights and queue for objects to avoid.
 
 ---
 
@@ -196,6 +221,10 @@ Polymorphism:
 - [Method overloading 1](https://github.com/patzsantos/e-portfolio-uoeo/blob/module2/oop/Unit%208/codio_method.overloading.py)
 - [Method overloading 2](https://github.com/patzsantos/e-portfolio-uoeo/blob/module2/oop/Unit%208/codio_method.overloading2.py)
 - [Method overriding](https://github.com/patzsantos/e-portfolio-uoeo/blob/module2/oop/Unit%208/codio_method.overrriding.py)
+
+## Reflection
+
+The collaborative discussion introduced me to designing metamodels that support IoT design. After reding more on it, I have discovered it still has weaknesses, despite its numerous strengths. Though there is still room for improvement, the design activity gave me a chance to improve on my driverless car class diagram into a smart model one. The result was a more specific and clearer diagram, that incorporated hardwares used, as well as color blocking to better distinguish classes. 
   
 ---
 
@@ -221,6 +250,10 @@ Continue the discussion in unit 8. Based on what we have covered in the first tw
 
 2. [Assert statement](https://github.com/patzsantos/e-portfolio-uoeo/blob/module2/oop/Unit%209/assert.py)
 
+## Reflection
+
+Looking back, the e-Portfolio activities are quite simple. However, I overanalysed and spent so much time working on them. It is a good reminder to increase my focus, and improve on my coding and critical thinking skills so that I can be more efficient as I go through the module activities. In Unit 9, I learned about how to compute for cyclomatic complexity using McCabe's formula. I also embedded a simple code with assert statements, which can quickly test code. My self-assessment is that despite reading about packaging in Python, I need to actually implement them when building programs, which at this point, I have not done yet. 
+
 ---
 
 # Unit 10: Testing Code in Practice
@@ -242,6 +275,9 @@ Continue the discussion in unit 8. You should now provide a [summary post](https
 1. [Commenting and documentation](https://github.com/patzsantos/e-portfolio-uoeo/blob/module2/oop/Unit%2010/calculation.py) - added appropriate comments and documentation in the code.<br>
 2. [Unittest](https://github.com/patzsantos/e-portfolio-uoeo/blob/module2/oop/Unit%2010/calculation_test.py)- tested the operations of the previous activity (calculation.py)through unittest
 
+## Reflection
+Testing code really takes up a lot of your time. However, this is the best way to check that they are working accordingly. Without testing, we might be wasting our time writing a program if it is not executing its functions correctly. Compared to the previous module, I have a slightly better understanding of unittests. The seminar this week has been very helpful, as assert statements and unittests were covered. I could apply them when I test the code for my driverless car. I have also realised the importance of proper commenting and documentation in coding. It should be simple and clear, so that anyone can understand what it does, as well as know the intention of the developer in writing it that way. 
+
 ---
 
 # Unit 11: Pointers, References & Memory, and Design Patterns
@@ -260,6 +296,10 @@ _-Describe the overhead incurred in some programming languages other than Java a
 ## Summative Assessment 2:
 
 [System Implementation of a Driverless Car](https://github.com/patzsantos/e-portfolio-uoeo/tree/module2/oop/Driverless%20Car%20Summative%20Assessment%201%20and%202)
+
+## Reflection
+
+So far, this has been the most difficult activity and assessment for me. I really struggle with coding. When I consulted about my code, my peer and tutor found many syntax errors. I had to put in extra time and work in order improve on my code. It was a good thing that I started it quite early. Despite that, I still spent a lot of time working on this. At the end of it all though, I can say that I am happy with the System Implementation of my driverless car. After many trials and errors, I feel that I was able to follow most of my design proposal. It is definitely not an excellent program, but I know that I did my best. I learned so much working on this. When I was stuck, I am thankful that members in discuss.python.org explained to me in great detail how I can make my code function the way I wanted to. 
 
 ---
 
@@ -283,6 +323,10 @@ _-Write a Python program which applies a factory design pattern to generate obje
 [Reflective piece](https://github.com/patzsantos/e-portfolio-uoeo/blob/module2/oop/Unit%2012/Unit%2012-%20Reflective%20Piece.pdf)<br>
 [Skills matrix](https://github.com/patzsantos/e-portfolio-uoeo/blob/module2/oop/Unit%2012/OOP%20Unit%2012%20Professional%20Skills%20Matrix%20.pdf)<br>
 [Action plan](https://github.com/patzsantos/e-portfolio-uoeo/blob/module2/oop/Unit%2012/OOP%20Unit%2012-%20Action%20Plan.pdf)<br>
+
+## Reflection
+
+I attended the last seminar this week wherein various design patterns in coding were tackled. Besides this, I finished my last requirements for the OOP module. I finally got to build my e-Portfolio website. It is simple, but I tried my best to relay my learning for each module clearly. Besides the website, since it is a requirement too, I built a separate Github branch for OOP. It has the same contents as my website. I personally enjoyed building the website more since I like working on the design side of things. I wrote a reflective piece that gives an overview of my learning and realisations during the OOP module. My action plan presents how I achieved my learning goals, and the skills matrix shows how I assessed my overall performance this module.
 
 # Credits
 _Unit names, formative activities, e-portfolio activities, seminar activities, and Codio activities are all provided for by [The University of Essex Online](https://online.essex.ac.uk/) during the Object Oriented Programming November 2023 Module._
