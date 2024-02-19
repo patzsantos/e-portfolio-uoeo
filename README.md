@@ -299,7 +299,7 @@ _-Describe the overhead incurred in some programming languages other than Java a
 
 ## Reflection
 
-So far, this has been the most difficult activity and assessment for me. I really struggle with coding. When I consulted about my code, my peer and tutor found many syntax errors. I had to put in extra time and work in order improve on my code. It was a good thing that I started it quite early. Despite that, I still spent a lot of time working on this. At the end of it all though, I can say that I am happy with the System Implementation of my driverless car. After many trials and errors, I feel that I was able to follow most of my design proposal. It is definitely not an excellent program, but I know that I did my best. I learned so much working on this. When I was stuck, I am thankful that members in discuss.python.org explained to me in great detail how I can make my code function the way I wanted to. 
+So far, this has been the most difficult activity and assessment for me. During the seminar, my peer and tutor found many syntax errors in my code. I had to put in extra time and work in order to improve it. It was a good thing that I started the assessment quite early. After many trials and errors, I feel that I was able to execute most of my design proposal. It is definitely not an excellent program, but I know that I did my best, and I am quite happy with my submission. Moreover, when I was stuck, I am thankful that members in discuss.python.org explained to me in great detail how I can make my code function the way I wanted it to.
 
 ---
 
