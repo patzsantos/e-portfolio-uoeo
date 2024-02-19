@@ -18,7 +18,7 @@ _-Apply Python tools to examine the quality of code.<br>
 
 ## e-Portfolio Activity
 
-[Create](https://github.com/patzsantos/e-portfolio-uoeo/blob/module2/oop/Unit%207/datasructures.py) a nested dictionary of data on cars within a Car class. Extend the program to work with the dictionary by calling the following methods: items(), keys(), values()
+[Create][(https://github.com/patzsantos/e-portfolio-uoeo/blob/module2/oop/Unit%207/datasructures.py)](https://github.com/patzsantos/e-portfolio-uoeo/blob/module2/oop/Unit%207/datastructures.py) a nested dictionary of data on cars within a Car class. Extend the program to work with the dictionary by calling the following methods: items(), keys(), values()
 
 ## Summative Assessment 1
 
