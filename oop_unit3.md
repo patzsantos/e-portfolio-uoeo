@@ -25,6 +25,10 @@ Continue the discussion in unit 1. You should now provide a [summary post](https
 - [Discuss](https://github.com/patzsantos/e-portfolio-uoeo/blob/module2/oop/Unit%203/OOP%20Unit%203_%20UML%20Models%20Applicable%20at%20Different%20Stages%20of%20the%20SDLC.pdf) which UML models are most applicable at different stages of the Software Development Life Cycle.
 - Making reference to ‘The Unified Modeling Language Reference Manual Second Edition’, use the State Machine Diagram in Figure 3-7 to [design](https://github.com/patzsantos/e-portfolio-uoeo/blob/module2/oop/Unit%203/OOP%20Unit%203_%20Washing%20Machine%20State%20Diagram.pdf) a similar model for a washing machine.
 
+## Reflection
+
+I learned various UML models that are used for software development. I became aware of the syntax used for varied diagrams. I also used Visual Paradigm Online, an open source tool, to create my Washing Machine state diagram. The first e-Portfolio activity taught me that UML models are intended for different purposes, depending on the stage they are in the Software Development Life Cycle. 
+
 
 ### Credits
 _Unit names, formative activities, e-portfolio activities, seminar activities, and Codio activities are all provided for by [The University of Essex Online](https://online.essex.ac.uk/) during the Object Oriented Programming November 2023 Module._
