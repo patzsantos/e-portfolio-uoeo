@@ -1,6 +1,6 @@
 <!--layout: page
-title: "SSD "
-permalink: /ssd_unit1-->
+title: "SSDCS Unit 1 "
+permalink: /ssdcs_unit1-->
 
 # Unit 1: Introduction to Secure Software Development #
 
