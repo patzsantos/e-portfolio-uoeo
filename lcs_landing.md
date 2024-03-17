@@ -1,3 +1,6 @@
+<!--layout: page
+title: "LCS Landing"
+permalink: /lcs_landing-->
 
 ### Module 1: Launching Into Computer Science
 <img src="images/module1.jpeg?raw=true"/>
