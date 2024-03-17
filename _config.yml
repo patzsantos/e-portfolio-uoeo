@@ -7,7 +7,7 @@ description: > # your text below (remove <br> elements if you don't need line br
   <br><br>
   Credits:
   Unit names, formative activities, e-portfolio activities, seminar activities, and Codio activities are all provided for by The University of Essex Onlinefor the PG Cert Computer Science course.
-<br>
+  <br>
   
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
