@@ -1,6 +1,5 @@
 # PG Cert Computer Science<br>
 This short course will introduce you to the fundamentals of computing, exploring the current trends and best practices in the field. You will gain the technical skills needed to start developing your own programs, while improving your ability to collaborate with others and solve problems with the skills you’ve gained.<br>
-<img src="images/launchpage.jpg?raw=true"/>
 
 ## [Module 3: Secure Software Development (Computer Science)](https://patzsantos.github.io/e-portfolio-uoeo/ssdcs_landing)<br>
 **Syllabus:**
@@ -10,6 +9,7 @@ _■ Abstraction: comparison of languages and approaches (object oriented, dynam
 ■ Static & dynamic code checking_
 
 ## [Module 2: Object Oriented Programming](https://patzsantos.github.io/e-portfolio-uoeo/oop_landing)<br>
+<img src="images/module2.jpeg?raw=true"/>
 **Syllabus:**
 _■ Object-oriented programming philosophy
 ■ Working with UML
@@ -22,6 +22,7 @@ _■ Object-oriented programming philosophy
 ■ Advanced topics: Design Language evolution and Design Patterns_
 <br>
 ## [Module 1: Launching Into Computer Science](https://patzsantos.github.io/e-portfolio-uoeo/lcs_landing)<br>
+<img src="images/module1.jpeg?raw=true"/>
 **Syllabus:**
 _■ Computer science professional roles, skillset, ethical responsibilities, standards and resources available
 ■ Introduction to computing infrastructure and information systems
