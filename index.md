@@ -1,5 +1,6 @@
 # PG Cert Computer Science<br>
 This short course will introduce you to the fundamentals of computing, exploring the current trends and best practices in the field. You will gain the technical skills needed to start developing your own programs, while improving your ability to collaborate with others and solve problems with the skills you’ve gained.<br>
+<img src="images/launchpage.jpg?raw=true"/>
 
 ## [Module 3: Secure Software Development (Computer Science)](https://patzsantos.github.io/e-portfolio-uoeo/ssdcs_landing)<br>
 **Syllabus:**
