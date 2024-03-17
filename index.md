@@ -3,10 +3,10 @@ This short course will introduce you to the fundamentals of computing, exploring
 
 ## [Module 3: Secure Software Development (Computer Science)](https://patzsantos.github.io/e-portfolio-uoeo/ssdcs_landing)<br>
 **Syllabus:**
-■ Abstraction: comparison of languages and approaches (object oriented, dynamic, functional, logical)
+_■ Abstraction: comparison of languages and approaches (object oriented, dynamic, functional, logical)
 ■ Issues and challenges in the Software Development Life Cycle (SDLC); Secure languages & design; Modern development models
 ■ Secure coding principles & practices and the API generation
-■ Static & dynamic code checking
+■ Static & dynamic code checking_
 
 ## [Module 2: Object Oriented Programming](https://patzsantos.github.io/e-portfolio-uoeo/oop_landing)<br>
 **Syllabus:**
