@@ -2,6 +2,7 @@
 This short course will introduce you to the fundamentals of computing, exploring the current trends and best practices in the field. You will gain the technical skills needed to start developing your own programs, while improving your ability to collaborate with others and solve problems with the skills you’ve gained.<br>
 
 ## [Module 3: Secure Software Development (Computer Science)](https://patzsantos.github.io/e-portfolio-uoeo/ssdcs_landing)<br>
+<img src="images/module3.jpeg?raw=true"/>
 **Syllabus:**
 _■ Abstraction: comparison of languages and approaches (object oriented, dynamic, functional, logical)
 ■ Issues and challenges in the Software Development Life Cycle (SDLC); Secure languages & design; Modern development models
