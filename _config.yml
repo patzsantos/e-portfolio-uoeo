@@ -1,4 +1,4 @@
-title: e-Portfolio # your name (or website title) here
+title:  # your name (or website title) here
 logo: "/images/grey.jpeg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   Hi I'm Patricia.
@@ -6,7 +6,7 @@ description: > # your text below (remove <br> elements if you don't need line br
   This is my e-Portfolio based on the work carried out in the PG Cert Computer Science programme of the University of Essex Online. 
   <br><br>
   Credits:
-  Unit names, formative activities, e-portfolio activities, seminar activities, and Codio activities are all provided for by The University of Essex Online for the PG Cert Computer Science course.
+  Unit names, formative activities, e-portfolio activities, seminar activities, and Codio activities are all provided for by The University of Essex Online
   <br>
   
 remote_theme: pages-themes/minimal@v0.2.0
