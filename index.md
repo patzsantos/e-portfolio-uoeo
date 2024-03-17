@@ -1,6 +1,7 @@
 # Modules
 
 ## [Unit 2: Object Oriented Programming](https://patzsantos.github.io/e-portfolio-uoeo/oop_landing)<br>
+### Syllabus: <br>
 _■ Object-oriented programming philosophy
 ■ Working with UML
 ■ Working with objects and classes
@@ -12,6 +13,7 @@ _■ Object-oriented programming philosophy
 ■ Advanced topics: Design Language evolution and Design Patterns_
 <br>
 ## [Unit 1: Launching Into Computer Science](https://patzsantos.github.io/e-portfolio-uoeo/lcs_landing)<br>
+### Syllabus: <br>
 _■ Computer science professional roles, skillset, ethical responsibilities, standards and resources available
 ■ Introduction to computing infrastructure and information systems
 ■ Emerging trends in computer science
