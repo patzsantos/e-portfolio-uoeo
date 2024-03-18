@@ -23,7 +23,7 @@ Describe the importance of creating a culture of risk awareness in an organisati
 <br>
 Select one of the coding weaknesses which have been identified by OWASP and create a flowchart of the steps which may have led to the weakness occurring. Which UML models might you use to present the design of your proposed software, and why are they the most appropriate choice(s)?
 <br>
-
+SSDCS Unit 1 Collaborative Discussion Initial Post.png
 
 
 <!--1. Review the article by Di Silvestro & Nadir (2021). [Discuss](https://github.com/patzsantos/e-portfolio-uoeo/blob/module2/oop/Unit%201/OOP_%20Unit%201%20Review%20the%20article%20by%20Di%20Silvestro%20%26%20Nadir%20(2021).%20Discuss%20one%20aspect%20of%20this%20article%20which%20you%20find%20unexpected..pdf) one aspect of this article which you find unexpected.
