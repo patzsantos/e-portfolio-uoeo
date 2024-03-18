@@ -18,17 +18,19 @@ _**On completion of this unit you will be able to:** <br>_
 -Describe the importance of creating a culture of risk awareness in an organisation, in addition to the creation of secure software.**
 <br>
 
-## Collaborative Activity
+## Independent Working
 
-<details><summary><h3>1. Collaborative Discussion 1: UML Flowchart</h3></summary>
+<details><summary><h3>Collaborative Discussion 1 Initial Post: UML Flowchart</h3></summary>
 <br>
 Select one of the coding weaknesses which have been identified by OWASP and create a flowchart of the steps which may have led to the weakness occurring. Which UML models might you use to present the design of your proposed software, and why are they the most appropriate choice(s)?
 <br>
 <img src="images/ssdcs_unit1_intial_1.jpg?raw=true"/>
 <img src="images/ssdcs_unit1_intial_2.jpg?raw=true"/>
-<img src="images/ssdcs_unit1_intial_3.jpg?raw=true"/></details>
+<img src="images/ssdcs_unit1_intial_3.jpg?raw=true"/></details> <br>
 
-<details><summary><h3>2. Team Contract</h3></summary>
+## Collaboration
+
+<details><summary><h3>Team Contract</h3></summary>
 <br>
 We had to start getting in touch with our teammates for the design document development team project. Our team started a group chat where we discussed what to include our contract, and decide on our team name--Bulwark._
 <br>
@@ -36,8 +38,9 @@ We had to start getting in touch with our teammates for the design document deve
 <img src="images/ssdcs_unit1_teamcontract_2.jpg?raw=true"/>
 <img src="images/ssdcs_unit1_teamcontract_3.jpg?raw=true"/></details><br>
 
-## Personal Reflection
+## Criticality 
 
+<details><summary><h3>Reflection</h3></summary></details>
 This week, I started the last module for my PG Cert Computer Science Course in University of Essex Online, Secure Software Development (Computer Science).I am both excited and nervous. Excited because software security really interests me, and I know that this is crucial in developing systems and programs that are safe from malicious and persistent attacks. 
 <br>
   
