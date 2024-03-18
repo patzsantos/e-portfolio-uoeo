@@ -22,7 +22,7 @@ _**On completion of this unit you will be able to:** <br>_
 
 <details><summary><h3>1. Collaborative Discussion 1: UML Flowchart</h3></summary>
 <br>
-_Select one of the coding weaknesses which have been identified by OWASP and create a flowchart of the steps which may have led to the weakness occurring. Which UML models might you use to present the design of your proposed software, and why are they the most appropriate choice(s)?_
+Select one of the coding weaknesses which have been identified by OWASP and create a flowchart of the steps which may have led to the weakness occurring. Which UML models might you use to present the design of your proposed software, and why are they the most appropriate choice(s)?
 <br>
 <img src="images/ssdcs_unit1_intial_1.jpg?raw=true"/>
 <img src="images/ssdcs_unit1_intial_2.jpg?raw=true"/>
@@ -30,7 +30,7 @@ _Select one of the coding weaknesses which have been identified by OWASP and cre
 
 <details><summary><h3>2. Team Contract</h3></summary>
 <br>
-_We had to start getting in touch with our teammates for the design document development team project. Our team started a group chat where we discussed what to include our contract, and decide on our team name--**Bulwark**._
+We had to start getting in touch with our teammates for the design document development team project. Our team started a group chat where we discussed what to include our contract, and decide on our team name--Bulwark._
 <br>
 <img src="images/ssdcs_unit1_teamcontract_1.jpg?raw=true"/>
 <img src="images/ssdcs_unit1_teamcontract_2.jpg?raw=true"/>
