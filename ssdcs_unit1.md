@@ -20,17 +20,17 @@ _**On completion of this unit you will be able to:** <br>_
 
 ## Collaborative Activity
 
-<details><summary>1. Collaborative Discussion 1: UML Flowchart</summary>
+**<details><summary>1. Collaborative Discussion 1: UML Flowchart</summary>**
 <br>
-Select one of the coding weaknesses which have been identified by OWASP and create a flowchart of the steps which may have led to the weakness occurring. Which UML models might you use to present the design of your proposed software, and why are they the most appropriate choice(s)?
+_Select one of the coding weaknesses which have been identified by OWASP and create a flowchart of the steps which may have led to the weakness occurring. Which UML models might you use to present the design of your proposed software, and why are they the most appropriate choice(s)?_
 <br>
 <img src="images/ssdcs_unit1_intial_1.jpg?raw=true"/>
 <img src="images/ssdcs_unit1_intial_2.jpg?raw=true"/>
 <img src="images/ssdcs_unit1_intial_3.jpg?raw=true"/></details>
 
-<details><summary>2. Team Contract</summary>
+**<details><summary>2. Team Contract</summary>**
 <br>
-We had to start getting in touch with our teammates for the design document development team project. Our team started a group chat where we discussed what to include our contract, and decide on our team name-- **Bulwark**. 
+_We had to start getting in touch with our teammates for the design document development team project. Our team started a group chat where we discussed what to include our contract, and decide on our team name--**Bulwark**._
 <br>
 <img src="images/ssdcs_unit1_teamcontract_1.jpg?raw=true"/>
 <img src="images/ssdcs_unit1_teamcontract_2.jpg?raw=true"/>
