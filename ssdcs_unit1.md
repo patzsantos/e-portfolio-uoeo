@@ -2,9 +2,8 @@
 title: "SSDCS Unit 1 "
 permalink: /ssdcs_unit1-->
 
-# Unit 1: Introduction to Secure Software Development #
-
-
+# Unit 1: Introduction to Secure Software Development 
+<br>
 _**In this unit we shall:** <br>_
 
 -Explore the waterfall and agile approaches to software development, with a focus on the implications of developing secure software using each.<br>
@@ -23,6 +22,7 @@ _**On completion of this unit you will be able to:** <br>_
 <details><summary><h3>Collaborative Discussion 1 Initial Post: UML Flowchart</h3></summary>
 <br>
 Select one of the coding weaknesses which have been identified by OWASP and create a flowchart of the steps which may have led to the weakness occurring. Which UML models might you use to present the design of your proposed software, and why are they the most appropriate choice(s)?
+
 <br>
 <img src="images/ssdcs_unit1_intial_1.jpg?raw=true"/>
 <img src="images/ssdcs_unit1_intial_2.jpg?raw=true"/>
@@ -40,6 +40,7 @@ We had to start getting in touch with our teammates for the design document deve
 
 ## Criticality 
 <br>
+
 ### Reflection
 <br>
 This week, I started the last module for my PG Cert Computer Science Course in University of Essex Online, Secure Software Development (Computer Science). I am both excited and nervous. Excited because software security really interests me, for I know that they are crucial in developing systems and programs that are safe from malicious and persistent attacks. Therefore, specialisation in Secure Software Development is greatly sought after nowadays. 
