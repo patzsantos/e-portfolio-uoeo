@@ -7,17 +7,16 @@ permalink: /ssdcs_unit1-->
 
 _**In this unit we shall:** <br>_
 
--Explore the waterfall and agile approaches to software development, with a focus on the implications of developing secure software using each.
--Become acquainted with the Unified Modelling Language and how it can be used to support software development.
--Gain a familiarity with the standards which are used by industry to develop secure software.
--Appreciate the importance of developing a risk-aware culture within an organisation.
+-Explore the waterfall and agile approaches to software development, with a focus on the implications of developing secure software using each.<br>
+-Become acquainted with the Unified Modelling Language and how it can be used to support software development.<br>
+-Gain a familiarity with the standards which are used by industry to develop secure software.<br>
+-Appreciate the importance of developing a risk-aware culture within an organisation.<br>
 
 _**On completion of this unit you will be able to:** <br>_
-
--Identify relevant academic literature which discusses the ways in which secure software may be developed using an agile process.
--Decompose an activity into a set of tasks which can be represented using a flow chart from the UML portfolio of modelling techniques.
--Describe the importance of creating a culture of risk awareness in an organisation, in addition to the creation of secure software.**<br>_
-
+-Identify relevant academic literature which discusses the ways in which secure software may be developed using an agile process.<br>
+-Decompose an activity into a set of tasks which can be represented using a flow chart from the UML portfolio of modelling techniques.<br>
+-Describe the importance of creating a culture of risk awareness in an organisation, in addition to the creation of secure software.**
+<br>
 
 ## Collaborative Activity
 
@@ -36,7 +35,6 @@ We had to start getting in touch with our teammates for the design document deve
 <img src="images/ssdcs_unit1_teamcontract_1.jpg?raw=true"/>
 <img src="images/ssdcs_unit1_teamcontract_2.jpg?raw=true"/>
 <img src="images/ssdcs_unit1_teamcontract_3.jpg?raw=true"/></details>
-</details>
 
 ## Personal Reflection
 
