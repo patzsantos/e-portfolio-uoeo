@@ -43,7 +43,7 @@ We had to start getting in touch with our teammates for the design document deve
 ### Reflection
 <br>
 
-This week, I started the last module for my PG Cert Computer Science Course in University of Essex Online, Secure Software Development (Computer Science).I am both excited and nervous. Excited because software security really interests me, and I know that this is crucial in developing systems and programs that are safe from malicious and persistent attacks. 
+This week, I started the last module for my PG Cert Computer Science Course in University of Essex Online, Secure Software Development (Computer Science). I am both excited and nervous. Excited because software security really interests me, for I know that they are crucial in developing systems and programs that are safe from malicious and persistent attacks. Therefore, specialisation in Secure Software Development is greatly sought after nowadays. 
 <br>
 
 The Lecturecast entitled 'Introduction to Software Development' introduced me to the agile, waterfall, and spiral approach to software development. Each has its benefits and drawbacks, and it is good to analyse the scale of your team and project in order to choose the appropriate approach. I also gained familiarity with international bodies that set security standards or IT systems such as 'World Wide Web Consortium', 'The Internet Society', 'The National Institute of Standards and Technology', and 'The International Organisaion for Standardisation (ISO) and the International Electrotechnical Commission'. There was also a review about creating UML Diagrams, which was tackled in the previous module. 
