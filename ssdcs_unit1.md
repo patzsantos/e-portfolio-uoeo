@@ -40,8 +40,9 @@ We had to start getting in touch with our teammates for the design document deve
 
 ## Criticality 
 
-**Reflection**
+### Reflection
 <br>
+
 This week, I started the last module for my PG Cert Computer Science Course in University of Essex Online, Secure Software Development (Computer Science).I am both excited and nervous. Excited because software security really interests me, and I know that this is crucial in developing systems and programs that are safe from malicious and persistent attacks. 
 <br>
 
