@@ -32,7 +32,7 @@ Select one of the coding weaknesses which have been identified by OWASP and crea
 
 <details><summary><h3>Team Contract</h3></summary>
 <br>
-We had to start getting in touch with our teammates for the design document development team project. Our team started a group chat where we discussed what to include our contract, and decide on our team name--Bulwark._
+We had to start getting in touch with our teammates for the design document development team project. Our team started a group chat where we discussed what to include our contract, and decide on our team name--Bulwark.
 <br>
 <img src="images/ssdcs_unit1_teamcontract_1.jpg?raw=true"/>
 <img src="images/ssdcs_unit1_teamcontract_2.jpg?raw=true"/>
