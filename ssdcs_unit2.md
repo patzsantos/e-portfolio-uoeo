@@ -37,8 +37,14 @@ Title: Managing People to Overcome Cyber Security Attacks from the Inside
 
 <details><summary><h3>Collaborative Discussion 1: UML flowchart Peer Response</h3></summary>
 <br>
-You will then respond to at least 2 of your peers' posts in unit 2 (each labelled as 'Peer Response').  To guide your responses, look at the guidelines for the peer review process on the Department’s homepage. Focus on the possible measures that could have been put in place in order to prevent the incidents highlighted by your peers. Please try to limit your response posts to 200-300 words maximum, so that others may be encouraged to reflect on, and respond to your ideas. 
+Continue the discussion in unit 1 . You should choose at least two of your peers' contributions and comment on the weakness they chose, as well as:<br>
+
+- What do you like about their flowchart?<br>
+- In what way(s) might it be improved?<Br>
+
+Your posts should be a maximum of 300 words. Please include sufficient content so that others may be encouraged to reflect on and respond to your ideas. Your follow-up responses should be labelled as “Peer Response”. You should do this before working through the preparation for the Seminar this week.
 <br>
+
 <img src="images/ssdcs_unit2_peerresponse1.jpg?raw=true"/>
 <img src="images/ssdcs_unit2_peerresponse2.jpg?raw=true"/>
 <img src="images/ssdcs_unit2_peerresponse3.jpg?raw=true"/>
@@ -58,4 +64,3 @@ Right after the seminar, my team had our kick-off meeting. It was nice to align 
 The e-Portfolio activity, which is a blog post on managing people in cybersecurity, was a good opportunity to get acquainted with the language and concepts set down in the ISO/IEC Standard on security. I applied my learning from Unit 1 about the OWASP Top 10 Protocols 2018 into my selection of the ISO/IEC terms for the blog post, which aims to deal with managing people in cyber security within organisations. <br>
 
 **_[Return to Software Secure Development Module Page](https://patzsantos.github.io/e-portfolio-uoeo/ssdcs_landing)_**
-
