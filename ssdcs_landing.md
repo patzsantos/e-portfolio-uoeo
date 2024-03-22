@@ -12,7 +12,7 @@ _This module introduces students to the underpinning concepts and skills of Secu
 
 ---
 
-[Unit 2: UML Modelling to Support Secure System Planning]((https://patzsantos.github.io/e-portfolio-uoeo/ssdcs_unit2)
+[Unit 2: UML Modelling to Support Secure System Planning](https://patzsantos.github.io/e-portfolio-uoeo/ssdcs_unit2)
 
 ---
 
