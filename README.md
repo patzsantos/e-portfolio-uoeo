@@ -1,1 +1,1 @@
-These are my assignment submissions for the Launching Into Computer Science August 2023 Module offered by The University of Essex Online. 
+These are my assignment submissions for the Secure Software Development (Computer Science) offered by The University of Essex Online. 
