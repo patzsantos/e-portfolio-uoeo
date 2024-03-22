@@ -29,7 +29,9 @@ Select five terms from ISO/IEC Standard 27000 Section 3 Terms and Definitions an
 Title: Managing People to Overcome Cyber Security Attacks from the Inside
 <img src="images/ssdcs_unit2_blog1.jpg?raw=true"/>
 <img src="images/ssdcs_unit2_blog2.jpg?raw=true"/>
-<img src="images/ssdcs_unit2_blog3.jpg?raw=true"/></details> <br>
+<img src="images/ssdcs_unit2_blog3.jpg?raw=true"/>
+<img src="images/ssdcs_unit2_blog4.jpg?raw=true"/>
+<img src="images/ssdcs_unit2_blog5.jpg?raw=true"/></details> <br>
 
 ## Collaboration
 
@@ -39,7 +41,8 @@ We had to start getting in touch with our teammates for the design document deve
 <br>
 <img src="images/ssdcs_unit1_teamcontract_1.jpg?raw=true"/>
 <img src="images/ssdcs_unit1_teamcontract_2.jpg?raw=true"/>
-<img src="images/ssdcs_unit1_teamcontract_3.jpg?raw=true"/></details><br>
+<img src="images/ssdcs_unit1_teamcontract_3.jpg?raw=true"/>
+</details><br>
 
 ## Criticality 
 <br>
@@ -52,3 +55,6 @@ We had our second seminar this week entitled Scrum Security Review. I learned ab
 Right after the seminar, my team had our kick-off meeting. It was nice to align our goals, and have a preview of how we will tackle our project over the next 5 weeks. I am honestly a little overwhelmed with this project, but more so with the individual coding part. But I am happy with how the team has been communicating well these past two weeks, and we seem to have the same goals in mind.<br>
 
 The e-Portfolio activity, which is a blog post on managing people in cybersecurity, was a good opportunity to get acquainted with the language and concepts set down in the ISO/IEC Standard on security. I applied my learning from Unit 1 about the OWASP Top 10 Protocols 2018 into my selection of the ISO/IEC terms for the blog post, which aims to deal with managing people in cyber security within organisations. <br>
+
+[Return to Software Secure Development Module Page](https://patzsantos.github.io/e-portfolio-uoeo/ssdcs_landing)
+
