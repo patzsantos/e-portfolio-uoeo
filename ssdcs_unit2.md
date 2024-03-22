@@ -35,13 +35,14 @@ Title: Managing People to Overcome Cyber Security Attacks from the Inside
 
 ## Collaboration
 
-<details><summary><h3>Team Contract</h3></summary>
+<details><summary><h3>Collaborative Discussion 1: UML flowchart Peer Response</h3></summary>
 <br>
-We had to start getting in touch with our teammates for the design document development team project. Our team started a group chat where we discussed what to include our contract, and decide on our team name--Bulwark.
+You will then respond to at least 2 of your peers' posts in unit 2 (each labelled as 'Peer Response').  To guide your responses, look at the guidelines for the peer review process on the Department’s homepage. Focus on the possible measures that could have been put in place in order to prevent the incidents highlighted by your peers. Please try to limit your response posts to 200-300 words maximum, so that others may be encouraged to reflect on, and respond to your ideas. 
 <br>
-<img src="images/ssdcs_unit1_teamcontract_1.jpg?raw=true"/>
-<img src="images/ssdcs_unit1_teamcontract_2.jpg?raw=true"/>
-<img src="images/ssdcs_unit1_teamcontract_3.jpg?raw=true"/>
+<img src="images/ssdcs_unit2_peerresponse1.jpg?raw=true"/>
+<img src="images/ssdcs_unit2_peerresponse2.jpg?raw=true"/>
+<img src="images/ssdcs_unit2_peerresponse3.jpg?raw=true"/>
+<img src="images/ssdcs_unit2_peerresponse4.jpg?raw=true"/>
 </details><br>
 
 ## Criticality 
