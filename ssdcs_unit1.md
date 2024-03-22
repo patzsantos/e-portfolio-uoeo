@@ -25,9 +25,10 @@ _**On completion of this unit you will be able to:** <br>_
 Select one of the coding weaknesses which have been identified by OWASP and create a flowchart of the steps which may have led to the weakness occurring. Which UML models might you use to present the design of your proposed software, and why are they the most appropriate choice(s)?
 
 <br>
-<img src="images/ssdcs_unit1_intial_1.jpg?raw=true"/>
-<img src="images/ssdcs_unit1_intial_2.jpg?raw=true"/>
-<img src="images/ssdcs_unit1_intial_3.jpg?raw=true"/></details> <br>
+<img src="images/ssdcs_unit1_intial1.jpg?raw=true"/>
+<img src="images/ssdcs_unit1_intial2.jpg?raw=true"/>
+<img src="images/ssdcs_unit1_intial3.jpg?raw=true"/>
+<img src="images/ssdcs_unit1_intial4.jpg?raw=true"/></details> <br>
 
 ## Collaboration
 
