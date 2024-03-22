@@ -55,6 +55,9 @@ I attended the first seminar, 'Introduction to Team Project', which acquainted m
 <br>
 
 In addition, I was able to read about the the Top 10 Web Application Security Risks and Top 10 Proactive Porotocols identified by the 'Open Web Application Security Project' to prepare me for my initial post for the collaborative discussion. This activity enabled me to choose one coding weakness, and present using UML where the risk may arise. The UML design activity from the OOP module definitely helped in my selection of the activity diagram modelling and syntax use. I am aware that I still need more practice on how to better prsesent and use syntax when creating UML models, but I really enjoy creating them as they make program and software development processes clearer for me to understand.
+<br> 
+
+[Return to Software Secure Development Module Page](https://patzsantos.github.io/e-portfolio-uoeo/ssdcs_landing)
 
 
 <!--1. Review the article by Di Silvestro & Nadir (2021). [Discuss](https://github.com/patzsantos/e-portfolio-uoeo/blob/module2/oop/Unit%201/OOP_%20Unit%201%20Review%20the%20article%20by%20Di%20Silvestro%20%26%20Nadir%20(2021).%20Discuss%20one%20aspect%20of%20this%20article%20which%20you%20find%20unexpected..pdf) one aspect of this article which you find unexpected.
