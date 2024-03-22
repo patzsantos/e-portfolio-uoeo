@@ -56,5 +56,5 @@ Right after the seminar, my team had our kick-off meeting. It was nice to align 
 
 The e-Portfolio activity, which is a blog post on managing people in cybersecurity, was a good opportunity to get acquainted with the language and concepts set down in the ISO/IEC Standard on security. I applied my learning from Unit 1 about the OWASP Top 10 Protocols 2018 into my selection of the ISO/IEC terms for the blog post, which aims to deal with managing people in cyber security within organisations. <br>
 
-[Return to Software Secure Development Module Page](https://patzsantos.github.io/e-portfolio-uoeo/ssdcs_landing)
+**_[Return to Software Secure Development Module Page](https://patzsantos.github.io/e-portfolio-uoeo/ssdcs_landing)_**
 
