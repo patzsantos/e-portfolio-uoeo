@@ -7,14 +7,14 @@ permalink: /ssdcs_unit2-->
 
 _**In this unit we shall:** <br>_
 
--Gain an awareness of the opportunities for integrating software security development practices at each stage of the agile SDLC.<br>
--Experiment with the creation of UML flow charts.<br>
--Understand the range of ways in which software security can be problematic.<br>
+- Gain an awareness of the opportunities for integrating software security development practices at each stage of the agile SDLC.<br>
+- Experiment with the creation of UML flow charts.<br>
+- Understand the range of ways in which software security can be problematic.<br>
 <br>
 _**On completion of this unit you will be able to:** <br>_
--Research the academic literature on software development which follows an agile process and prioritises security.<br>
--Break down the steps involved in a process so that they may be represented as a flow chart.<br>
--Reading areas of an ISO/IEC Standard on security and becoming familiar with the language and concepts.<br>
+- Research the academic literature on software development which follows an agile process and prioritises security.<br>
+- Break down the steps involved in a process so that they may be represented as a flow chart.<br>
+- Reading areas of an ISO/IEC Standard on security and becoming familiar with the language and concepts.<br>
 <br>
 
 ## Independent Work
