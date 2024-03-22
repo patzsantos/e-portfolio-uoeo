@@ -19,7 +19,7 @@ _**On completion of this unit you will be able to:** <br>_
 
 ## Independent Work
 
-<details><summary><h3>Unit 2 Seminar Blog Post</h3></summary>
+<details><summary><h3>e-Portfolio Activitiy: Unit 2 Seminar Blog Post</h3></summary>
 <br>
 Some say that people are the biggest risk of cyber security.<Br>
   
@@ -45,14 +45,10 @@ We had to start getting in touch with our teammates for the design document deve
 <br>
 
 ### Reflection
-<br>
-This week, I started the last module for my PG Cert Computer Science Course in University of Essex Online, Secure Software Development (Computer Science). I am both excited and nervous. Excited because software security really interests me, for I know that they are crucial in developing systems and programs that are safe from malicious and persistent attacks. Therefore, specialisation in Secure Software Development is greatly sought after nowadays. 
-<br>
 
-The Lecturecast entitled 'Introduction to Software Development' introduced me to the agile, waterfall, and spiral approach to software development. Each has its benefits and drawbacks, and it is good to analyse the scale of your team and project in order to choose the appropriate approach. I also gained familiarity with international bodies that set security standards or IT systems such as 'World Wide Web Consortium', 'The Internet Society', 'The National Institute of Standards and Technology', and 'The International Organisaion for Standardisation (ISO) and the International Electrotechnical Commission'. There was also a review about creating UML Diagrams, which was tackled in the previous module. 
 <br>
+We had our second seminar this week entitled Scrum Security Review. I learned about the software development stages during the Scrum Agile Approach to project management. We further discussed which UMLs can be best presented in a flowchart, and the examples given gave me an idea as to how to better explain processes through activity and swimlane diagrams. <br>
 
-I attended the first seminar, 'Introduction to Team Project', which acquainted me with the tutor, expectations for the next 12 weeks, and the major requirements for the module. Right after the seminar, I reached out to my team mates for the development team project due on the 6th week. I think we started off on the right foot. We had just a few days to create our team contract, but we were able to come to a consensus as to how to write it. Therefore, I look forward to our group work synergy over the next 6 weeks. 
-<br>
+Right after the seminar, my team had our kick-off meeting. It was nice to align our goals, and have a preview of how we will tackle our project over the next 5 weeks. I am honestly a little overwhelmed with this project, but more so with the individual coding part. But I am happy with how the team has been communicating well these past two weeks, and we seem to have the same goals in mind.<br>
 
-In addition, I was able to read about the the Top 10 Web Application Security Risks and Top 10 Proactive Porotocols identified by the 'Open Web Application Security Project' to prepare me for my initial post for the collaborative discussion. This activity enabled me to choose one coding weakness, and present using UML where the risk may arise. The UML design activity from the OOP module definitely helped in my selection of the activity diagram modelling and syntax use. I am aware that I still need more practice on how to better prsesent and use syntax when creating UML models, but I really enjoy creating them as they make program and software development processes clearer for me to understand.</details>
+The e-Portfolio activity, which is a blog post on managing people in cybersecurity, was a good opportunity to get acquainted with the language and concepts set down in the ISO/IEC Standard on security. I applied my learning from Unit 1 about the OWASP Top 10 Protocols 2018 into my selection of the ISO/IEC terms for the blog post, which aims to deal with managing people in cyber security within organisations. <br>
