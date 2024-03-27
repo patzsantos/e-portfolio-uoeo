@@ -58,7 +58,8 @@ You should discuss your answers within your team, and you can share your team re
 
 <br>
 We wrapped up the first discussion forum from units 1-3 this week. To summarise my learning, I can say that it is especially helpful for future software developers like me to get acquainted with the OWASP Top 10 in order to have an idea of cyber threats and which protocols to are accepted to fight against them. The feedback from my tutor and peer helped me revise my UML activity diagram for the better.
-
+<br>
 Team Bulwark, the software development team I am a part of, also had our second meeting this week. We discussed the document outline, as well as the reading we have to do in order to make headway in our project. Lastly, we discussed about the e-portfolio team activity compotent, wherein we have to discuss what constitutes a secure programming language. <br>
+<br>
 
 **_[Return to Software Secure Development Module Page](https://patzsantos.github.io/e-portfolio-uoeo/ssdcs_landing)_**
