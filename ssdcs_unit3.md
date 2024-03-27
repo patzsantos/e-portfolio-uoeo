@@ -11,6 +11,7 @@ _**In this unit we shall:** <br>_
 - Investigate language concepts using Python as an example.<br>
 - Describe best practices and methods to overcome common security issues.<br>
 <br>
+
 _**On completion of this unit you will be able to:** <br>_
 - Describe some key milestones in the development of programming languages.<br>
 - Outline some of the key paradigms that define the different types of languages.<br>
@@ -21,30 +22,27 @@ _**On completion of this unit you will be able to:** <br>_
 
 ## Independent Work
 
-<details><summary><h3>e-Portfolio Activitiy: Unit 2 Seminar Blog Post</h3></summary>
-<br>
-Some say that people are the biggest risk of cyber security.<Br>
-  
-Select five terms from ISO/IEC Standard 27000 Section 3 Terms and Definitions and write a 300-word blog post on how people can be managed to overcome cyber security attacks from the inside.<br>
-<br>
+<details><summary><h3>Collaborative Discussion 1 Summary Post</h3></summary>
 
-Title: Managing People to Overcome Cyber Security Attacks from the Inside
-<img src="images/ssdcs_unit2_blog1.jpg?raw=true"/>
-<img src="images/ssdcs_unit2_blog2.jpg?raw=true"/>
-<img src="images/ssdcs_unit2_blog3.jpg?raw=true"/>
-<img src="images/ssdcs_unit2_blog4.jpg?raw=true"/>
-<img src="images/ssdcs_unit2_blog5.jpg?raw=true"/></details> <br>
+<img src="images/ssdcs_unit3_summary1.jpg?raw=true"/>
+<img src="images/ssdcs_unit3_summary2.jpg?raw=true"/>
+<img src="images/ssdcs_unit3_summary3.jpg?raw=true"/>
+<img src="images/ssdcs_unit3_summary4.jpg?raw=true"/>
+<img src="images/ssdcs_unit3_summary5.jpg?raw=true"/></details> <br>
 
 ## Collaboration
 
-<details><summary><h3>Collaborative Discussion 1: UML flowchart Peer Response</h3></summary>
+<details><summary><h3>Team Activity Discussion: What is a Secure Programming Language?</h3></summary>
 <br>
-Continue the discussion in unit 1 . You should choose at least two of your peers' contributions and comment on the weakness they chose, as well as:<br>
-
-- What do you like about their flowchart?<br>
-- In what way(s) might it be improved?<Br>
-
-Your posts should be a maximum of 300 words. Please include sufficient content so that others may be encouraged to reflect on and respond to your ideas. Your follow-up responses should be labelled as “Peer Response”. You should do this before working through the preparation for the Seminar this week.
+Team Discussion: What is a Secure Programming Language?
+You should read Chapter 2,6,7,8 of the course text (Pillai, 2017) and Cifuentes & Bierman (2019) and then answer the questions below, adding them as evidence to your e-portfolio.<br>
+<br>
+- What factors determine whether a programming language is secure or not?<br>
+- Could Python be classed as a secure language? Justify your answer.<br>
+- Python would be a better language to create operating systems than C. Discuss.<br>
+<br>
+Team component
+You should discuss your answers within your team, and you can share your team responses with the tutor for formative feedback or discuss it in next week’s seminar.
 <br>
 
 <img src="images/ssdcs_unit2_peerresponse1.jpg?raw=true"/>
@@ -59,10 +57,8 @@ Your posts should be a maximum of 300 words. Please include sufficient content s
 ### Reflection
 
 <br>
-We had our second seminar this week entitled Scrum Security Review. I learned about the software development stages during the Scrum Agile Approach to project management. We further discussed which UMLs can be best presented in a flowchart, and the examples given gave me an idea as to how to better explain processes through activity and swimlane diagrams. <br>
+We wrapped up the first discussion forum from units 1-3 this week. To summarise my learning, I can say that it is especially helpful for future software developers like me to get acquainted with the OWASP Top 10 in order to have an idea of cyber threats and which protocols to are accepted to fight against them. The feedback from my tutor and peer helped me revise my UML activity diagram for the better.
 
-Right after the seminar, my team had our kick-off meeting. It was nice to align our goals, and have a preview of how we will tackle our project over the next 5 weeks. I am honestly a little overwhelmed with this project, but more so with the individual coding part. But I am happy with how the team has been communicating well these past two weeks, and we seem to have the same goals in mind.<br>
-
-The e-Portfolio activity, which is a blog post on managing people in cybersecurity, was a good opportunity to get acquainted with the language and concepts set down in the ISO/IEC Standard on security. I applied my learning from Unit 1 about the OWASP Top 10 Protocols 2018 into my selection of the ISO/IEC terms for the blog post, which aims to deal with managing people in cyber security within organisations. <br>
+Team Bulwark, the software development team I am a part of, also had our second meeting this week. We discussed the document outline, as well as the reading we have to do in order to make headway in our project. Lastly, we discussed about the e-portfolio team activity compotent, wherein we have to discuss what constitutes a secure programming language. <br>
 
 **_[Return to Software Secure Development Module Page](https://patzsantos.github.io/e-portfolio-uoeo/ssdcs_landing)_**
