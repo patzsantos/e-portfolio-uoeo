@@ -30,21 +30,22 @@ _**On completion of this unit you will be able to:** <br>_
 <img src="images/ssdcs_unit3_summary4.jpg?raw=true"/>
 <img src="images/ssdcs_unit3_summary5.jpg?raw=true"/></details> <br>
 
-<details><summary><h3>Activity: Exploring Python Tools and Features</h3></summary>
-Part I
+<details><summary><h3>Activity: Exploring Python Tools and Features</h3></summary><br>  
 In this example, you will compile and run a program in C using the Jupyter notebook workspace provided (Buffer Overflow in C). The program is already provided as bufoverflow.c - a simple program that creates a buffer and then asks you for a name, and prints it back out to the screen.
 <br>
-<img src="images/ssdcs_unit3_activity1.jpg?raw=true"/>
-<img src="images/ssdcs_unit3_activity2.jpg?raw=true"/>
+<img src="images/ssdcs_unit3_activity1.png?raw=true"/>
+<img src="images/ssdcs_unit3_activity2.png?raw=true"/>
 <br>
-- What happens?
-A warning is given on declaring the ‘gets’ function. 
+<br>
+  
+>What happens?<br>
+- A warning is given on declaring the ‘gets’ function. 
 
--What does the output message mean?
-It is suggesting to use ‘fgets’ instead. According to Sneh (2022), ‘fgets()’ is advocated because it lets users indicate the size of the buffer, while ‘gets()’ does not,  which may cause storage to be jammed. 
+>What does the output message mean?<br>
+- It is suggesting to use ‘fgets’ instead. According to Sneh (2022), ‘fgets()’ is advocated because it lets users indicate the size of the buffer, while ‘gets()’ does not,  which may cause storage to be jammed. 
 
-Reference:
-Sneh. (2022) fgets() and gets() in C Programming | DigitalOcean. Available from: https://www.digitalocean.com/community/tutorials/fgets-and-gets-in-c-programming#fgets-function-in-c [Accessed 1 April 2024]. 
+Reference:<br>
+Sneh. (2022) fgets() and gets() in C Programming | DigitalOcean. Available from: https://www.digitalocean.com/community/tutorials/fgets-and-gets-in-c-programming#fgets-function-in-c [Accessed 1 April 2024]. </details><br>
 <br>
 ## Collaboration
 
@@ -53,12 +54,16 @@ Sneh. (2022) fgets() and gets() in C Programming | DigitalOcean. Available from:
 Team Discussion: What is a Secure Programming Language?
 You should read Chapter 2,6,7,8 of the course text (Pillai, 2017) and Cifuentes & Bierman (2019) and then answer the questions below, adding them as evidence to your e-portfolio.<br>
 <br>
+  
 - What factors determine whether a programming language is secure or not?<br>
 - Could Python be classed as a secure language? Justify your answer.<br>
 - Python would be a better language to create operating systems than C. Discuss.<br>
+
 <br>
 Team component
-You should discuss your answers within your team, and you can share your team responses with the tutor for formative feedback or discuss it in next week’s seminar.
+You should discuss your answers within your team, and you can share your team responses with the tutor for formative feedback or discuss it in next week’s seminar.<br>
+<br>
+>Team members: Gareth Williams, Mario Butorac, Miguel Bezares, and Patricia Santos
 <br>
 
 <img src="images/ssdcs_unit3_teamactivity1.jpg?raw=true"/>
