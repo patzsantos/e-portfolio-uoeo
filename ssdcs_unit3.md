@@ -54,13 +54,7 @@ Sneh. (2022) fgets() and gets() in C Programming | DigitalOcean. Available from:
 Team Discussion: What is a Secure Programming Language?
 You should read Chapter 2,6,7,8 of the course text (Pillai, 2017) and Cifuentes & Bierman (2019) and then answer the questions below, adding them as evidence to your e-portfolio.<br>
 <br>
-  
-- What factors determine whether a programming language is secure or not?<br>
-- Could Python be classed as a secure language? Justify your answer.<br>
-- Python would be a better language to create operating systems than C. Discuss.<br>
-
-<br>
-Team component
+Team component:<br>
 You should discuss your answers within your team, and you can share your team responses with the tutor for formative feedback or discuss it in next week’s seminar.<br>
 <br>
 >Team members: Gareth Williams, Mario Butorac, Miguel Bezares, and Patricia Santos
