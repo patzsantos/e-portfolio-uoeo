@@ -1,8 +1,5 @@
 # University of Essex Online PG Cert Computer Science<br>
-This short course is an introduction to the fundamentals of computing, exploring the current trends and best practices in the field. Participants will gain the technical skills needed to start developing programs, while improving their ability to collaborate with others and solve problems with the skills gained.<br>
-<br>
-_**Credits:**
-Unit names, formative activities, e-portfolio activities, seminar activities, and Codio activities are all provided for by The University of Essex Online_
+This short course is an introduction to the fundamentals of computing, exploring the current trends and best practices in the field. Participants will gain the technical skills needed to start developing programs, while improving their ability to collaborate with others and solve problems with the skills gained.
 <br>
 ## [Module 1: Launching Into Computer Science](https://patzsantos.github.io/e-portfolio-uoeo/lcs_landing)<br>
 **Syllabus:**
@@ -37,5 +34,7 @@ _■ Abstraction: comparison of languages and approaches (object oriented, dynam
 ■ Secure coding principles & practices and the API generation
 ■ Static & dynamic code checking_
 <img src="images/module3.jpeg?raw=true"/>
-
+<br>
+_**Credits:**
+Unit names, formative activities, e-portfolio activities, seminar activities, and Codio activities are all provided for by The University of Essex Online_
 
