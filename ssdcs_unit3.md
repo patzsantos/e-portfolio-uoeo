@@ -22,14 +22,6 @@ _**On completion of this unit you will be able to:** <br>_
 
 ## Independent Work
 
-<details><summary><h3>Collaborative Discussion 1 Summary Post</h3></summary>
-
-<img src="images/ssdcs_unit3_summary1.jpg?raw=true"/>
-<img src="images/ssdcs_unit3_summary2.jpg?raw=true"/>
-<img src="images/ssdcs_unit3_summary3.jpg?raw=true"/>
-<img src="images/ssdcs_unit3_summary4.jpg?raw=true"/>
-<img src="images/ssdcs_unit3_summary5.jpg?raw=true"/></details> <br>
-
 <details><summary><h3>Activity: Exploring Python Tools and Features</h3></summary><br>  
 In this example, you will compile and run a program in C using the Jupyter notebook workspace provided (Buffer Overflow in C). The program is already provided as bufoverflow.c - a simple program that creates a buffer and then asks you for a name, and prints it back out to the screen.
 <br>
@@ -48,6 +40,14 @@ Reference:<br>
 Sneh. (2022) fgets() and gets() in C Programming | DigitalOcean. Available from: https://www.digitalocean.com/community/tutorials/fgets-and-gets-in-c-programming#fgets-function-in-c [Accessed 1 April 2024]. </details><br>
 <br>
 ## Collaboration
+
+<details><summary><h3>Collaborative Discussion 1 Summary Post</h3></summary>
+
+<img src="images/ssdcs_unit3_summary1.jpg?raw=true"/>
+<img src="images/ssdcs_unit3_summary2.jpg?raw=true"/>
+<img src="images/ssdcs_unit3_summary3.jpg?raw=true"/>
+<img src="images/ssdcs_unit3_summary4.jpg?raw=true"/>
+<img src="images/ssdcs_unit3_summary5.jpg?raw=true"/></details> <br>
 
 <details><summary><h3>Team Activity Discussion: What is a Secure Programming Language?</h3></summary>
 <br>
