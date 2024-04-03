@@ -22,23 +22,31 @@ _**On completion of this unit you will be able to:** <br>_
 
 ## Independent Work
 
-<details><summary><h3>Activity: Exploring Python Tools and Features</h3></summary><br>  
+<details><summary><h3>Activity: Exploring Python Tools and Features Part 1</h3></summary><br>  
 In this example, you will compile and run a program in C using the Jupyter notebook workspace provided (Buffer Overflow in C). The program is already provided as bufoverflow.c - a simple program that creates a buffer and then asks you for a name, and prints it back out to the screen.
 <br>
 <img src="images/ssdcs_unit3_activity1.png?raw=true"/>
 <img src="images/ssdcs_unit3_activity2.png?raw=true"/>
+<img src="images/ssdcs_unit3_activityanswer1.png?raw=true"/>
 <br>
 <br>
-  
->What happens?<br>
-- A warning is given on declaring the ‘gets’ function. 
+</details><br>
 
->What does the output message mean?<br>
-- It is suggesting to use ‘fgets’ instead. According to Sneh (2022), ‘fgets()’ is advocated because it lets users indicate the size of the buffer, while ‘gets()’ does not,  which may cause storage to be jammed. 
-
-Reference:<br>
-Sneh. (2022) fgets() and gets() in C Programming | DigitalOcean. Available from: https://www.digitalocean.com/community/tutorials/fgets-and-gets-in-c-programming#fgets-function-in-c [Accessed 1 April 2024]. </details><br>
+<details><summary><h3>Activity: Exploring Python Tools and Features Part 2</h3></summary><br>  
+Now carry out a comparison of this code with one in Python (Buffer Overflow in Python), following these instructions:<br>
 <br>
+In your workspace, you will be using the file called Overflow.py. You are able to download the zip file 'buffer-overflow-in-python' along with additional instructions in the PDF 'Exploring Python Tools and Features'.
+<br>
+<img src="images/ssdcs_unit3_activity3.png?raw=true"/>
+<img src="images/ssdcs_unit3_activityanswer2.png?raw=true"/>
+<img src="images/ssdcs_unit3_activity4.png?raw=true"/>
+<img src="images/ssdcs_unit3_activity5.png?raw=true"/>
+<img src="images/ssdcs_unit3_activityanswer3.png?raw=true"/>
+<br>
+<br>
+</details><br>
+<br>
+
 ## Collaboration
 
 <details><summary><h3>Collaborative Discussion 1 Summary Post</h3></summary>
@@ -78,9 +86,9 @@ You should discuss your answers within your team, and you can share your team re
 <br>
 We wrapped up the first discussion forum from units 1-3 this week. To summarise my learning, I can say that it is especially helpful for future software developers like me to get acquainted with the OWASP Top 10 in order to have an idea of cyber threats and which protocols to are accepted to fight against them. The feedback from my tutor and peer helped me revise my UML activity diagram for the better.<br>
 <br>
-Team Bulwark, the software development team I am a part of, also had our second meeting this week. We discussed the document outline, as well as the reading we have to do in order to make headway in our project. Lastly, we discussed about the e-portfolio team activity compotent, wherein we have to discuss what constitutes a secure programming language. Over the week, we worked on our Team Activity and Design Document. On the last day of the unit, we went over our Design Document together. We discussed how we can improve on it, and decided to consult with our tutor within the week so that she can give us feedback. <br>
+Team Bulwark also held its second meeting this week. We discussed the document outline, as well as the reading we have to do in order to make headway in our project. Lastly, we discussed about the e-portfolio team activity compotent, wherein we have to define what constitutes a secure programming language. Over the week, we worked on our Team Activity and Design Document. On the last day of the unit, we went over our Design Document together. We discussed how we can improve on it, and decided to consult with our tutor within the week so that she can give us feedback. <br>
 <br>
-I had a chance to work on the individual activity, where I learned that the function fgets() is more secure than just gets(), as it prevents overloading and gives the developer the freedom to select the buffer size. I wanted to work on the second part of the activity, but I am having trouble installing pylint. I am still figuring out how to do that for now.<br>
+I had a chance to work on the individual activity, where I learned that the function fgets() is more secure than just gets(), as it prevents overloading and gives the developer the freedom to select the buffer size. I wanted to work on the second part of the activity, but I am having trouble installing pylint. As usual, discuss.python.org was a big help in helping me identify where I am having trouble. I am happy that I finally was able to run pylint on the activities. 
 <br>
 
 **_[Return to Software Secure Development Module Page](https://patzsantos.github.io/e-portfolio-uoeo/ssdcs_landing)_**
