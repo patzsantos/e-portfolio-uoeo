@@ -17,3 +17,7 @@ _This module introduces students to the underpinning concepts and skills of Secu
 ---
 
 [Unit 3: Programming Languages: History, Concepts & Design](https://patzsantos.github.io/e-portfolio-uoeo/ssdcs_unit3)
+
+---
+
+[Unit 4: Exploring Programming Language Concepts](https://patzsantos.github.io/e-portfolio-uoeo/ssdcs_unit4)
