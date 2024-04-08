@@ -28,9 +28,8 @@ Read Larson (2018) and Weidman (n.d.) then answer the questions below, adding th
 - What are the common problems associated with the use of regex? How can these be mitigated?<br>
 - How and why could regex be used as part of a security solution?<br>
 <br>
-<img src="images/ssdcs_unit3_activity1.png?raw=true"/>
-<img src="images/ssdcs_unit3_activity2.png?raw=true"/>
-<img src="images/ssdcs_unit3_activityanswer1.png?raw=true"/>
+<img src="images/ssdcs_unit4_portfolio_proglang1.jpg?raw=true"/>
+<img src="images/ssdcs_unit4_portfolio_proglang2.jpg?raw=true"/>
 <br>
 <br>
 </details><br>
