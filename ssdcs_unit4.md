@@ -31,7 +31,6 @@ Read Larson (2018) and Weidman (n.d.) then answer the questions below, adding th
 <img src="images/ssdcs_unit4_portfolio_proglang1.jpg?raw=true"/>
 <img src="images/ssdcs_unit4_portfolio_proglang2.jpg?raw=true"/>
 </details>
-
 <details><summary><h3>Seminar Activity: Recursion</h3></summary><br>  
 <br>
 One of the classic programming problems that is often solved by recursion is the towers of Hanoi problem. A good explanation and walkthrough are provided by Cormen & Balkcom (n.d.) - the link is in the reading list. (the code they used for their visual example is provided on their website as well).<br>
