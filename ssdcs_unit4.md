@@ -31,7 +31,6 @@ Read Larson (2018) and Weidman (n.d.) then answer the questions below, adding th
 <img src="images/ssdcs_unit4_portfolio_proglang1.jpg?raw=true"/>
 <img src="images/ssdcs_unit4_portfolio_proglang2.jpg?raw=true"/>
 <br>
-<br>
 </details><br>
 <br>
 <details><summary><h3>Seminar Activity: Recursion</h3></summary><br>  
