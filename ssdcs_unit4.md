@@ -30,20 +30,13 @@ Read Larson (2018) and Weidman (n.d.) then answer the questions below, adding th
 <br>
 <img src="images/ssdcs_unit4_portfolio_proglang1.jpg?raw=true"/>
 <img src="images/ssdcs_unit4_portfolio_proglang2.jpg?raw=true"/>
-<br>
-</details><br>
+</details>
 <br>
 <details><summary><h3>Seminar Activity: Recursion</h3></summary><br>  
 <br>
 One of the classic programming problems that is often solved by recursion is the towers of Hanoi problem. A good explanation and walkthrough are provided by Cormen & Balkcom (n.d.) - the link is in the reading list. (the code they used for their visual example is provided on their website as well).<br>
 <br>
 Read the explanation, study the code and then create your own version using Python (if you want to make it more interesting you can use asterisks to represent the disks). Create a version that asks for the number of disks and then executes the moves, and then finally displays the number of moves executed.<br>
-<br>
-  
-- What is the (theoretical) maximum number of disks that your program can move without generating an error?<br>
-- What limits the number of iterations? What is the implication for application and system security?<br>
-- Read Larson (2018) and Weidman (n.d.) then answer the questions below, adding them as evidence to your e-portfolio. You may want to complete this activity in conjunction with or after completing Seminar 2 preparation.
-<br>
 <br>
 <img src="images/ssdcs_unit4_seminar_recursion1.png?raw=true"/>
 <img src="images/ssdcs_unit4_seminar_recursion2.jpg?raw=true"/>
