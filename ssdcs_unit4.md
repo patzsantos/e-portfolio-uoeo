@@ -81,5 +81,7 @@ I was a bit late with watching the seminar from last week, 'Programming Language
 <br>
 Our team design project is progressing well. I believe that we are on the right track, and hopefully, we can finalise everything before the internal deadline we set for ourselves, which is April 19th. We met earlier in the week, towards the end of unit 3, but I thiink that counts as our meeting for unit 4. The meeting lasted 2 hours since we had to go over the document draft that we had so far, and assign the remaining unfinished parts. We decided to consult our tutor as well, which has been very helpful. She advised on how to improve the structure and contents of the document, as well as answered the queries of the team regarding the next phase of the project which involves coding.<br> 
 <br>
+The individual activities this week gave me a chance to code as well. I still need to practice including Regex and Recursion in my coding. These coding activities, together with the e-portfolio component essay, taught me a lot about Regex and Recursion. Knowing these programming languages can hopefully aid me when I develop my coding for the secure application for Unit 11.<br>
+<br>
 
 **_[Return to Software Secure Development Module Page](https://patzsantos.github.io/e-portfolio-uoeo/ssdcs_landing)_**
