@@ -53,8 +53,7 @@ In your workspace, you will be using the file called Overflow.py. You are able t
 <img src="images/ssdcs_unit3_summary2.jpg?raw=true"/>
 <img src="images/ssdcs_unit3_summary3.jpg?raw=true"/>
 <img src="images/ssdcs_unit3_summary4.jpg?raw=true"/>
-<img src="images/ssdcs_unit3_summary5.jpg?raw=true"/></details> <br>
-
+<img src="images/ssdcs_unit3_summary5.jpg?raw=true"/></details> 
 <details><summary><h3>Team Activity Discussion: What is a Secure Programming Language?</h3></summary>
 <br>
 Team Discussion: What is a Secure Programming Language?
