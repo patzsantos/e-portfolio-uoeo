@@ -30,8 +30,7 @@ In this example, you will compile and run a program in C using the Jupyter noteb
 <img src="images/ssdcs_unit3_activityanswer1.png?raw=true"/>
 <br>
 <br>
-</details><br>
-
+</details>
 <details><summary><h3>Activity: Exploring Python Tools and Features Part 2</h3></summary><br>  
 Now carry out a comparison of this code with one in Python (Buffer Overflow in Python), following these instructions:<br>
 <br>
@@ -45,8 +44,7 @@ In your workspace, you will be using the file called Overflow.py. You are able t
 <br>
 <br>
 </details><br>
-<br>
-
+  
 ## Collaboration
 
 <details><summary><h3>Collaborative Discussion 1 Summary Post</h3></summary>
