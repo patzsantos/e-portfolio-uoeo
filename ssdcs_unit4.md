@@ -39,15 +39,14 @@ Read the explanation, study the code and then create your own version using Pyth
 <br>
 <img src="images/ssdcs_unit4_seminar_recursion1.png?raw=true"/>
 <img src="images/ssdcs_unit4_seminar_recursion2.jpg?raw=true"/>
-</details><br>
-
+</details>
 <details><summary><h3>Seminar Activity: Regex</h3></summary><br>  
 <br>
 The second language concept we will look at is regular expressions (regex). We have already presented some studies on their use, and potential problems, above. The lecturecast also contains a useful link to a tutorial on creating regex. Re-read the provided links and tutorial (Jaiswal, 2020) and then attempt the problem presented below:<br>
-
+<br>
 The UK postcode system consists of a string that contains a number of characters and numbers – a typical example is ST7 9HV (this is not valid – see below for why). The rules for the pattern are available from idealpostcodes (2020).
 Create a python program that implements a regex that complies with the rules provided above – test it against the examples provided.<br>
-
+<br>
 Examples:<br>
 - M1 1AA<br>
 - M60 1NW<br>
@@ -55,7 +54,7 @@ Examples:<br>
 - DN55 1PT<br>
 - W1A 1HQ<br>
 - EC1A 1BB<br>
-
+<br>
 <img src="images/ssdcs_unit4_seminar_regex1.png?raw=true"/>
 <img src="images/ssdcs_unit4_seminar_regex2.png?raw=true"/>
 </details><br>
