@@ -38,6 +38,6 @@ _■ Abstraction: comparison of languages and approaches (object oriented, dynam
 <img src="images/module3.jpeg?raw=true"/>
 <br>
 
-> ## _[Contact & Credits](https://patzsantos.github.io/e-portfolio-uoeo/contactandcredits)_
+> ###                                _**[Contact & Credits](https://patzsantos.github.io/e-portfolio-uoeo/contactandcredits)**_
 
 
