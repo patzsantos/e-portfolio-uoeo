@@ -41,7 +41,6 @@ We had to start getting in touch with our teammates for the design document deve
 <img src="images/ssdcs_unit1_teamcontract_3.jpg?raw=true"/></details><br>
 
 ## Reflection
-<br>
 This week, I started the last module for my PG Cert Computer Science Course in University of Essex Online, Secure Software Development (Computer Science). I am both excited and nervous. Excited because software security really interests me, for I know that they are crucial in developing systems and programs that are safe from malicious and persistent attacks. Therefore, specialisation in Secure Software Development is greatly sought after nowadays. 
 <br>
 
