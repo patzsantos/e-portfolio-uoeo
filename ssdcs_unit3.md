@@ -75,12 +75,7 @@ You should discuss your answers within your team, and you can share your team re
 <img src="images/ssdcs_unit3_teamactivity8.jpg?raw=true"/>
 </details><br>
 
-## Criticality 
-<br>
-
-### Reflection
-
-<br>
+## Reflection
 We wrapped up the first discussion forum from units 1-3 this week. To summarise my learning, I can say that it is especially helpful for future software developers like me to get acquainted with the OWASP Top 10 in order to have an idea of cyber threats and which protocols to are accepted to fight against them. The feedback from my tutor and peer helped me revise my UML activity diagram for the better.<br>
 <br>
 Team Bulwark also held its second meeting this week. We discussed the document outline, as well as the reading we have to do in order to make headway in our project. Lastly, we discussed about the e-portfolio team activity compotent, wherein we have to define what constitutes a secure programming language. Over the week, we worked on our Team Activity and Design Document. On the last day of the unit, we went over our Design Document together. We discussed how we can improve on it, and decided to consult with our tutor within the week so that she can give us feedback. <br>
