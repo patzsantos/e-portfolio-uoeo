@@ -10,7 +10,6 @@ _**In this unit we shall:** <br>_
 - Explore the use of regular expressions and recursion in creating software solutions.<Br>
 - Investigate the effects of using regular expressions and recursion on system security.<br>
 - Recommend the most suitable approaches for given security requirements/ risk appetites.<br>
-<br>
 
 _**On completion of this unit you will be able to:** <br>_
 - Explain how and when to use regular expressions in solutions. <br>
