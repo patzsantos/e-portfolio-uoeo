@@ -10,7 +10,6 @@ _**In this unit we shall:** <br>_
 - Review the history and concepts of programming languages.<br>
 - Investigate language concepts using Python as an example.<br>
 - Describe best practices and methods to overcome common security issues.<br>
-<br>
 
 _**On completion of this unit you will be able to:** <br>_
 - Describe some key milestones in the development of programming languages.<br>
