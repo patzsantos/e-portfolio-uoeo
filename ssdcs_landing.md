@@ -21,3 +21,13 @@ _This module introduces students to the underpinning concepts and skills of Secu
 ---
 
 [Unit 4: Exploring Programming Language Concepts](https://patzsantos.github.io/e-portfolio-uoeo/ssdcs_unit4)
+
+---
+
+[Unit 5: An Introduction to Testing](https://patzsantos.github.io/e-portfolio-uoeo/ssdcs_unit5)
+
+---
+
+
+> _**[Return to homepage](https://patzsantos.github.io/e-portfolio-uoeo/)**_
+
