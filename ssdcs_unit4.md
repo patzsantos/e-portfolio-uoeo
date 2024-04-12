@@ -70,7 +70,6 @@ Examples:<br>
 <img src="images/ssdcs_unit3_summary4.jpg?raw=true"/>
 <img src="images/ssdcs_unit3_summary5.jpg?raw=true"/></details> <br>-->
 
-
 ## Reflection
 I was a bit late with watching the seminar from last week, 'Programming Languages'. I caught up on that this week, which was timely since it was covered in the 3rd seminar, 'Programming Language Concepts'. Honestly, there was too much new information for me. It was good to see some concepts learned during the OOP module reviewed during the lecturecast and seminar. I learned that there are 4 traditionally accepted core paradigms of programming. These are Imperative, Functional, Logical, and Object Oriented.<br>
 <br>
