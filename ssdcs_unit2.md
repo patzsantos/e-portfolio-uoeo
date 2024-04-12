@@ -11,7 +11,6 @@ _**In this unit we shall:** <br>_
 - Experiment with the creation of UML flow charts.<br>
 - Understand the range of ways in which software security can be problematic.<br>
 <br>
-
 _**On completion of this unit you will be able to:** <br>_
 - Research the academic literature on software development which follows an agile process and prioritises security.<br>
 - Break down the steps involved in a process so that they may be represented as a flow chart.<br>
