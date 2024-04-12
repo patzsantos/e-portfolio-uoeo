@@ -1,6 +1,4 @@
-## Welcome to my e-Portfolio
-
-### Introduction
+## Contact Me
 
 This is my e-Portfolio based on the work carried out in the PG Cert Computer Science programme of the [University of Essex Online](https://online.essex.ac.uk/).
 
