@@ -19,7 +19,7 @@ _**On completion of this unit you will be able to:** <br>_
 
 ## Independent Work
 
-<details><summary><h3>e-Portfolio Activity: Unit 2 Seminar Preparation Blog Post</h3></summary>
+<details><summary><h3>e-Portfolio Activity: Seminar Blog Post</h3></summary>
 <br>
 Some say that people are the biggest risk of cyber security.<Br>
   
