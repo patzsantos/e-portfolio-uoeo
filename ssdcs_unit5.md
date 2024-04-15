@@ -26,8 +26,8 @@ The Cyclomatic Complexity is commonly considered in modules on testing the valid
 <img src="images/ssdcs_unit5_equivalence1.png?raw=true"/>
 <img src="images/ssdcs_unit5_equivalence2.png?raw=true"/>
 </details><br>
-<details><summary><h3>Portfolio Component: Exploring the Cyclomatic Complexity’s Relevance Today </h3></summary><br>  
 
+<details><summary><h3>Portfolio Component: Exploring the Cyclomatic Complexity’s Relevance Today </h3></summary><br>  
 The Cyclomatic Complexity is commonly considered in modules on testing the validity of code design today. However, in your opinion, should it be? Does it remain relevant today? Specific to the focus of this module, is it relevant in our quest to develop secure software? Justify all opinions which support your argument and share your responses with your team.
 <br>
 <img src="images/ssdcs_unit5_portfolio_cyclomatic1.jpg?raw=true"/>
