@@ -72,7 +72,12 @@ You should discuss your answers within your team, and you can share your team re
 <img src="images/ssdcs_unit3_teamactivity6.jpg?raw=true"/>
 <img src="images/ssdcs_unit3_teamactivity7.jpg?raw=true"/>
 <img src="images/ssdcs_unit3_teamactivity8.jpg?raw=true"/>
-</details><br>
+</details>
+
+<details><summary><h3>Team Bulwark Meeting 2 Minutes</h3></summary>
+<br>
+<img src="images/ssdcs_unit3_minutes.png?raw=true"/>
+</details>
 
 ## Reflection
 We wrapped up the first discussion forum from units 1-3 this week. To summarise my learning, I can say that it is especially helpful for future software developers like me to get acquainted with the OWASP Top 10 in order to have an idea of cyber threats and which protocols to are accepted to fight against them. The feedback from my tutor and peer helped me revise my UML activity diagram for the better.<br>
