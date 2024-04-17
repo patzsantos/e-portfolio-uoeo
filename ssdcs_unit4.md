@@ -56,7 +56,9 @@ Examples:<br>
 <br>
 <img src="images/ssdcs_unit4_seminar_regex1.png?raw=true"/>
 <img src="images/ssdcs_unit4_seminar_regex2.png?raw=true"/>
-</details>
+</details><br>
+
+## Collaboration
 
 <details><summary><h3>Team Bulwark Meeting 3 Minutes</h3></summary>
 <br>
