@@ -40,7 +40,12 @@ _**On completion of this unit you will be able to:** <br>_
 
 <img src="images/ssdcs_unit5_discussion1.jpg?raw=true"/>
 <img src="images/ssdcs_unit5_discussion2.jpg?raw=true"/>
-</details> <br>
+</details>
+
+<details><summary><h3>Team Bulwark Meeting 5 Minutes</h3></summary>
+<br>
+<img src="images/ssdcs_unit6_minutes.png?raw=true"/>
+</details>
 
 ## Reflection
 
