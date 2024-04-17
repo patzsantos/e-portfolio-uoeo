@@ -33,7 +33,7 @@ Read Biggs et al (2018) and Bucchiarone et al (2018) as examples of modern views
 - Choose one team response that disagrees with your team stance and post a message that refutes their argument.
 - During this week’s seminar session, all students will independently vote for which argument they believe was presented most persuasively.
 <img src="images/ssdcs_unit11_seminar1.jpg?raw=true">
-</details>
+</details><Br>
 
 ## Reflection
 
