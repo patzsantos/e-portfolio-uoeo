@@ -28,6 +28,32 @@ _This module introduces students to the underpinning concepts and skills of Secu
 
 ---
 
+[Unit 6: Using Linters to Support Python Testing](https://patzsantos.github.io/e-portfolio-uoeo/ssdcs_unit6)
+
+---
+
+[Unit 7: Introduction to Operating Systems](https://patzsantos.github.io/e-portfolio-uoeo/ssdcs_unit7)
+
+---
+
+[Unit 8: Cryptography and Its Use in Operating Systems](https://patzsantos.github.io/e-portfolio-uoeo/ssdcs_unit8)
+
+---
+
+[Unit 9: Developing an API for a Distributed Environment](https://patzsantos.github.io/e-portfolio-uoeo/ssdcs_unit9)
+
+---
+
+[Unit 10: From Distributed Computing to Microarchitectures](https://patzsantos.github.io/e-portfolio-uoeo/ssdcs_unit10)
+
+---
+
+[Unit 11: Future trends in Secure Software Development](https://patzsantos.github.io/e-portfolio-uoeo/ssdcs_unit11)
+
+---
+
+[Unit 12: The Great Tanenbaum-Torvalds Debate Revisited](https://patzsantos.github.io/e-portfolio-uoeo/ssdcs_unit12)<br>
+
 
 > _**[Return to homepage](https://patzsantos.github.io/e-portfolio-uoeo/)**_
 
