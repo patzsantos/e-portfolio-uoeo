@@ -16,6 +16,7 @@ _**On completion of this unit you will be able to:** <br>_
 - Describe a variety of distributed systems, and the pattern in which they evolved.<br>
 - Discuss the security attacks that distributed systems, in particular, are vulnerable to.<br>
 - Understand the ways in which virtual systems need to be protected due to the specific nature of attacks on them.<br>
+<br>
 
 ## Independent Work
 
@@ -28,7 +29,7 @@ Create a basic outline design of how you would create such a system in Python.
 
 <img src="images/ssdcs_unit10_faceteddata1.png?raw=true"/>
 <img src="images/ssdcs_unit10_faceteddata2.png?raw=true"/>
-</details>
+</details><br>
 
 ## Collaboration
 <details><summary><h3>Collaborative Discussion 2: Cryptography case study - TrueCrypt Summary Post</h3></summary>
