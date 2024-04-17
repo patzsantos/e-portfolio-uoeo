@@ -27,7 +27,7 @@ _**On completion of this unit you will be able to:** <br>_
 <details><summary><h3>Collaborative Discussion 2: Cryptography case study - TrueCrypt Peer Response</h3></summary>
 
 <img src="images/ssdcs_unit9_peerresponse1.jpg?raw=true"/>
-</details>
+</details><br>
 
 ## Reflection
 
