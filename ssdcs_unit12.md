@@ -21,8 +21,6 @@ _**On completion of this unit you will be able to:** <br>_
 
 <details><summary><h3>e-Portfolio Submission</h3></summary><br>  
 
-Read Schmitz et al (2016) article about faceted data.
-
 It's this website. Please feel free to navigate the Secure Software Development page from [here](https://patzsantos.github.io/e-portfolio-uoeo/ssdcs_landing). 
 </details>
 
