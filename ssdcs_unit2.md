@@ -34,7 +34,6 @@ Title: Managing People to Overcome Cyber Security Attacks from the Inside
 <img src="images/ssdcs_unit2_blog5.jpg?raw=true"/></details> <br>
 
 ## Collaboration
-
 <details><summary><h3>Collaborative Discussion 1: UML flowchart Peer Response</h3></summary>
 <br>
 Continue the discussion in unit 1 . You should choose at least two of your peers' contributions and comment on the weakness they chose, as well as:<br>
@@ -49,7 +48,12 @@ Your posts should be a maximum of 300 words. Please include sufficient content s
 <img src="images/ssdcs_unit2_peerresponse2.jpg?raw=true"/>
 <img src="images/ssdcs_unit2_peerresponse3.jpg?raw=true"/>
 <img src="images/ssdcs_unit2_peerresponse4.jpg?raw=true"/>
-</details><br>
+</details>
+
+<details><summary><h3>Team Bulwark Meeting 1 Minutes</h3></summary>
+<br>
+<img src="images/ssdcs_unit2_minutes.png?raw=true"/>
+</details>
 
 ## Reflection
 
