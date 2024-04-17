@@ -26,8 +26,8 @@ Read Schmitz et al (2016) article about faceted data.
 Do you think this is a good approach to protect systems from data leakage? What are the pros and cons?
 Create a basic outline design of how you would create such a system in Python. 
 
-<img src="images/ssdcs_unit10_faceteddata.1.png?raw=true"/>
-<img src="images/ssdcs_unit10_faceteddata.2.png?raw=true"/>
+<img src="images/ssdcs_unit10_faceteddata1.png?raw=true"/>
+<img src="images/ssdcs_unit10_faceteddata2.png?raw=true"/>
 </details>
 
 ## Collaboration
