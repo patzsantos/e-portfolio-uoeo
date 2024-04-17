@@ -15,6 +15,7 @@ _**On completion of this unit you will be able to:** <br>_
 - Be familiar with using linters to support quality Python code development.<br>
 - Compare and contrast the outputs from linters to recognise their relevance and applicability in different development and testing scenarios.<br>
 - Develop Python code, which is free of error, consistent in its design, and considered to be high quality according to common Python standards.<br>
+<br>
 
 ## Independent Work
 
