@@ -40,10 +40,6 @@ The Cyclomatic Complexity is commonly considered in modules on testing the valid
 <img src="images/ssdcs_unit5_discussion1.png?raw=true"/>
 </details>
 
-<details><summary><h3>Team Bulwark Meeting 4 Minutes</h3></summary>
-<br>
-<img src="images/ssdcs_unit5_minutes.png?raw=true"/>
-</details>
 
 
 ## Reflection
