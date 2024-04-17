@@ -62,8 +62,7 @@ Using the Jupyter Notebook workspace, create a file named api.py and copy the fo
 <br>
 <img src="images/ssdcs_unit7_api1.png?raw=true"/>
 <img src="images/ssdcs_unit7_api1.png?raw=true"/>
-</details><br>
-
+</details>
 <!--## Collaboration
 <details><summary><h3>Portfolio Component: 'Exploring the Cyclomatic Complexity’s Relevance Today' Teamwork Discussion</h3></summary>
 
@@ -74,8 +73,6 @@ Using the Jupyter Notebook workspace, create a file named api.py and copy the fo
 <br>
 <img src="images/ssdcs_unit5_minutes.png?raw=true"/>
 </details>-->
-
-
 
 ## Reflection
 
