@@ -18,6 +18,7 @@ _**On completion of this unit you will be able to:** <br>_
 - Describe mitigations to make operating systems more secure.<br>
 - Explain some of the key risks and vulnerabilities associated with operating systems.<br>
 - Outline the differences between static and dynamic libraries and when to use each.<br>
+<br>
 
 ## Independent Work
 
