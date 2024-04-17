@@ -33,7 +33,7 @@ Create a basic outline design of how you would create such a system in Python.
 ## Collaboration
 <details><summary><h3>Collaborative Discussion 2: Cryptography case study - TrueCrypt Summary Post</h3></summary>
 <img src="images/ssdcs_unit10_summarypost1.jpg?raw=true"/>
-</details>
+</details><Br>
 
 ## Reflection
 
