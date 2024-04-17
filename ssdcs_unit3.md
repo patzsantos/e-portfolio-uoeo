@@ -46,7 +46,7 @@ In your workspace, you will be using the file called Overflow.py. You are able t
   
 ## Collaboration
 
-<details><summary><h3>Collaborative Discussion 1 Summary Post</h3></summary>
+<details><summary><h3>Collaborative Discussion 1 UML Flowchart Summary Post</h3></summary>
 
 <img src="images/ssdcs_unit3_summary1.jpg?raw=true"/>
 <img src="images/ssdcs_unit3_summary2.jpg?raw=true"/>
