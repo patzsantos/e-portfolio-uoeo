@@ -2,7 +2,7 @@
 title: "SSDCS Unit 10 "
 permalink: /ssdcs_unit10-->
 
-# Unit 9: Developing an API for a Distributed Environment
+# Unit 10: From Distributed Computing to Microarchitectures
 <br>
 
 _**In this unit we shall:** <br>_
