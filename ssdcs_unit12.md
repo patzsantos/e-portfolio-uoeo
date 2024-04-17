@@ -2,37 +2,40 @@
 title: "SSDCS Unit 12 "
 permalink: /ssdcs_unit12-->
 
-# Unit 9: Developing an API for a Distributed Environment
+# Unit 12: The Great Tanenbaum-Torvalds Debate Revisited
 <br>
 
 _**In this unit we shall:** <br>_
 
-- Explore the evolution of system architectures, from distributed systems to microservices.<br>
-- Examine the strengths and weaknesses of the variety of approaches to distributed systems.<br>
-- Define the security attacks which are specific to virtual environments.<br>
+- Review journals and articles about monoliths, microkernels and microservices.<br>
+- Engage in a debate about the above.<Br>
+- Explore some of the advances in secure programming.<br>
 
 _**On completion of this unit you will be able to:** <br>_
 
--Describe a variety of distributed systems, and the pattern in which they evolved.<br>
-- Discuss the security attacks that distributed systems, in particular, are vulnerable to.<br>
-- Understand the ways in which virtual systems need to be protected due to the specific nature of attacks on them.<br>
+- Recommend a strategy around which methodology to adopt: monolithic or microservices.<br>
+- Provide evidence to support your recommendation.<Br>
+- Explain how faceted data approaches work.<br>
 
 ## Independent Work
 
-<details><summary><h3>e-Portfolio Component: Faceted Data</h3></summary><br>  
+<details><summary><h3>e-Portfolio Submission</h3></summary><br>  
 
 Read Schmitz et al (2016) article about faceted data.
 
-Do you think this is a good approach to protect systems from data leakage? What are the pros and cons?
-Create a basic outline design of how you would create such a system in Python. 
-
-<img src="images/ssdcs_unit10_faceteddata.1.png?raw=true"/>
-<img src="images/ssdcs_unit10_faceteddata.2.png?raw=true"/>
+It's this website. Please feel free to navigate the Secure Software Development page from [here](https://patzsantos.github.io/e-portfolio-uoeo/ssdcs_landing). 
 </details>
 
 ## Collaboration
-<details><summary><h3>Collaborative Discussion 2: Cryptography case study - TrueCrypt Summary Post</h3></summary>
-<img src="images/ssdcs_unit10_summarypost1.jpg?raw=true"/>
+<details><summary><h3> Seminar Activity: Microservices and Microkernels Debate</h3></summary>
+
+Read Biggs et al (2018) and Bucchiarone et al (2018) as examples of modern views and approaches to the Monolithic vs. Microservices/ Microkernel debate.
+
+- Post your team’s stance to the forum along with justifications.
+- Read all the arguments for each position.
+- Choose one team response that disagrees with your team stance and post a message that refutes their argument.
+- During this week’s seminar session, all students will independently vote for which argument they believe was presented most persuasively.
+<img src="images/ssdcs_unit11_seminar1.jpg?raw=true">
 </details>
 
 ## Reflection
