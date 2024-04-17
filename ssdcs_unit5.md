@@ -40,10 +40,6 @@ The Cyclomatic Complexity is commonly considered in modules on testing the valid
 <img src="images/ssdcs_unit5_discussion1.png?raw=true"/>
 </details>
 
-<details><summary><h3>Team Bulwark Meeting 4 Minutes</h3></summary>
-<br>
-<img src="images/ssdcs_unit5_minutes.png?raw=true"/>
-</details>
 
 ## Reflection
 The assigned reading for this unit mostly covered Cyclomatic Complexity testing. There seems to be a mixed view on it, with some authors citing that they are unnecessary, while some saying that they are still valid in designing code today. In the same way, for the team discussion about Cyclomatic Complexity, there was no consensus within the team as well. We had divided opinions about it. You can see my opinion, as well as that of my team members, in the Cyclomatic Complexity individual portfolio component and team discussion in the sections above. <Br>
