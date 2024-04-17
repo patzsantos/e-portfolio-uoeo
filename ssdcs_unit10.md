@@ -13,7 +13,7 @@ _**In this unit we shall:** <br>_
 
 _**On completion of this unit you will be able to:** <br>_
 
--Describe a variety of distributed systems, and the pattern in which they evolved.<br>
+- Describe a variety of distributed systems, and the pattern in which they evolved.<br>
 - Discuss the security attacks that distributed systems, in particular, are vulnerable to.<br>
 - Understand the ways in which virtual systems need to be protected due to the specific nature of attacks on them.<br>
 
