@@ -10,6 +10,7 @@ _**In this unit we shall:** <br>_
 - Discuss future trends in the areas of secure design, development, programming languages and operating systems.<br>
 - Explain what is meant by Fog Computing, the Internet of Things and Cyber Physical Systems.<br>
 - Explore systems and solutions that can be investigated as possible research topics or fields.<br>
+<br>
 
 _**On completion of this unit you will be able to:** <br>_
 
@@ -23,7 +24,7 @@ _**On completion of this unit you will be able to:** <br>_
 
 <img src="images/ssdcs_unit11_coding2.png?raw=true"/>
 <img src="images/ssdcs_unit10_coding2.png?raw=true"/>
-</details>
+</details><br>
 
 ## Collaboration
 <details><summary><h3>Team Activity- Debate: Microservices and Microkernels</h3></summary>
