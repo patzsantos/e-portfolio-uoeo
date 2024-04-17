@@ -56,18 +56,17 @@ Examples:<br>
 <br>
 <img src="images/ssdcs_unit4_seminar_regex1.png?raw=true"/>
 <img src="images/ssdcs_unit4_seminar_regex2.png?raw=true"/>
-</details><br>
+</details>
 
+<details><summary><h3>Team Bulwark Meeting 3 Minutes</h3></summary>
+<br>
+<img src="images/ssdcs_unit4_minutes.png?raw=true"/>
+</details>
 
-<!--## Collaboration
-
-<details><summary><h3>Bulwark Meeting 4 Minutes </h3></summary>
-
-<img src="images/ssdcs_unit3_summary1.jpg?raw=true"/>
-<img src="images/ssdcs_unit3_summary2.jpg?raw=true"/>
-<img src="images/ssdcs_unit3_summary3.jpg?raw=true"/>
-<img src="images/ssdcs_unit3_summary4.jpg?raw=true"/>
-<img src="images/ssdcs_unit3_summary5.jpg?raw=true"/></details> <br>-->
+<details><summary><h3>Team Bulwark Questions for Consultation With Tutor</h3></summary>
+<br>
+<img src="images/ssdcs_unit4_consultation.png?raw=true"/>
+</details>
 
 ## Reflection
 I was a bit late with watching the seminar from last week, 'Programming Languages'. I caught up on that this week, which was timely since it was covered in the 3rd seminar, 'Programming Language Concepts'. Honestly, there was too much new information for me. It was good to see some concepts learned during the OOP module reviewed during the lecturecast and seminar. I learned that there are 4 traditionally accepted core paradigms of programming. These are Imperative, Functional, Logical, and Object Oriented.<br>
