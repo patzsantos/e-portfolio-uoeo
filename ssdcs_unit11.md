@@ -35,7 +35,7 @@ The forum has a message that says: “Torvalds has been proven wrong and it only
 On the forum post a message either agreeing or disagreeing with the above and give a justification (ideally with an academic reference) supporting your view.
 Outside the forum, discuss your positions in your team and come up with a team stance. This should be shared in Unit 12.
 <img src="images/ssdcs_unit11_debate1.jpg?raw=true"/>
-</details>
+</details><Br>
 
 ## Reflection
 
