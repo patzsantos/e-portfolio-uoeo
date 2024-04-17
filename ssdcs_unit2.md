@@ -53,7 +53,7 @@ Your posts should be a maximum of 300 words. Please include sufficient content s
 <details><summary><h3>Team Bulwark Meeting 1 Minutes</h3></summary>
 <br>
 <img src="images/ssdcs_unit2_minutes.png?raw=true"/>
-</details>
+</details><br>
 
 ## Reflection
 
