@@ -21,8 +21,7 @@ _**On completion of this unit you will be able to:** <br>_
 
 <details><summary><h3>e-Portfolio Submission</h3></summary><br>  
 
-It's this website. Please feel free to navigate the Secure Software Development page from [here](https://patzsantos.github.io/e-portfolio-uoeo/ssdcs_landing). 
-</details>
+It's this website. Please feel free to navigate the Secure Software Development page from [here](https://patzsantos.github.io/e-portfolio-uoeo/ssdcs_landing).</details>
 
 ## Collaboration
 <details><summary><h3> Seminar Activity: Microservices and Microkernels Debate</h3></summary>
