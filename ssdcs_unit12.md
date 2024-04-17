@@ -16,12 +16,13 @@ _**On completion of this unit you will be able to:** <br>_
 - Recommend a strategy around which methodology to adopt: monolithic or microservices.<br>
 - Provide evidence to support your recommendation.<Br>
 - Explain how faceted data approaches work.<br>
+<br>
 
 ## Independent Work
 
 <details><summary><h3>e-Portfolio Submission</h3></summary><br>  
 
-It's this website. Please feel free to navigate the Secure Software Development page from [here](https://patzsantos.github.io/e-portfolio-uoeo/ssdcs_landing).</details>
+It's this website. Please feel free to navigate the Secure Software Development page from [here](https://patzsantos.github.io/e-portfolio-uoeo/ssdcs_landing).</details><br>
 
 ## Collaboration
 <details><summary><h3> Seminar Activity: Microservices and Microkernels Debate</h3></summary>
