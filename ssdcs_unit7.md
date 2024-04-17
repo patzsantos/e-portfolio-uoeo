@@ -21,22 +21,50 @@ _**On completion of this unit you will be able to:** <br>_
 
 ## Independent Work
 
-<details><summary><h3>Equivalence Testing in Python </h3></summary><br>  
-
-The Cyclomatic Complexity is commonly considered in modules on testing the validity of code design today. However, in your opinion, should it be? Does it remain relevant today? Specific to the focus of this module, is it relevant in our quest to develop secure software? Justify all opinions which support your argument and share your responses with your team.
+<details><summary><h3>e-Portfolio Component: What is an Ontology?</h3></summary><br>  
+What do you understand about the ontology that has been presented for your reading this week? Could you attempt to define an ontology that would be relevant to the system that you are designing for the summative assessment?
 <br>
-<img src="images/ssdcs_unit5_equivalence1.png?raw=true"/>
-<img src="images/ssdcs_unit5_equivalence2.png?raw=true"/>
+<img src="images/ssdcs_unit7_equivalence1.png?raw=true"/>
+<img src="images/ssdcs_unit7_equivalence2.png?raw=true"/>
 </details>
 
-<details><summary><h3>Portfolio Component: Exploring the Cyclomatic Complexity’s Relevance Today </h3></summary><br>  
-The Cyclomatic Complexity is commonly considered in modules on testing the validity of code design today. However, in your opinion, should it be? Does it remain relevant today? Specific to the focus of this module, is it relevant in our quest to develop secure software? Justify all opinions which support your argument and share your responses with your team.
+<details><summary><h3>Activity 1: Exploring a Simple Python Shell</h3></summary><br>  
+In this session, you will create a command shell in Python, and then run it and answer questions about it. You can use your chosen Jupyter Notebook space for your work.
+
+Review the blogs at Praka (2018) and Szabo (n.d.) and then create a CLI/ shell that implements the following:
+
+When you enter the command LIST it lists the contents of the current directory
+The ADD command will add the following two numbers together and provide the result
+The HELP command provides a list of commands available
+The EXIT command exits the shell
+Add suitable comments to your code and add the program to your e-portfolio. Be prepared to demonstrate it in the seminar session next week.
+
+Run the shell you have created, try a few commands and then answer the questions below. Be prepared to discuss your answers in the seminar.
+
+What are the two main security vulnerabilities with your shell?
+What is one recommendation you would make to increase the security of the shell?
+Add a section to your e-portfolio that provides a (pseudo)code example of changes you would make to the shell to improve its security.
+Remember to also record your results, ideas and team discussions in your e-portfolio.
 <br>
-<img src="images/ssdcs_unit5_portfolio_cyclomatic1.png?raw=true"/>
-<img src="images/ssdcs_unit5_portfolio_cyclomatic2.png?raw=true"/>
+<br>
+<img src="images/ssdcs_unit7_pythonshell1.png?raw=true"/>
+<img src="images/ssdcs_unit7_pythonshell2.png?raw=true"/>
+</details>
+
+<details><summary><h3>Activity 2: Developing an API for a Distributed Environment</h3></summary><br>  
+In this session, you will create a RESTful API which can be used to create and delete user records. Responses to the questions should be recorded in your e-portfolio.
+
+You are advised to use these techniques to create an API for your team’s submission in Unit 11 and be prepared to demonstrate it during next week’s seminar (Unit 10). Remember that you can arrange a session with the tutor during office hours for more support, if required.
+
+Using the Jupyter Notebook workspace, create a file named api.py and copy the following code into it (a copy is provided for upload to Codio/GitHub): You can install Jupyter Notebook on your local machine following these instructions or via the University of Essex Software Hub.
+
+#source of code: Codeburst
+<br>
+<img src="images/ssdcs_unit7_api1.png?raw=true"/>
+<img src="images/ssdcs_unit7_api1.png?raw=true"/>
 </details><br>
 
-## Collaboration
+<!--## Collaboration
 <details><summary><h3>Portfolio Component: 'Exploring the Cyclomatic Complexity’s Relevance Today' Teamwork Discussion</h3></summary>
 
 <img src="images/ssdcs_unit5_discussion1.png?raw=true"/>
@@ -45,15 +73,11 @@ The Cyclomatic Complexity is commonly considered in modules on testing the valid
 <details><summary><h3>Team Bulwark Meeting 4 Minutes</h3></summary>
 <br>
 <img src="images/ssdcs_unit5_minutes.png?raw=true"/>
-</details>
+</details>-->
 
 
 
 ## Reflection
-The assigned reading for this unit mostly covered Cyclomatic Complexity testing. There seems to be a mixed view on it, with some authors citing that they are unnecessary, while some saying that they are still valid in designing code today. In the same way, for the team discussion about Cyclomatic Complexity, there was no consensus within the team as well. We had divided opinions about it. You can see my opinion, as well as that of my team members, in the Cyclomatic Complexity individual portfolio component and team discussion in the sections above. <Br>
 
-The lecturecast for the week is about Testing. I learned about the reasons for testing, and what steps to take in order to implement it. It is important to test code early in the Software Development Life Cycle in order to avoid wasting time and resources. MITRE listed down software weaknesses to watch out for developing software such as user session errors, bad coding principles, processing errors, amongst others. OWASP also provides developers testing principles and techniques to write better and more secure code.<br>
-
-There are many testing methods and designs to follow. Therefore, it is important for developers to fully understand what and who their software is intended for, so that they can implement the correct testing methods throughout its creation. At the same time, I think that knowing what to ask when planning tests and familiarising myself with testing standards, testing techniques, testing tools, and automated testing in Python, will help me towards the coding exericises in the next units, as well as that of the individual project. <br>
 
 **_[Return to Software Secure Development Module Page](https://patzsantos.github.io/e-portfolio-uoeo/ssdcs_landing)_**
