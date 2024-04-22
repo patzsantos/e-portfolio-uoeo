@@ -33,15 +33,12 @@ _**On completion of this unit you will be able to:** <br>_
 <img src="images/ssdcs_unit6_seminar3.2.png?raw=true"/><br>
 <img src="images/ssdcs_unit6_seminar4.png?raw=true"/>
 <img src="images/ssdcs_unit6_seminar4.1.png?raw=true"/>
-
 </details><br>
 
 ## Collaboration
-<details><summary><h3>Portfolio Component: 'Exploring the Cyclomatic Complexity’s Relevance Today' Teamwork Discussion</h3></summary>
+<details><summary><h3>Team Development Design Project Github link</h3></summary>
 
-<img src="images/ssdcs_unit5_discussion1.jpg?raw=true"/>
-<img src="images/ssdcs_unit5_discussion2.jpg?raw=true"/>
-</details>
+[click here](www.notyettttttttt.com) </details>
 
 <details><summary><h3>Team Bulwark Meeting 5 Minutes</h3></summary>
 <br>
@@ -49,5 +46,11 @@ _**On completion of this unit you will be able to:** <br>_
 </details><br>
 
 ## Reflection
+
+At the start of the module, our team had our last official meeting. We only had things to smooth out about the document, and we just wanted to consult with Dr. Peoples one last time on the seminar. I honestly felt that I was checking and editing the paper too much, as I wanted the team to a submit a quality document that adhered to academic honesty. 
+
+Since we are almost done with the paper, I was able to finish the seminar activities before the actual seminar. I am happy to be able to use more types of linters. The new ones I used this week are 'flake8' and 'mccabe'. I really wish I knew how to use these earlier, as they would have helped in detecting errors in my coding assessments during earlier modules. I noticed that flake8 is quicker than pylint, though it does not detect all errors. I was also able to see how complex my code is, in relation to last week's e-portfolio activity, by running 'mccabe'. 
+
+During the seminar, we had really valuable input from Dr. Peoples as to how to further improve the paper, and we applied that as soon as possible. We finished the paper on the internal deadline our team set, which was Friday. That is 3 days earlier than the deadline. 
 
 **_[Return to Software Secure Development Module Page](https://patzsantos.github.io/e-portfolio-uoeo/ssdcs_landing)_**
