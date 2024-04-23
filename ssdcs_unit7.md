@@ -52,17 +52,20 @@ Remember to also record your results, ideas and team discussions in your e-portf
 </details>
 
 <details><summary><h3>Activity 2: Developing an API for a Distributed Environment</h3></summary><br>  
-In this session, you will create a RESTful API which can be used to create and delete user records. Responses to the questions should be recorded in your e-portfolio.
+In this session, you will create a RESTful API which can be used to create and delete user records. Responses to the questions should be recorded in your e-portfolio.<br>
 
-You are advised to use these techniques to create an API for your team’s submission in Unit 11 and be prepared to demonstrate it during next week’s seminar (Unit 10). Remember that you can arrange a session with the tutor during office hours for more support, if required.
-
-Using the Jupyter Notebook workspace, create a file named api.py and copy the following code into it (a copy is provided for upload to Codio/GitHub): You can install Jupyter Notebook on your local machine following these instructions or via the University of Essex Software Hub.
+Using the Jupyter Notebook workspace, create a file named api.py and copy the following code into it (a copy is provided for upload to Codio/GitHub): You can install Jupyter Notebook on your local machine following these instructions or via the University of Essex Software Hub.<Br>
 
 #source of code: Codeburst
 <br>
-<img src="images/ssdcs_unit7_api1.png?raw=true"/>
-<img src="images/ssdcs_unit7_api1.png?raw=true"/>
+
+<img src="images/ssdcs_unit7_apiq1.png?raw=true"/><br>
+<img src="images/ssdcs_unit7_api1.png?raw=true"/><br>
+
+<img src="images/ssdcs_unit7_apiq23.png?raw=true"/><br>
+<img src="images/ssdcs_unit7_api2.png?raw=true"/>
 </details>
+
 <!--## Collaboration
 <details><summary><h3>Portfolio Component: 'Exploring the Cyclomatic Complexity’s Relevance Today' Teamwork Discussion</h3></summary>
 
