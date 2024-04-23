@@ -34,10 +34,10 @@ In this session, you will create a command shell in Python, and then run it and 
 
 Review the blogs at Praka (2018) and Szabo (n.d.) and then create a CLI/ shell that implements the following:<br>
 
-- When you enter the command LIST it lists the contents of the current directory
-- The ADD command will add the following two numbers together and provide the result
-- The HELP command provides a list of commands available
-- The EXIT command exits the shell
+- When you enter the command LIST it lists the contents of the current directory<br>
+- The ADD command will add the following two numbers together and provide the result<br>
+- The HELP command provides a list of commands available<Br>
+- The EXIT command exits the shell<br>
 - Add suitable comments to your code and add the program to your e-portfolio. Be prepared to demonstrate it in the seminar session next week.<Br>
 
 <img src="images/ssdcs_unit7_simpleshell1.png?raw=true"/>
