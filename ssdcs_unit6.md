@@ -19,18 +19,24 @@ _**On completion of this unit you will be able to:** <br>_
 
 ## Independent Work
 
-<details><summary><h3>Unit 6 Seminar Activities: Exploring Linters to Support Testing in Python</h3></summary><br>  
-
+<details><summary><h3>Unit 6 Seminar Activity: Exploring Linters to Support Testing in Python: pylint 1</h3></summary><br>  
+  
 <img src="images/ssdcs_unit6_seminar1.png?raw=true"/>
-<img src="images/ssdcs_unit6_seminar1.1.png?raw=true"/>
-<img src="images/ssdcs_unit6_seminar1.2.png?raw=true"/><br>
+<img src="images/ssdcs_unit6_seminar1.1.png?raw=true"/><br>
+<img src="images/ssdcs_unit6_seminar1.2.png?raw=true"/> </details>
+
+<details><summary><h3>Unit 6 Seminar Activity: Exploring Linters to Support Testing in Python: pylint 2</h3></summary><br>   
 <img src="images/ssdcs_unit6_seminar2.png?raw=true"/>
 <img src="images/ssdcs_unit6_seminar2.1.png?raw=true"/>
 <img src="images/ssdcs_unit6_seminar2.2.png?raw=true"/>
-<img src="images/ssdcs_unit6_seminar2.3.png?raw=true"/><br>
+<img src="images/ssdcs_unit6_seminar2.3.png?raw=true"/><br> </details>
+
+<details><summary><h3>Unit 6 Seminar Activity: Exploring Linters to Support Testing in Python: flake8 </h3></summary><br>  
 <img src="images/ssdcs_unit6_seminar3.png?raw=true"/>
 <img src="images/ssdcs_unit6_seminar3.1.png?raw=true"/>
-<img src="images/ssdcs_unit6_seminar3.2.png?raw=true"/><br>
+<img src="images/ssdcs_unit6_seminar3.2.png?raw=true"/><br></details>
+
+<details><summary><h3>Unit 6 Seminar Activity: Exploring Linters to Support Testing in Python: mccabe</h3></summary><br>  
 <img src="images/ssdcs_unit6_seminar4.png?raw=true"/>
 <img src="images/ssdcs_unit6_seminar4.1.png?raw=true"/>
 </details><br>
