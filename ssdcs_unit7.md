@@ -43,6 +43,8 @@ Review the blogs at Praka (2018) and Szabo (n.d.) and then create a CLI/ shell t
 <img src="images/ssdcs_unit7_simpleshell1.png?raw=true"/>
 <img src="images/ssdcs_unit7_simpleshell2.png?raw=true"/>
 
+
+
 <!--Run the shell you have created, try a few commands and then answer the questions below. Be prepared to discuss your answers in the seminar.
 
 What are the two main security vulnerabilities with your shell?
