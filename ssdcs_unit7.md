@@ -32,16 +32,22 @@ What do you understand about the ontology that has been presented for your readi
 
 <details><summary><h3>Activity 1: Exploring a Simple Python Shell</h3></summary><br>  
 In this session, you will create a command shell in Python, and then run it and answer questions about it. You can use your chosen Jupyter Notebook space for your work.<br>
-
+<br>
+  
 Review the blogs at Praka (2018) and Szabo (n.d.) and then create a CLI/ shell that implements the following:<br>
+<br>
 
 - When you enter the command LIST it lists the contents of the current directory<br>
+<br>
 
 - The ADD command will add the following two numbers together and provide the result<br>
+<br>
 
 - The HELP command provides a list of commands available<Br>
+<br>
 
 - The EXIT command exits the shell<br>
+<br>
 
 - Add suitable comments to your code and add the program to your e-portfolio. Be prepared to demonstrate it in the seminar session next week.<Br>
 
