@@ -24,9 +24,9 @@ _**On completion of this unit you will be able to:** <br>_
 <details><summary><h3>Activity: Exploring Python Tools and Features Part 1</h3></summary><br>  
 In this example, you will compile and run a program in C using the Jupyter notebook workspace provided (Buffer Overflow in C). The program is already provided as bufoverflow.c - a simple program that creates a buffer and then asks you for a name, and prints it back out to the screen.
 <br>
+<img src="images/ssdcs_unit3_activityanswer1.png?raw=true"/>
 <img src="images/ssdcs_unit3_activity1.png?raw=true"/>
 <img src="images/ssdcs_unit3_activity2.png?raw=true"/>
-<img src="images/ssdcs_unit3_activityanswer1.png?raw=true"/>
 <br>
 <br>
 </details>
@@ -35,11 +35,12 @@ Now carry out a comparison of this code with one in Python (Buffer Overflow in P
 <br>
 In your workspace, you will be using the file called Overflow.py. You are able to download the zip file 'buffer-overflow-in-python' along with additional instructions in the PDF 'Exploring Python Tools and Features'.
 <br>
-<img src="images/ssdcs_unit3_activity3.png?raw=true"/>
 <img src="images/ssdcs_unit3_activityanswer2.png?raw=true"/>
+<img src="images/ssdcs_unit3_activity3.png?raw=true"/>
+<img src="images/ssdcs_unit3_activityanswer3.png?raw=true"/>
 <img src="images/ssdcs_unit3_activity4.png?raw=true"/>
 <img src="images/ssdcs_unit3_activity5.png?raw=true"/>
-<img src="images/ssdcs_unit3_activityanswer3.png?raw=true"/>
+
 <br>
 <br>
 </details><br>
