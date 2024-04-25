@@ -36,8 +36,8 @@ One of the classic programming problems that is often solved by recursion is the
 <br>
 Read the explanation, study the code and then create your own version using Python (if you want to make it more interesting you can use asterisks to represent the disks). Create a version that asks for the number of disks and then executes the moves, and then finally displays the number of moves executed.<br>
 <br>
-<img src="images/ssdcs_unit4_seminar_recursion1.png?raw=true"/>
 <img src="images/ssdcs_unit4_seminar_recursion2.jpg?raw=true"/>
+<img src="images/ssdcs_unit4_seminar_recursion1.png?raw=true"/>
 </details>
 <details><summary><h3>Seminar Activity: Regex</h3></summary><br>  
 <br>
@@ -54,8 +54,8 @@ Examples:<br>
 - W1A 1HQ<br>
 - EC1A 1BB<br>
 <br>
-<img src="images/ssdcs_unit4_seminar_regex1.png?raw=true"/>
 <img src="images/ssdcs_unit4_seminar_regex2.png?raw=true"/>
+<img src="images/ssdcs_unit4_seminar_regex1.png?raw=true"/>
 </details><br>
 
 ## Collaboration
