@@ -22,8 +22,8 @@ _**On completion of this unit you will be able to:** <br>_
 
 <details><summary><h3>Equivalence Testing in Python </h3></summary><br>  
 <br>
-<img src="images/ssdcs_unit5_equivalence1.png?raw=true"/>
 <img src="images/ssdcs_unit5_equivalence2.png?raw=true"/>
+<img src="images/ssdcs_unit5_equivalence1.png?raw=true"/>
 </details>
 
 <details><summary><h3>Portfolio Component: Exploring the Cyclomatic Complexity’s Relevance Today </h3></summary><br>  
