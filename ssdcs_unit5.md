@@ -22,6 +22,14 @@ _**On completion of this unit you will be able to:** <br>_
 
 <details><summary><h3>Equivalence Testing in Python </h3></summary><br>  
 <br>
+Run equivalence.py in your chosen Jupyter Notebook workspace - Testing with Python - which is an implementation of equivalence partitioning. This test partitions integers [-3,5] into equivalence classes based on lambda x, y: (x-y)%4 == 0.<br>
+<br>
+In the output, you should be able to see how a set of objects to be partitioned are considered, and a function evaluates if the two objects are equivalent before printing the result.<br>
+<br>
+test_equivalence_partition() produces the following output:<br>
+<br>
+set([1, -3]) set([2, -2]) set([3, -1]) set([0, 4]) 0 : set([0, 4]) 1 : set([1, -3]) 2 : set([2, -2]) 3 : set([3, -1]) 4 : set([0, 4]) -2 : set([2, -2]) -3 : set([1, -3]) -1 : set([3, -1])
+<Br>
 <img src="images/ssdcs_unit5_equivalence2.png?raw=true"/>
 <img src="images/ssdcs_unit5_equivalence1.png?raw=true"/>
 </details>
@@ -29,10 +37,7 @@ _**On completion of this unit you will be able to:** <br>_
 <details><summary><h3>Portfolio Component: Exploring the Cyclomatic Complexity’s Relevance Today </h3></summary><br>  
 The Cyclomatic Complexity is commonly considered in modules on testing the validity of code design today. However, in your opinion, should it be? Does it remain relevant today? Specific to the focus of this module, is it relevant in our quest to develop secure software? Justify all opinions which support your argument and share your responses with your team.
 <br>
-
-
-
-  
+<br>
 <img src="images/ssdcs_unit5_portfolio_cyclomatic1.png?raw=true"/>
 <img src="images/ssdcs_unit5_portfolio_cyclomatic2.png?raw=true"/>
 </details><br>
