@@ -25,8 +25,8 @@ _**On completion of this unit you will be able to:** <br>_
 <details><summary><h3>e-Portfolio Component: What is an Ontology?</h3></summary><br>  
 What do you understand about the ontology that has been presented for your reading this week? Could you attempt to define an ontology that would be relevant to the system that you are designing for the summative assessment?
 <br>
-<img src="images/ssdcs_unit7_equivalence1.png?raw=true"/>
-<img src="images/ssdcs_unit7_equivalence2.png?raw=true"/>
+<img src="images/ssdcs_unit7_ontology1.jpg?raw=true"/>
+<img src="images/ssdcs_unit7_ontology2.jpg?raw=true"/>
 
 </details>
 
