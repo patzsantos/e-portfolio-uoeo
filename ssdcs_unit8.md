@@ -35,7 +35,7 @@ We will review your work from Unit 7 (Python Shell) in this week’s seminar, as
 <img src="images/ssdcs_unit8_cryptography2.png?raw=true"/>
 </details>
 
-<details><summary><h3>Activity 1: Exploring a Simple Python Shell</h3></summary><br>  
+<!--<details><summary><h3>Activity 1: Exploring a Simple Python Shell</h3></summary><br>  
 In this session, you will create a command shell in Python, and then run it and answer questions about it. You can use your chosen Jupyter Notebook space for your work.
 
 Review the blogs at Praka (2018) and Szabo (n.d.) and then create a CLI/ shell that implements the following:
@@ -69,7 +69,8 @@ Using the Jupyter Notebook workspace, create a file named api.py and copy the fo
 <br>
 <img src="images/ssdcs_unit7_pythonshell1.png?raw=true"/>
 <img src="images/ssdcs_unit7_pythonshell2.png?raw=true"/>
-</details><br>
+</details><br>-->
+<br>
 
 ## Collaboration
 <details><summary><h3>Collaborative Discussion 2: Cryptography case study - TrueCrypt</h3></summary>
