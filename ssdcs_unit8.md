@@ -76,16 +76,17 @@ Using the Jupyter Notebook workspace, create a file named api.py and copy the fo
 <details><summary><h3>Collaborative Discussion 2: Cryptography case study - TrueCrypt</h3></summary>
 TrueCrypt was a popular and well-respected operating system add-on that could create encrypted volumes on a Windows and/or Linux system. In addition, it was also designed to create a complete, bootable volume that could encrypt the entire operating system and data for a Windows XP system. It was discontinued in 2014.<br>
 <br>
-
+<br>
 Case Study: Read the TrueCrypt cryptanalysis by Junestam & Guigo (2014) (link is in the reading list) and then answer the following questions:<br>
 <br>
-
+<br>
 The (anonymous) TrueCrypt authors have said “Using TrueCrypt is not secure as it may contain unfixed security issues” (TrueCrypt, 2014). Does the cryptanalysis provided above prove or disprove this assumption?
 Would you be prepared to recommend TrueCrypt to a friend as a secure storage environment? What caveats (if any) would you add?
 Remember to save this to your e-portfolio.<br>
 <br>
-
+<br>
 Present an ontology design which captures the weaknesses of TrueCrypt, and organise them according to their severity. Expand the ontology design by considering the factors which will cause each weakness to become an issue from a user's perspective. For example, if a user wishes to encrypt a disk storing bank details using TrueCrypt, which weakness of the software might cause this specific user goal to be negatively impacted? <br>
+<br>
 <img src="images/ssdcs_unit8_initial1.jpg?raw=true"/>
 <img src="images/ssdcs_unit8_initial2.jpg?raw=true"/>
 <img src="images/ssdcs_unit8_initial3.jpg?raw=true"/>
