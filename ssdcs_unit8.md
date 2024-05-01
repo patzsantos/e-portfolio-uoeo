@@ -87,6 +87,9 @@ Remember to save this to your e-portfolio.
 
 Present an ontology design which captures the weaknesses of TrueCrypt, and organise them according to their severity. Expand the ontology design by considering the factors which will cause each weakness to become an issue from a user's perspective. For example, if a user wishes to encrypt a disk storing bank details using TrueCrypt, which weakness of the software might cause this specific user goal to be negatively impacted? 
 <img src="images/ssdcs_unit8_initial1.jpg?raw=true"/>
+<img src="images/ssdcs_unit8_initial2.jpg?raw=true"/>
+<img src="images/ssdcs_unit8_initial3.jpg?raw=true"/>
+<img src="images/ssdcs_unit8_initial4.jpg?raw=true"/>
 </details><br>
 
 ## Reflection
