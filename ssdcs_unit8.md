@@ -100,6 +100,6 @@ This week, I learned about cryptography, encryption, and decryption. Although I 
 
 For the cryptography programming exercise, I was able to produce an encrypted text file using reverse cipher, which I was able to present during the seminar. It is very simple, but I am happy that I was able to see firsthand how they look like when executed. However, more secure encryption methods should be used to meet GDPR standards. <br>
 
-I investigated about TrueCrypt for this week's collaborative discussion. In my findings, because it does not meet current security standards and has no recent updates, it cannot be recommended to friends despite exhibiting onlylow and medium severity weaknesses found in the cryptanalysis of Junestam and Guigo (2014). <br>
+I investigated about TrueCrypt for this week's collaborative discussion. In my findings, because it does not meet current security standards and has no recent updates, it cannot be recommended to friends despite exhibiting only information, low, and medium severity weaknesses found in the cryptanalysis of Junestam and Guigo (2014). <br>
 
 **_[Return to Software Secure Development Module Page](https://patzsantos.github.io/e-portfolio-uoeo/ssdcs_landing)_**
