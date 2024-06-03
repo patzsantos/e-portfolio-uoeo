@@ -57,7 +57,7 @@ Your posts should be a maximum of 300 words. Please include sufficient content s
 
 ## Reflection
 
-We had our second seminar this week entitled Scrum Security Review. I learned about the software development stages during the Scrum Agile Approach to project management. We further discussed which UMLs can be best presented in a flowchart, and the examples given gave me an idea as to how to better explain processes through activity and swimlane diagrams. <br>
+We had our second seminar this week entitled Scrum Security Review. I learned about the software development stages during the Scrum Agile Approach to project management. We further discussed which UMLs can be best presented in a flowchart, and the examples given gave me an idea how to better explain processes through activity and swimlane diagrams. <br>
 
 Right after the seminar, my team had our kick-off meeting. It was nice to align our goals, and have a preview of how we will tackle our project over the next 5 weeks. I am honestly a little overwhelmed with this project, but more so with the individual coding part. But I am happy with how the team has been communicating well these past two weeks, and we seem to have the same goals in mind.<br>
 
