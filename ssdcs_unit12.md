@@ -22,13 +22,16 @@ _**On completion of this unit you will be able to:** <br>_
 
 <details><summary><h3>e-Portfolio Submission</h3></summary><br>  
 
-It's this website. Please feel free to navigate the Secure Software Development page from https://patzsantos.github.io/e-portfolio-uoeo/ssdcs_landing .</details><br>
+It's this website. Please feel free to navigate the Secure Software Development page from https://patzsantos.github.io/e-portfolio-uoeo/ssdcs_landing .</details>
 
 <details><summary><h3>Unit Action Plan</h3></summary><br>  
 
-<img src="images/ssdcs_unit12_actionplan1.jpg?raw=true"></details><br>
-<img src="images/ssdcs_unit12_actionplan2.jpg?raw=true"></details><br>
+<img src="images/ssdcs_unit12_actionplan1.jpg?raw=true"><br>
+<img src="images/ssdcs_unit12_actionplan2.jpg?raw=true"></details>
 
+<details><summary><h3>Skills Matrix</h3></summary><br>  
+
+<img src="images/ssdcs_unit12_skillsmatrix1.jpg?raw=true"></details><br>
 
 ## Collaboration
 <details><summary><h3> Seminar Activity: Microservices and Microkernels Debate</h3></summary>
