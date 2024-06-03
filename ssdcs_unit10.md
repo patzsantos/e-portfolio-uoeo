@@ -51,7 +51,7 @@ Read the paper: S. Fiore et al. (2019) (in your reading list for this week). Mak
 
 ## Reflection
 
-In unit 10, I wrote a summary post to wrap up the TrueCrypt cryptography case study summary post. All of my peers and I concluded that TrueCrypt is not safe anymore, hence, it is recommended to search for other alternative encryption tools such as BestCrypt and BitLocker. 
+In unit 10, I wrote a summary post to wrap up the TrueCrypt cryptography case collaborative discussion. All of my peers and I concluded that TrueCrypt is not safe anymore, hence, it is recommended to search for other alternative encryption tools such as BestCrypt and BitLocker. 
 
 I also read about faceted data for the Independent work this week. I learned that faceted data increases security by classifying what type of information each user can see, depending on their security clearance. The part wherein we had to create a basic outline design of how to create such a system in Python was a little difficult to me. I am not sure if what I did was correct, but I still tried it, based on the reading from Schmitz et al. (2016:19)
 
