@@ -91,7 +91,7 @@ Using the Jupyter Notebook workspace, create a file named api.py and copy the fo
 
 ## Reflection
 
-We finally submitted our Team Development Project this week. I was tasked with uploading the document. Our greats were released pretty quickly. Personally, I am happy with the feedback that we got. I felt that our efforts and teamwork were recognised. Experiencing working with a team from different cultures and timezones is a good preparation for me, just in case I get the chance to get involved in international computing projects in the future. 
+We finally submitted our Team Development Project this week. I was tasked with uploading the document. Our grades were released pretty quickly. Personally, I am happy with the feedback that we got. I felt that our efforts and teamwork were recognised. Experiencing working with a team from different cultures and timezones is a good preparation for me, just in case I get the chance to get involved in international computing projects in the future. 
 
 I mostly focused on working on the individual activities this week. First is watching the lecturecast about operating system security. Then I read the articles about ontology, which I think will help me in the collaborative discussion that will commence next week. Honestly, I am a bit confused as to how to make it, as there seems to be no right or wrong way. However, it would be important to use Web Ontology Language (OWL). 
 
