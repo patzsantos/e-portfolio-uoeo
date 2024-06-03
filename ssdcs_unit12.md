@@ -20,6 +20,8 @@ _**On completion of this unit you will be able to:** <br>_
 
 ## Independent Work
 
+_Note:_ The action plan and skills matrix might look small in this webpage. Here is a [Github folder](https://github.com/patzsantos/e-portfolio-uoeo/tree/module3/ssdcs/Action%20Plan%20and%20Skills%20Matrix) link so that you can have a better look at them. 
+
 <details><summary><h3>e-Portfolio Submission</h3></summary><br>  
 
 It's this website. Please feel free to navigate the Secure Software Development page from https://patzsantos.github.io/e-portfolio-uoeo/ssdcs_landing .</details>
@@ -42,7 +44,7 @@ Read Biggs et al (2018) and Bucchiarone et al (2018) as examples of modern views
 - Read all the arguments for each position.
 - Choose one team response that disagrees with your team stance and post a message that refutes their argument.
 - During this week’s seminar session, all students will independently vote for which argument they believe was presented most persuasively.
-<img src="images/ssdcs_unit11_seminar1.jpg?raw=true">
+<img src="images/ssdcs_unit12_debate.png?raw=true">
 </details><Br>
 
 ## Reflection
